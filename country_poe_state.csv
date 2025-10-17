@@ -1,0 +1,5295 @@
+country,poe,state,Total_Arrivals
+SGP,Bangunan Sultan Iskandar,Johor,15629931
+SGP,Gelang Patah,Johor,6455543
+THA,Bukit Kayu Hitam,Kedah,1486944
+THA,Padang Besar,Perlis,1150059
+IDN,LTA Kuala Lumpur Terminal 2,Selangor,1120784
+IDN,LTA Kuala Lumpur Terminal 1,Selangor,879156
+SGP,Woodlands Train Checkpoint,Singapore,849696
+CHN,LTA Kuala Lumpur Terminal 1,Selangor,705066
+IDN,LTA Bayan Lepas,Pulau_Pinang,636115
+BGD,LTA Kuala Lumpur Terminal 1,Selangor,634578
+BRN,Sungai Tujuh,Sarawak,601869
+CHN,LTA Kuala Lumpur Terminal 2,Selangor,557500
+IND,LTA Kuala Lumpur Terminal 1,Selangor,515147
+IND,LTA Kuala Lumpur Terminal 2,Selangor,486319
+IDN,Stulang Laut,Johor,468743
+THA,Rantau Panjang,Kelantan,462304
+SGP,LTA Kuala Lumpur Terminal 2,Selangor,435183
+IDN,Bangunan Sultan Iskandar,Johor,369682
+BRN,Pos Imigresen Mengkalap,Sarawak,350463
+IDN,Tebedu,Sarawak,345915
+CHN,Gelang Patah,Johor,342036
+NPL,LTA Kuala Lumpur Terminal 1,Selangor,340873
+SGP,LTA Bayan Lepas,Pulau_Pinang,331275
+CHN,Bangunan Sultan Iskandar,Johor,308966
+SGP,LTA Kuala Lumpur Terminal 1,Selangor,284620
+AUS,LTA Kuala Lumpur Terminal 1,Selangor,280841
+IDN,Gelang Patah,Johor,258403
+GBR,LTA Kuala Lumpur Terminal 1,Selangor,249742
+JPN,LTA Kuala Lumpur Terminal 1,Selangor,244095
+PAK,LTA Kuala Lumpur Terminal 1,Selangor,236246
+IDN,Jeti Pasir Gudang,Johor,231320
+IDN,Biawak,Sarawak,218833
+PHL,Bangunan Sultan Iskandar,Johor,217431
+BRN,Pandaruan,Sarawak,216543
+IDN,Terminal Feri Puteri Harbour,Johor,215974
+KOR,LTA Kota Kinabalu,Sabah,211206
+BRN,Tedungan,Sarawak,205621
+IND,Gelang Patah,Johor,197571
+THA,Pengkalan Hulu (Bukit Berapit),Perak,196815
+IDN,Jeti Kukup,Johor,195987
+PHL,LTA Kuala Lumpur Terminal 2,Selangor,194705
+BGD,LTA Kuala Lumpur Terminal 2,Selangor,194671
+IND,Bangunan Sultan Iskandar,Johor,193168
+THA,Pos Imigresen Bukit Bunga,Kelantan,183970
+TWN,LTA Kuala Lumpur Terminal 1,Selangor,176425
+USA,LTA Kuala Lumpur Terminal 1,Selangor,173209
+IDN,Pos Kawalan Imigresen Muar,Johor,165258
+VNM,LTA Kuala Lumpur Terminal 1,Selangor,163677
+KOR,LTA Kuala Lumpur Terminal 1,Selangor,159254
+VNM,Gelang Patah,Johor,159142
+AUS,LTA Kuala Lumpur Terminal 2,Selangor,159036
+THA,LTA Kuala Lumpur Terminal 2,Selangor,156900
+PHL,Gelang Patah,Johor,154736
+VNM,LTA Kuala Lumpur Terminal 2,Selangor,148072
+IDN,Jeti Port Dickson,Negeri_Sembilan,138739
+THA,Pengkalan Kubur,Kelantan,116538
+JPN,LTA Kuala Lumpur Terminal 2,Selangor,115386
+PHL,LTA Kuala Lumpur Terminal 1,Selangor,114073
+KOR,LTA Kuala Lumpur Terminal 2,Selangor,113271
+KOR,Gelang Patah,Johor,112182
+FRA,LTA Kuala Lumpur Terminal 1,Selangor,107041
+THA,Wang Kelian,Perlis,105298
+CHN,LTA Bayan Lepas,Pulau_Pinang,104216
+MMR,LTA Kuala Lumpur Terminal 1,Selangor,102274
+SGP,LTA Ipoh,Perak,101423
+SAU,LTA Kuala Lumpur Terminal 1,Selangor,100392
+IDN,Pelabuhan Melaka,Melaka,97168
+GBR,LTA Kuala Lumpur Terminal 2,Selangor,97046
+RUS,LTA Kuala Lumpur Terminal 2,Selangor,93587
+USA,LTA Kuala Lumpur Terminal 2,Selangor,92038
+DEU,LTA Kuala Lumpur Terminal 1,Selangor,90689
+THA,LTA Kuala Lumpur Terminal 1,Selangor,90197
+IDN,Dermaga Tawau,Sabah,90123
+KOR,Bangunan Sultan Iskandar,Johor,88252
+IDN,Bukit Kayu Hitam,Kedah,80043
+THA,ICQ Durian Burung,Kedah,74556
+IDN,LTA Sultan Ismail Senai,Johor,73549
+RUS,LTA Kuala Lumpur Terminal 1,Selangor,71408
+CHN,LTA Kota Kinabalu,Sabah,71391
+VNM,Bangunan Sultan Iskandar,Johor,68833
+THA,Bangunan Sultan Iskandar,Johor,68613
+SGP,Pelabuhan Klang Barat - SCT,Selangor,67534
+TWN,Bangunan Sultan Iskandar,Johor,64176
+NLD,LTA Kuala Lumpur Terminal 1,Selangor,63093
+JPN,Bangunan Sultan Iskandar,Johor,62982
+FRA,LTA Kuala Lumpur Terminal 2,Selangor,58922
+TWN,LTA Bayan Lepas,Pulau_Pinang,55745
+GBR,Gelang Patah,Johor,54700
+BRN,LTA Kuala Lumpur Terminal 1,Selangor,54343
+MMR,Bangunan Sultan Iskandar,Johor,54228
+TWN,LTA Kuala Lumpur Terminal 2,Selangor,53978
+SGP,LTA Langkawi,Kedah,53454
+LKA,LTA Kuala Lumpur Terminal 1,Selangor,53308
+JPN,Gelang Patah,Johor,52423
+AUS,Gelang Patah,Johor,52292
+SGP,LTA Kuching,Sarawak,51833
+CAN,LTA Kuala Lumpur Terminal 1,Selangor,51653
+MMR,LTA Kuala Lumpur Terminal 2,Selangor,51034
+KHM,LTA Kuala Lumpur Terminal 2,Selangor,50610
+SGP,LTA Kota Kinabalu,Sabah,50013
+IDN,Lubok Antu,Sarawak,47648
+IDN,Sungai Tujuh,Sarawak,46549
+AUS,Bangunan Sultan Iskandar,Johor,45010
+ITA,LTA Kuala Lumpur Terminal 1,Selangor,44577
+DEU,LTA Kuala Lumpur Terminal 2,Selangor,44570
+SGP,LTA Subang Terminal 3,Selangor,43966
+VNM,LTA Sultan Ismail Senai,Johor,43336
+USA,Gelang Patah,Johor,41599
+IDN,Tanjung Pengelih,Johor,41140
+BRN,LTA Kuala Lumpur Terminal 2,Selangor,40126
+THA,LTA Bayan Lepas,Pulau_Pinang,40076
+USA,Bangunan Sultan Iskandar,Johor,37283
+USA,LTA Bayan Lepas,Pulau_Pinang,36833
+SGP,Pelabuhan Klang Barat - KMT,Selangor,36768
+ESP,LTA Kuala Lumpur Terminal 1,Selangor,36754
+AUS,LTA Bayan Lepas,Pulau_Pinang,36730
+TWN,Gelang Patah,Johor,36679
+THA,Jeti Kuah Langkawi,Kedah,36536
+NZL,LTA Kuala Lumpur Terminal 1,Selangor,36049
+KHM,Gelang Patah,Johor,35962
+THA,Gelang Patah,Johor,35502
+GBR,Bangunan Sultan Iskandar,Johor,34280
+MMR,Gelang Patah,Johor,34142
+BGD,Bangunan Sultan Iskandar,Johor,33797
+EGY,LTA Kuala Lumpur Terminal 1,Selangor,32739
+KHM,LTA Kuala Lumpur Terminal 1,Selangor,32560
+IRN,LTA Kuala Lumpur Terminal 1,Selangor,32034
+CAN,LTA Kuala Lumpur Terminal 2,Selangor,28972
+YEM,LTA Kuala Lumpur Terminal 1,Selangor,28921
+GBR,LTA Bayan Lepas,Pulau_Pinang,28774
+SGP,Bukit Kayu Hitam,Kedah,28084
+VNM,LTA Bayan Lepas,Pulau_Pinang,28053
+MDV,LTA Kuala Lumpur Terminal 2,Selangor,26841
+NLD,LTA Kuala Lumpur Terminal 2,Selangor,26598
+CHN,LTA Sultan Ismail Senai,Johor,25990
+DEU,Gelang Patah,Johor,25420
+JPN,LTA Bayan Lepas,Pulau_Pinang,24831
+MDV,LTA Kuala Lumpur Terminal 1,Selangor,24160
+BGD,Gelang Patah,Johor,23908
+OMN,LTA Kuala Lumpur Terminal 1,Selangor,23717
+IDN,LTA Kuching,Sarawak,23030
+LKA,LTA Kuala Lumpur Terminal 2,Selangor,22952
+ESP,LTA Kuala Lumpur Terminal 2,Selangor,22530
+IRQ,LTA Kuala Lumpur Terminal 1,Selangor,21041
+SDN,LTA Kuala Lumpur Terminal 1,Selangor,20674
+FRA,Gelang Patah,Johor,20659
+MUS,LTA Kuala Lumpur Terminal 1,Selangor,20496
+IND,LTA Bayan Lepas,Pulau_Pinang,20113
+ITA,LTA Kuala Lumpur Terminal 2,Selangor,19922
+FRA,Bangunan Sultan Iskandar,Johor,19712
+IDN,Woodlands Train Checkpoint,Singapore,19611
+PHL,Sungai Tujuh,Sarawak,19148
+IDN,LTA Subang Terminal 3,Selangor,19027
+BRN,Dermaga Labuan,Labuan,18469
+IND,Pelabuhan Klang Barat - SCT,Selangor,18416
+TUR,LTA Kuala Lumpur Terminal 1,Selangor,18249
+CHE,LTA Kuala Lumpur Terminal 1,Selangor,17990
+TWN,LTA Kota Kinabalu,Sabah,17596
+NZL,LTA Kuala Lumpur Terminal 2,Selangor,17500
+VNM,Stulang Laut,Johor,17353
+DEU,Bangunan Sultan Iskandar,Johor,17240
+UZB,LTA Kuala Lumpur Terminal 1,Selangor,17022
+BEL,LTA Kuala Lumpur Terminal 1,Selangor,16942
+PHL,LTA Kota Kinabalu,Sabah,16931
+IDN,Terminal Feri Minyak Beku,Johor,16912
+IRL,LTA Kuala Lumpur Terminal 1,Selangor,16851
+LAO,Bukit Kayu Hitam,Kedah,16200
+THA,LTA Sultan Ismail Senai,Johor,15946
+IND,LTA Langkawi,Kedah,15899
+DNK,LTA Kuala Lumpur Terminal 1,Selangor,15789
+SWE,LTA Kuala Lumpur Terminal 1,Selangor,15648
+JOR,LTA Kuala Lumpur Terminal 1,Selangor,15264
+KWT,LTA Kuala Lumpur Terminal 1,Selangor,15246
+ZAF,LTA Kuala Lumpur Terminal 1,Selangor,15180
+DZA,LTA Kuala Lumpur Terminal 1,Selangor,14169
+LKA,Bangunan Sultan Iskandar,Johor,14147
+BRN,LTA Kota Kinabalu,Sabah,14126
+CAN,Gelang Patah,Johor,13804
+POL,LTA Kuala Lumpur Terminal 1,Selangor,13788
+SYR,LTA Kuala Lumpur Terminal 1,Selangor,13508
+PAK,LTA Kuala Lumpur Terminal 2,Selangor,13298
+CHN,LTA Langkawi,Kedah,13278
+DEU,LTA Bayan Lepas,Pulau_Pinang,13161
+MAR,LTA Kuala Lumpur Terminal 1,Selangor,12962
+CHN,Woodlands Train Checkpoint,Singapore,12710
+KAZ,LTA Kuala Lumpur Terminal 1,Selangor,12528
+IDN,LT Batu Berendam,Melaka,12526
+SGP,Pejabat Imigresen Desaru Coast,Johor,12454
+IND,Sungai Tujuh,Sarawak,12202
+GBR,Sungai Tujuh,Sarawak,12182
+SGP,LT Miri,Sarawak,12073
+CAN,Bangunan Sultan Iskandar,Johor,11924
+NLD,Gelang Patah,Johor,11713
+KHM,Padang Besar,Perlis,11622
+GBR,LTA Langkawi,Kedah,11567
+SAU,LTA Kuala Lumpur Terminal 2,Selangor,11314
+POL,LTA Kuala Lumpur Terminal 2,Selangor,11076
+PHL,LTA Bayan Lepas,Pulau_Pinang,10927
+PHL,Tedungan,Sarawak,10920
+AUT,LTA Kuala Lumpur Terminal 1,Selangor,10878
+KOR,LTA Sultan Ismail Senai,Johor,10839
+UKR,LTA Kuala Lumpur Terminal 1,Selangor,10722
+NGA,LTA Kuala Lumpur Terminal 1,Selangor,10598
+UKR,LTA Kuala Lumpur Terminal 2,Selangor,10177
+ARE,LTA Kuala Lumpur Terminal 1,Selangor,10175
+IDN,Tedungan,Sarawak,10167
+SGP,Pengkalan Hulu (Bukit Berapit),Perak,10147
+IDN,Pos Imigresen Mengkalap,Sarawak,10012
+KOR,LTA Bayan Lepas,Pulau_Pinang,9938
+NOR,LTA Kuala Lumpur Terminal 1,Selangor,9816
+KHM,Pengkalan Kubur,Kelantan,9798
+TUN,LTA Kuala Lumpur Terminal 1,Selangor,9760
+KOR,Woodlands Train Checkpoint,Singapore,9306
+BRA,LTA Kuala Lumpur Terminal 1,Selangor,9064
+PHL,Woodlands Train Checkpoint,Singapore,9050
+IND,Pelabuhan Klang Barat - KMT,Selangor,8909
+GBR,LTA Kota Kinabalu,Sabah,8878
+IDN,Pelabuhan Klang Selatan - Jeti,Selangor,8866
+NLD,Bangunan Sultan Iskandar,Johor,8861
+CAN,LTA Bayan Lepas,Pulau_Pinang,8744
+PAK,Gelang Patah,Johor,8686
+BRA,LTA Kuala Lumpur Terminal 2,Selangor,8643
+SWE,LTA Kuala Lumpur Terminal 2,Selangor,8628
+IRL,LTA Kuala Lumpur Terminal 2,Selangor,8569
+IDN,Padang Besar,Perlis,8549
+NPL,Gelang Patah,Johor,8428
+DEU,Pelabuhan Klang Barat - SCT,Selangor,8396
+PHL,Bukit Kayu Hitam,Kedah,8282
+CHE,LTA Kuala Lumpur Terminal 2,Selangor,8222
+BRN,LT Miri,Sarawak,8204
+PAK,Bangunan Sultan Iskandar,Johor,8172
+SGP,Tanjung Pengelih,Johor,8060
+SGP,Sungai Tujuh,Sarawak,8012
+LBY,LTA Kuala Lumpur Terminal 1,Selangor,7929
+FIN,LTA Kuala Lumpur Terminal 1,Selangor,7911
+PRT,LTA Kuala Lumpur Terminal 1,Selangor,7878
+FRA,LTA Bayan Lepas,Pulau_Pinang,7864
+BRN,LTA Kuching,Sarawak,7704
+ROU,LTA Kuala Lumpur Terminal 1,Selangor,7688
+NZL,Gelang Patah,Johor,7599
+SGP,Pelabuhan Klang Utara,Selangor,7506
+LKA,Gelang Patah,Johor,7506
+AUS,LTA Kota Kinabalu,Sabah,7379
+BGD,LTA Bayan Lepas,Pulau_Pinang,7293
+IDN,Pelabuhan Klang Barat - SCT,Selangor,7136
+CHN,LTA Kuching,Sarawak,6976
+AUS,LTA Langkawi,Kedah,6897
+ITA,Gelang Patah,Johor,6837
+BEL,LTA Kuala Lumpur Terminal 2,Selangor,6815
+CZE,LTA Kuala Lumpur Terminal 1,Selangor,6755
+JPN,LTA Kota Kinabalu,Sabah,6726
+HUN,LTA Kuala Lumpur Terminal 1,Selangor,6698
+NZL,Bangunan Sultan Iskandar,Johor,6689
+KEN,LTA Kuala Lumpur Terminal 1,Selangor,6531
+PSE,LTA Kuala Lumpur Terminal 1,Selangor,6508
+XXX,LTA Kuala Lumpur Terminal 1,Selangor,6465
+TUR,LTA Kuala Lumpur Terminal 2,Selangor,6455
+EGY,LTA Kuala Lumpur Terminal 2,Selangor,6415
+SGP,LTA Kuantan,Pahang,6408
+NPL,LTA Kuala Lumpur Terminal 2,Selangor,6330
+PHL,Dermaga Sandakan,Sabah,6233
+ESP,Gelang Patah,Johor,6153
+RUS,Bukit Kayu Hitam,Kedah,6133
+DNK,LTA Kuala Lumpur Terminal 2,Selangor,6121
+ZAF,LTA Kuala Lumpur Terminal 2,Selangor,6068
+CHN,Bukit Kayu Hitam,Kedah,6050
+IND,Pengkalan Hulu (Bukit Berapit),Perak,6027
+ITA,Bangunan Sultan Iskandar,Johor,5968
+KAZ,LTA Kuala Lumpur Terminal 2,Selangor,5944
+USA,LTA Kota Kinabalu,Sabah,5909
+VNM,Bukit Kayu Hitam,Kedah,5887
+AUS,LTA Kuching,Sarawak,5875
+NPL,Bangunan Sultan Iskandar,Johor,5863
+POL,Gelang Patah,Johor,5668
+PRT,LTA Kuala Lumpur Terminal 2,Selangor,5614
+KHM,Bangunan Sultan Iskandar,Johor,5562
+MEX,LTA Kuala Lumpur Terminal 2,Selangor,5552
+MEX,LTA Kuala Lumpur Terminal 1,Selangor,5475
+SOM,LTA Kuala Lumpur Terminal 1,Selangor,5305
+UZB,LTA Kuala Lumpur Terminal 2,Selangor,5161
+AUT,LTA Kuala Lumpur Terminal 2,Selangor,5015
+MAR,LTA Kuala Lumpur Terminal 2,Selangor,4914
+MMR,LTA Bayan Lepas,Pulau_Pinang,4876
+SGP,LTA Sultan Ismail Senai,Johor,4846
+BRN,Bangunan Sultan Iskandar,Johor,4831
+NLD,LTA Bayan Lepas,Pulau_Pinang,4797
+IDN,Pandaruan,Sarawak,4689
+NOR,LTA Kuala Lumpur Terminal 2,Selangor,4675
+LAO,LTA Kuala Lumpur Terminal 2,Selangor,4671
+IRN,LTA Kuala Lumpur Terminal 2,Selangor,4611
+ROU,LTA Kuala Lumpur Terminal 2,Selangor,4531
+USA,LTA Langkawi,Kedah,4493
+PHL,Pos Imigresen Mengkalap,Sarawak,4373
+YEM,LTA Kuala Lumpur Terminal 2,Selangor,4373
+CHN,Sungai Tujuh,Sarawak,4344
+KHM,Bukit Kayu Hitam,Kedah,4214
+DEU,LTA Langkawi,Kedah,4206
+ESP,Bangunan Sultan Iskandar,Johor,4203
+MUS,LTA Kuala Lumpur Terminal 2,Selangor,4202
+LBN,LTA Kuala Lumpur Terminal 1,Selangor,4193
+ARG,LTA Kuala Lumpur Terminal 2,Selangor,4188
+CHE,Gelang Patah,Johor,4176
+IND,Woodlands Train Checkpoint,Singapore,4150
+GBR,Bukit Kayu Hitam,Kedah,4149
+CZE,LTA Kuala Lumpur Terminal 2,Selangor,4142
+PHL,Pelabuhan Tanjung Pelepas,Johor,4132
+FRA,LTA Langkawi,Kedah,4126
+RUS,Gelang Patah,Johor,4121
+NZL,LTA Bayan Lepas,Pulau_Pinang,4102
+BRN,Roro Labuan,Labuan,3996
+FIN,LTA Kuala Lumpur Terminal 2,Selangor,3994
+MNG,LTA Kuala Lumpur Terminal 1,Selangor,3945
+RUS,Wang Kelian,Perlis,3905
+SGP,Padang Besar,Perlis,3905
+SGP,LT Sibu,Sarawak,3901
+USA,Pelabuhan Klang Barat - SCT,Selangor,3875
+SVK,LTA Kuala Lumpur Terminal 1,Selangor,3832
+CHN,LT Tawau,Sabah,3793
+RUS,LTA Bayan Lepas,Pulau_Pinang,3768
+AUS,LTA Ipoh,Perak,3712
+VNM,Padang Besar,Perlis,3710
+GBR,LTA Subang Terminal 3,Selangor,3706
+THA,Sungai Tujuh,Sarawak,3657
+CHE,Bangunan Sultan Iskandar,Johor,3614
+BHR,LTA Kuala Lumpur Terminal 1,Selangor,3582
+IND,LTA Kota Kinabalu,Sabah,3581
+CAN,Sungai Tujuh,Sarawak,3575
+QAT,LTA Kuala Lumpur Terminal 1,Selangor,3548
+KGZ,LTA Kuala Lumpur Terminal 1,Selangor,3522
+SGP,Stulang Laut,Johor,3509
+GBR,LTA Kuching,Sarawak,3505
+ARG,LTA Kuala Lumpur Terminal 1,Selangor,3504
+IDN,LTA Kota Kinabalu,Sabah,3418
+LAO,Wang Kelian,Perlis,3413
+HUN,LTA Kuala Lumpur Terminal 2,Selangor,3409
+IND,Bukit Kayu Hitam,Kedah,3381
+BLR,LTA Kuala Lumpur Terminal 2,Selangor,3309
+LAO,Padang Besar,Perlis,3298
+TLS,LTA Kuala Lumpur Terminal 1,Selangor,3293
+KHM,Wang Kelian,Perlis,3290
+TZA,LTA Kuala Lumpur Terminal 1,Selangor,3272
+NPL,Sungai Tujuh,Sarawak,3258
+DNK,Gelang Patah,Johor,3251
+LTU,LTA Kuala Lumpur Terminal 1,Selangor,3243
+GBR,Telaga Harbour Park,Kedah,3230
+TUN,LTA Kuala Lumpur Terminal 2,Selangor,3226
+IRL,Gelang Patah,Johor,3199
+IDN,Pelabuhan Klang Barat - KMT,Selangor,3185
+IRN,Gelang Patah,Johor,3183
+KHM,Rantau Panjang,Kelantan,3107
+BLR,LTA Kuala Lumpur Terminal 1,Selangor,3103
+IND,Tedungan,Sarawak,3096
+DEU,Bukit Kayu Hitam,Kedah,3089
+GBR,Jeti Kuah Langkawi,Kedah,3070
+GRC,LTA Kuala Lumpur Terminal 1,Selangor,3070
+DEU,Jeti Kuah Langkawi,Kedah,3035
+SWE,Gelang Patah,Johor,3021
+ZAF,Gelang Patah,Johor,3020
+BGR,LTA Kuala Lumpur Terminal 1,Selangor,3006
+USA,Bukit Kayu Hitam,Kedah,2908
+VNM,Sungai Tujuh,Sarawak,2908
+RUS,Bangunan Sultan Iskandar,Johor,2902
+EGY,Bangunan Sultan Iskandar,Johor,2896
+DEU,Telaga Harbour Park,Kedah,2885
+BEL,Gelang Patah,Johor,2875
+TUR,Bangunan Sultan Iskandar,Johor,2844
+AUS,Sungai Tujuh,Sarawak,2839
+HRV,LTA Kuala Lumpur Terminal 1,Selangor,2826
+USA,LTA Kuching,Sarawak,2814
+AUS,Woodlands Train Checkpoint,Singapore,2792
+CHN,Pelabuhan Klang Barat - SCT,Selangor,2759
+CHL,LTA Kuala Lumpur Terminal 2,Selangor,2759
+PHL,Padang Besar,Perlis,2742
+JPN,LTA Langkawi,Kedah,2698
+SVK,LTA Kuala Lumpur Terminal 2,Selangor,2647
+OMN,LTA Kuala Lumpur Terminal 2,Selangor,2638
+IND,Pelabuhan Tanjung Pelepas,Johor,2623
+IDN,Rantau Panjang,Kelantan,2599
+CHN,Pelabuhan Klang Barat - KMT,Selangor,2596
+GBR,Tedungan,Sarawak,2588
+POL,Bangunan Sultan Iskandar,Johor,2569
+MNG,LTA Kuala Lumpur Terminal 2,Selangor,2568
+CHN,LTA Subang Terminal 3,Selangor,2532
+CHE,LTA Bayan Lepas,Pulau_Pinang,2519
+BRA,Gelang Patah,Johor,2511
+USA,LTA Subang Terminal 3,Selangor,2510
+LAO,Rantau Panjang,Kelantan,2505
+AUS,LTA Subang Terminal 3,Selangor,2493
+IND,LTA Subang Terminal 3,Selangor,2466
+TWN,Woodlands Train Checkpoint,Singapore,2465
+ZWE,LTA Kuala Lumpur Terminal 1,Selangor,2455
+IDN,Pengkalan Hulu (Bukit Berapit),Perak,2453
+CAN,LTA Kota Kinabalu,Sabah,2438
+AUS,Bukit Kayu Hitam,Kedah,2418
+FRA,Telaga Harbour Park,Kedah,2402
+ITA,LTA Bayan Lepas,Pulau_Pinang,2397
+GBR,Padang Besar,Perlis,2385
+DEU,LTA Kota Kinabalu,Sabah,2384
+LAO,LTA Kuala Lumpur Terminal 1,Selangor,2384
+CHN,LTA Ipoh,Perak,2377
+SWE,Bangunan Sultan Iskandar,Johor,2374
+XXX,LTA Kuala Lumpur Terminal 2,Selangor,2329
+PHL,Pelabuhan Klang Barat - SCT,Selangor,2320
+LTU,LTA Kuala Lumpur Terminal 2,Selangor,2305
+DEU,LTA Kuching,Sarawak,2296
+ESP,LTA Bayan Lepas,Pulau_Pinang,2295
+BRN,Gelang Patah,Johor,2294
+FRA,Jeti Kuah Langkawi,Kedah,2287
+USA,Woodlands Train Checkpoint,Singapore,2286
+JPN,LTA Subang Terminal 3,Selangor,2248
+IRQ,LTA Kuala Lumpur Terminal 2,Selangor,2230
+TUR,Gelang Patah,Johor,2229
+ZAF,Bangunan Sultan Iskandar,Johor,2209
+FRA,Bukit Kayu Hitam,Kedah,2209
+DEU,Pelabuhan Klang Utara,Selangor,2160
+BEL,Bangunan Sultan Iskandar,Johor,2153
+JPN,Woodlands Train Checkpoint,Singapore,2145
+AFG,LTA Kuala Lumpur Terminal 1,Selangor,2137
+EST,LTA Kuala Lumpur Terminal 1,Selangor,2134
+GBR,Woodlands Train Checkpoint,Singapore,2126
+FRA,LTA Kota Kinabalu,Sabah,2117
+AUT,Gelang Patah,Johor,2105
+DNK,Bangunan Sultan Iskandar,Johor,2103
+RUS,Padang Besar,Perlis,2094
+THA,Woodlands Train Checkpoint,Singapore,2092
+IRL,Bangunan Sultan Iskandar,Johor,2092
+PHL,Pandaruan,Sarawak,2059
+COL,LTA Kuala Lumpur Terminal 1,Selangor,2033
+ITA,Telaga Harbour Park,Kedah,2011
+USA,LTA Ipoh,Perak,2011
+MDV,Gelang Patah,Johor,2003
+SAU,Bangunan Sultan Iskandar,Johor,1987
+KOR,LTA Kuching,Sarawak,1984
+FIN,Gelang Patah,Johor,1967
+JOR,LTA Kuala Lumpur Terminal 2,Selangor,1966
+IRL,LTA Bayan Lepas,Pulau_Pinang,1966
+BRA,Bangunan Sultan Iskandar,Johor,1962
+VNM,Pengkalan Hulu (Bukit Berapit),Perak,1959
+MMR,Woodlands Train Checkpoint,Singapore,1954
+NOR,Gelang Patah,Johor,1928
+SWE,Telaga Harbour Park,Kedah,1926
+MUS,Gelang Patah,Johor,1894
+LVA,LTA Kuala Lumpur Terminal 1,Selangor,1886
+PRT,Gelang Patah,Johor,1882
+DEU,Padang Besar,Perlis,1868
+THA,LTA Kota Kinabalu,Sabah,1851
+UGA,LTA Kuala Lumpur Terminal 1,Selangor,1825
+CHN,Pengkalan Hulu (Bukit Berapit),Perak,1814
+LAO,Pengkalan Kubur,Kelantan,1806
+JPN,LTA Sultan Ismail Senai,Johor,1774
+RUS,LTA Langkawi,Kedah,1765
+IDN,LTA Langkawi,Kedah,1763
+TWN,LTA Kuching,Sarawak,1762
+JPN,LTA Kuching,Sarawak,1762
+MEX,Gelang Patah,Johor,1760
+NLD,LTA Langkawi,Kedah,1757
+AZE,LTA Kuala Lumpur Terminal 1,Selangor,1747
+PHL,LTA Langkawi,Kedah,1726
+PHL,LTA Kuching,Sarawak,1725
+MNG,Gelang Patah,Johor,1720
+TJK,LTA Kuala Lumpur Terminal 1,Selangor,1704
+THA,Tedungan,Sarawak,1702
+CHL,LTA Kuala Lumpur Terminal 1,Selangor,1692
+KWT,LTA Kuala Lumpur Terminal 2,Selangor,1687
+LAO,Gelang Patah,Johor,1668
+SAU,Gelang Patah,Johor,1663
+SVN,LTA Kuala Lumpur Terminal 1,Selangor,1660
+IND,LTA Ipoh,Perak,1659
+BGR,LTA Kuala Lumpur Terminal 2,Selangor,1656
+IND,Pos Imigresen Mengkalap,Sarawak,1633
+EGY,Sungai Tujuh,Sarawak,1632
+GBR,LTA Ipoh,Perak,1630
+SGP,Terminal Feri Puteri Harbour,Johor,1625
+USA,Sungai Tujuh,Sarawak,1616
+DZA,LTA Kuala Lumpur Terminal 2,Selangor,1614
+FRA,LTA Subang Terminal 3,Selangor,1600
+PAK,Sungai Tujuh,Sarawak,1600
+PHL,Dermaga Labuan,Labuan,1596
+FIN,Bangunan Sultan Iskandar,Johor,1592
+PHL,Pelabuhan Klang Barat - KMT,Selangor,1568
+CHN,Padang Besar,Perlis,1565
+SWE,LTA Bayan Lepas,Pulau_Pinang,1550
+NLD,Telaga Harbour Park,Kedah,1547
+SDN,LTA Kuala Lumpur Terminal 2,Selangor,1544
+AUT,LTA Bayan Lepas,Pulau_Pinang,1526
+RUS,Jeti Kuah Langkawi,Kedah,1523
+FRA,LTA Kuching,Sarawak,1510
+TKM,LTA Kuala Lumpur Terminal 1,Selangor,1506
+CHN,Stulang Laut,Johor,1493
+SGP,Tanjung Belungkor,Johor,1486
+SYR,LTA Kuala Lumpur Terminal 2,Selangor,1483
+KOR,Bukit Kayu Hitam,Kedah,1482
+COL,LTA Kuala Lumpur Terminal 2,Selangor,1474
+GBR,Pos Imigresen Mengkalap,Sarawak,1472
+PAK,LTA Bayan Lepas,Pulau_Pinang,1470
+GRC,LTA Kuala Lumpur Terminal 2,Selangor,1467
+IDN,LTA Ipoh,Perak,1450
+TWN,Sungai Tujuh,Sarawak,1446
+JPN,Telaga Harbour Park,Kedah,1444
+DNK,LTA Bayan Lepas,Pulau_Pinang,1443
+NOR,Bangunan Sultan Iskandar,Johor,1426
+VNM,Woodlands Train Checkpoint,Singapore,1425
+SYC,LTA Kuala Lumpur Terminal 1,Selangor,1419
+PHL,Dermaga Tawau,Sabah,1419
+SGP,Pos Imigresen Mengkalap,Sarawak,1404
+USA,Padang Besar,Perlis,1384
+PER,LTA Kuala Lumpur Terminal 1,Selangor,1382
+NLD,Jeti Kuah Langkawi,Kedah,1375
+SGP,Jeti Kukup,Johor,1365
+NLD,Sungai Tujuh,Sarawak,1362
+ITA,LTA Langkawi,Kedah,1361
+NLD,LTA Kota Kinabalu,Sabah,1355
+XXX,Bangunan Sultan Iskandar,Johor,1354
+ROU,Gelang Patah,Johor,1352
+KGZ,LTA Kuala Lumpur Terminal 2,Selangor,1344
+RUS,Telaga Harbour Park,Kedah,1340
+EST,LTA Kuala Lumpur Terminal 2,Selangor,1337
+MNG,Bangunan Sultan Iskandar,Johor,1332
+FJI,LTA Kuala Lumpur Terminal 1,Selangor,1324
+KOR,LTA Langkawi,Kedah,1322
+AUT,Bangunan Sultan Iskandar,Johor,1299
+AUS,Pelabuhan Klang Barat - SCT,Selangor,1297
+CAN,LTA Langkawi,Kedah,1297
+JPN,Padang Besar,Perlis,1293
+VNM,Pelabuhan Klang Barat - SCT,Selangor,1293
+POL,LTA Bayan Lepas,Pulau_Pinang,1288
+ZMB,LTA Kuala Lumpur Terminal 1,Selangor,1284
+TWN,Bukit Kayu Hitam,Kedah,1282
+FRA,Padang Besar,Perlis,1262
+KOR,Padang Besar,Perlis,1242
+MDV,Bangunan Sultan Iskandar,Johor,1229
+KOR,Sungai Tujuh,Sarawak,1226
+GHA,LTA Kuala Lumpur Terminal 1,Selangor,1221
+SWE,Jeti Kuah Langkawi,Kedah,1215
+AUS,Jeti Kuah Langkawi,Kedah,1210
+TLS,LTA Kuala Lumpur Terminal 2,Selangor,1205
+BEL,LTA Bayan Lepas,Pulau_Pinang,1204
+PAK,LTA Langkawi,Kedah,1204
+GBR,Wang Kelian,Perlis,1203
+IDN,LT Miri,Sarawak,1202
+IND,LTA Kuching,Sarawak,1192
+NLD,Bukit Kayu Hitam,Kedah,1185
+KOR,Telaga Harbour Park,Kedah,1176
+CZE,Bangunan Sultan Iskandar,Johor,1175
+PER,LTA Kuala Lumpur Terminal 2,Selangor,1171
+IND,Pelabuhan Klang Utara,Selangor,1164
+THA,Pelabuhan Klang Barat - SCT,Selangor,1150
+IND,Stulang Laut,Johor,1144
+CAN,LTA Kuching,Sarawak,1141
+HUN,Gelang Patah,Johor,1139
+PHL,LTA Subang Terminal 3,Selangor,1136
+LVA,LTA Kuala Lumpur Terminal 2,Selangor,1135
+CAN,Bukit Kayu Hitam,Kedah,1127
+CHE,LTA Langkawi,Kedah,1127
+DEU,LTA Subang Terminal 3,Selangor,1126
+CZE,Gelang Patah,Johor,1124
+XXX,Gelang Patah,Johor,1118
+PRT,Bangunan Sultan Iskandar,Johor,1111
+SWE,LTA Langkawi,Kedah,1111
+MUS,Bangunan Sultan Iskandar,Johor,1101
+GBR,LT Miri,Sarawak,1094
+JPN,Bukit Kayu Hitam,Kedah,1082
+ROU,Bangunan Sultan Iskandar,Johor,1079
+BGD,LTA Langkawi,Kedah,1078
+BRN,Tebedu,Sarawak,1078
+MEX,Bangunan Sultan Iskandar,Johor,1068
+KEN,LTA Kuala Lumpur Terminal 2,Selangor,1066
+SGP,Rantau Panjang,Kelantan,1064
+MAR,Bangunan Sultan Iskandar,Johor,1064
+SGP,Tedungan,Sarawak,1064
+AUS,Padang Besar,Perlis,1062
+NLD,LTA Kuching,Sarawak,1052
+TWN,LTA Langkawi,Kedah,1051
+PHL,LTA Ipoh,Perak,1047
+GBR,Pejabat Imigresen Desaru Coast,Johor,1045
+FIN,LTA Langkawi,Kedah,1043
+AUS,Telaga Harbour Park,Kedah,1038
+XXX,LTA Bayan Lepas,Pulau_Pinang,1035
+SRB,LTA Kuala Lumpur Terminal 1,Selangor,1031
+USA,LTA Sultan Ismail Senai,Johor,1025
+VEN,LTA Kuala Lumpur Terminal 1,Selangor,1019
+PSE,LTA Kuala Lumpur Terminal 2,Selangor,1019
+GBR,LTA Sultan Ismail Senai,Johor,1015
+IDN,Wang Kelian,Perlis,1013
+RUS,Rantau Panjang,Kelantan,1011
+NZL,LTA Kuching,Sarawak,1006
+ARG,Gelang Patah,Johor,1003
+LBY,LTA Kuala Lumpur Terminal 2,Selangor,1002
+AUS,LT Miri,Sarawak,1000
+CYP,LTA Kuala Lumpur Terminal 1,Selangor,999
+THA,Telaga Harbour Park,Kedah,992
+PNG,LTA Kuala Lumpur Terminal 1,Selangor,992
+FIN,LTA Bayan Lepas,Pulau_Pinang,991
+NZL,LTA Kota Kinabalu,Sabah,982
+IND,Pejabat Imigresen Desaru Coast,Johor,982
+ZAF,LTA Bayan Lepas,Pulau_Pinang,981
+ITA,LTA Kuching,Sarawak,980
+HRV,LTA Kuala Lumpur Terminal 2,Selangor,969
+GIN,LTA Kuala Lumpur Terminal 1,Selangor,961
+USA,Jeti Kuah Langkawi,Kedah,960
+ITA,Jeti Kuah Langkawi,Kedah,956
+SVK,Bukit Kayu Hitam,Kedah,950
+EGY,Gelang Patah,Johor,946
+JPN,LTA Ipoh,Perak,942
+CHN,Pelabuhan Tanjung Pelepas,Johor,941
+SEN,LTA Kuala Lumpur Terminal 1,Selangor,931
+MDG,LTA Kuala Lumpur Terminal 1,Selangor,929
+IND,Dermaga Labuan,Labuan,929
+POL,LTA Langkawi,Kedah,916
+IRN,Bangunan Sultan Iskandar,Johor,915
+KNA,LTA Kuala Lumpur Terminal 1,Selangor,904
+ESP,Telaga Harbour Park,Kedah,903
+PAK,Bukit Kayu Hitam,Kedah,902
+BRN,Woodlands Train Checkpoint,Singapore,901
+DNK,Telaga Harbour Park,Kedah,896
+NZL,LTA Langkawi,Kedah,892
+USA,Telaga Harbour Park,Kedah,889
+JPN,Sungai Tujuh,Sarawak,883
+UZB,Gelang Patah,Johor,881
+ESP,LTA Langkawi,Kedah,881
+IND,Padang Besar,Perlis,878
+VUT,LTA Kuala Lumpur Terminal 1,Selangor,876
+NPL,Dermaga Labuan,Labuan,873
+CHN,Jeti Kuah Langkawi,Kedah,870
+SGP,Jeti Tioman,Pahang,869
+POL,Telaga Harbour Park,Kedah,869
+ZAF,Sungai Tujuh,Sarawak,863
+RUS,LTA Kota Kinabalu,Sabah,863
+FJI,LTA Kuala Lumpur Terminal 2,Selangor,862
+GBR,Pelabuhan Klang Barat - SCT,Selangor,861
+CHN,Pos Imigresen Mengkalap,Sarawak,860
+KOR,Pelabuhan Klang Barat - SCT,Selangor,845
+LAO,Bangunan Sultan Iskandar,Johor,842
+USA,Stulang Laut,Johor,841
+GEO,LTA Kuala Lumpur Terminal 1,Selangor,832
+CAN,Woodlands Train Checkpoint,Singapore,832
+BIH,LTA Kuala Lumpur Terminal 1,Selangor,823
+CHN,LT Miri,Sarawak,818
+IDN,Dermaga Labuan,Labuan,818
+TWN,Pelabuhan Klang Barat - SCT,Selangor,810
+LTU,Gelang Patah,Johor,805
+CZE,LTA Langkawi,Kedah,801
+SAU,LTA Bayan Lepas,Pulau_Pinang,799
+LBN,LTA Kuala Lumpur Terminal 2,Selangor,796
+CHN,Tedungan,Sarawak,792
+DEU,Sungai Tujuh,Sarawak,790
+KEN,Gelang Patah,Johor,787
+IDN,LT Tawau,Sabah,782
+NGA,LTA Kuala Lumpur Terminal 2,Selangor,777
+URY,LTA Kuala Lumpur Terminal 2,Selangor,776
+FRA,Woodlands Train Checkpoint,Singapore,771
+AUS,Pelabuhan Klang Barat - KMT,Selangor,764
+CAN,LTA Subang Terminal 3,Selangor,762
+NZL,Sungai Tujuh,Sarawak,759
+SVN,LTA Kuala Lumpur Terminal 2,Selangor,757
+UKR,Gelang Patah,Johor,752
+GBR,Dermaga Labuan,Labuan,750
+ESP,LTA Kuching,Sarawak,749
+KHM,LTA Bayan Lepas,Pulau_Pinang,748
+USA,Pelabuhan Klang Barat - KMT,Selangor,743
+DNK,Jeti Kuah Langkawi,Kedah,740
+DNK,LTA Langkawi,Kedah,736
+ETH,LTA Kuala Lumpur Terminal 1,Selangor,736
+SGP,Telaga Harbour Park,Kedah,730
+SGP,Wang Kelian,Perlis,728
+URY,LTA Kuala Lumpur Terminal 1,Selangor,725
+TWN,Biawak,Sarawak,724
+DEU,Wang Kelian,Perlis,723
+PRT,LTA Bayan Lepas,Pulau_Pinang,721
+OMN,Bangunan Sultan Iskandar,Johor,715
+KWT,Gelang Patah,Johor,713
+HKG,LTA Ipoh,Perak,703
+DEU,Pelabuhan Klang Barat - KMT,Selangor,702
+ARM,LTA Kuala Lumpur Terminal 1,Selangor,695
+UKR,Pelabuhan Tanjung Pelepas,Johor,692
+FJI,Gelang Patah,Johor,682
+NOR,LTA Bayan Lepas,Pulau_Pinang,681
+ECU,LTA Kuala Lumpur Terminal 2,Selangor,680
+ARE,LTA Kuala Lumpur Terminal 2,Selangor,680
+BTN,LTA Kuala Lumpur Terminal 1,Selangor,676
+DNK,LTA Kota Kinabalu,Sabah,675
+UZB,Bangunan Sultan Iskandar,Johor,675
+ESP,LTA Kota Kinabalu,Sabah,674
+BGD,Sungai Tujuh,Sarawak,673
+AUS,LTA Sultan Ismail Senai,Johor,672
+POL,LTA Kota Kinabalu,Sabah,671
+ESP,Jeti Kuah Langkawi,Kedah,666
+ITA,Bukit Kayu Hitam,Kedah,666
+ESP,Bukit Kayu Hitam,Kedah,664
+ITA,LTA Kota Kinabalu,Sabah,663
+LKA,LTA Bayan Lepas,Pulau_Pinang,659
+IRL,LTA Langkawi,Kedah,656
+AUS,Pejabat Imigresen Desaru Coast,Johor,653
+DEU,Woodlands Train Checkpoint,Singapore,648
+IDN,Pelabuhan Tanjung Pelepas,Johor,646
+SSD,LTA Kuala Lumpur Terminal 1,Selangor,644
+CRI,LTA Kuala Lumpur Terminal 1,Selangor,643
+CAN,Padang Besar,Perlis,641
+CHE,LTA Kota Kinabalu,Sabah,639
+CZE,Telaga Harbour Park,Kedah,633
+IDN,Pelabuhan Klang Utara,Selangor,632
+DMA,LTA Kuala Lumpur Terminal 1,Selangor,631
+LKA,LTA Langkawi,Kedah,631
+HUN,Bangunan Sultan Iskandar,Johor,630
+CHN,Dermaga Labuan,Labuan,628
+IND,LT Miri,Sarawak,627
+KOR,Tedungan,Sarawak,626
+TWN,LTA Ipoh,Perak,624
+LUX,LTA Kuala Lumpur Terminal 1,Selangor,622
+UKR,Bangunan Sultan Iskandar,Johor,617
+POL,Jeti Kuah Langkawi,Kedah,616
+PHL,LT Miri,Sarawak,616
+MEX,LTA Bayan Lepas,Pulau_Pinang,616
+NPL,LTA Bayan Lepas,Pulau_Pinang,615
+IND,LTA Sultan Ismail Senai,Johor,613
+MMR,Sungai Tujuh,Sarawak,612
+ECU,LTA Kuala Lumpur Terminal 1,Selangor,610
+CAN,Jeti Kuah Langkawi,Kedah,609
+MLT,LTA Kuala Lumpur Terminal 1,Selangor,606
+MMR,LTA Langkawi,Kedah,595
+VNM,LTA Kuching,Sarawak,590
+THA,Jeti Kuala Perlis,Perlis,589
+SGP,LTA Sultan Ismail,Kelantan,588
+AUS,Tedungan,Sarawak,586
+UKR,LTA Langkawi,Kedah,586
+KEN,Bangunan Sultan Iskandar,Johor,586
+POL,LTA Kuching,Sarawak,584
+NLD,Padang Besar,Perlis,583
+ARM,LTA Kuala Lumpur Terminal 2,Selangor,577
+DEU,Tedungan,Sarawak,576
+TUR,LTA Bayan Lepas,Pulau_Pinang,574
+USA,Wang Kelian,Perlis,572
+PHL,LTA Sultan Ismail Senai,Johor,569
+NLD,LTA Subang Terminal 3,Selangor,568
+CHN,Biawak,Sarawak,568
+NOR,LTA Langkawi,Kedah,567
+CHE,Bukit Kayu Hitam,Kedah,564
+IND,Pandaruan,Sarawak,563
+KOR,Pelabuhan Klang Barat - KMT,Selangor,560
+CZE,LTA Bayan Lepas,Pulau_Pinang,558
+TKM,LTA Kuala Lumpur Terminal 2,Selangor,553
+RUS,Sungai Tujuh,Sarawak,549
+CHE,Telaga Harbour Park,Kedah,547
+CAN,Pelabuhan Klang Barat - SCT,Selangor,547
+CAN,Telaga Harbour Park,Kedah,545
+MOZ,LTA Kuala Lumpur Terminal 1,Selangor,544
+FIN,Telaga Harbour Park,Kedah,544
+PHL,Stulang Laut,Johor,543
+VEN,LTA Kuala Lumpur Terminal 2,Selangor,543
+JPN,Pejabat Imigresen Desaru Coast,Johor,543
+CHN,Pejabat Imigresen Desaru Coast,Johor,541
+DEU,LTA Ipoh,Perak,540
+BOL,LTA Kuala Lumpur Terminal 1,Selangor,538
+CHN,Terminal Feri Puteri Harbour,Johor,538
+KOR,LTA Subang Terminal 3,Selangor,535
+XXX,Sungai Tujuh,Sarawak,535
+UKR,LTA Bayan Lepas,Pulau_Pinang,531
+BHR,LTA Kuala Lumpur Terminal 2,Selangor,531
+TWN,LTA Sultan Ismail Senai,Johor,531
+CHE,Jeti Kuah Langkawi,Kedah,530
+USA,Pejabat Imigresen Desaru Coast,Johor,524
+CAN,LTA Ipoh,Perak,522
+ZWE,LTA Kuala Lumpur Terminal 2,Selangor,518
+AZE,LTA Kuala Lumpur Terminal 2,Selangor,517
+VNM,LTA Langkawi,Kedah,516
+KAZ,Gelang Patah,Johor,515
+CRI,LTA Kuala Lumpur Terminal 2,Selangor,515
+ITA,LTA Subang Terminal 3,Selangor,515
+MMR,LTA Sultan Ismail Senai,Johor,513
+SGP,Jeti Kuah Langkawi,Kedah,512
+PHL,Rantau Panjang,Kelantan,512
+SGP,Pandaruan,Sarawak,511
+TJK,LTA Kuala Lumpur Terminal 2,Selangor,510
+USA,Pengkalan Hulu (Bukit Berapit),Perak,510
+VNM,Pelabuhan Klang Barat - KMT,Selangor,509
+HUN,LTA Bayan Lepas,Pulau_Pinang,508
+UKR,Bukit Kayu Hitam,Kedah,505
+KOR,Stulang Laut,Johor,504
+AUS,Wang Kelian,Perlis,502
+BGR,Gelang Patah,Johor,502
+FRA,LTA Ipoh,Perak,501
+HUN,LTA Langkawi,Kedah,500
+PHL,Pejabat Imigresen Desaru Coast,Johor,499
+PHL,Roro Labuan,Labuan,498
+MMR,Pelabuhan Tanjung Pelepas,Johor,496
+RUS,Pelabuhan Tanjung Pelepas,Johor,496
+CIV,LTA Kuala Lumpur Terminal 1,Selangor,491
+KOR,Jeti Kuah Langkawi,Kedah,490
+ARG,Telaga Harbour Park,Kedah,489
+MKD,LTA Kuala Lumpur Terminal 1,Selangor,487
+CZE,Bukit Kayu Hitam,Kedah,485
+ISL,LTA Kuala Lumpur Terminal 1,Selangor,484
+HKG,LTA Kota Kinabalu,Sabah,484
+PAK,Pengkalan Hulu (Bukit Berapit),Perak,482
+MMR,Pelabuhan Klang Barat - SCT,Selangor,481
+SAU,LTA Langkawi,Kedah,481
+AUT,LTA Langkawi,Kedah,480
+GMB,LTA Kuala Lumpur Terminal 1,Selangor,473
+CHE,LTA Kuching,Sarawak,472
+MMR,Bukit Kayu Hitam,Kedah,472
+KAZ,LTA Langkawi,Kedah,471
+SWE,LTA Kota Kinabalu,Sabah,470
+BEL,LTA Langkawi,Kedah,469
+THA,LTA Kuching,Sarawak,468
+ARG,Bangunan Sultan Iskandar,Johor,468
+GRC,Bangunan Sultan Iskandar,Johor,468
+FRA,Pejabat Imigresen Desaru Coast,Johor,466
+GRC,Gelang Patah,Johor,464
+JPN,Jeti Kuah Langkawi,Kedah,463
+OMN,Gelang Patah,Johor,452
+TTO,LTA Kuala Lumpur Terminal 1,Selangor,451
+ALB,LTA Kuala Lumpur Terminal 1,Selangor,451
+SWE,Bukit Kayu Hitam,Kedah,451
+CMR,LTA Kuala Lumpur Terminal 1,Selangor,449
+MRT,LTA Kuala Lumpur Terminal 1,Selangor,448
+FRA,Wang Kelian,Perlis,448
+THA,Pos Imigresen Mengkalap,Sarawak,447
+TZA,LTA Kuala Lumpur Terminal 2,Selangor,447
+BRA,LTA Bayan Lepas,Pulau_Pinang,446
+RUS,LTA Subang Terminal 3,Selangor,446
+FJI,Bangunan Sultan Iskandar,Johor,445
+YEM,Bangunan Sultan Iskandar,Johor,443
+SRB,LTA Kuala Lumpur Terminal 2,Selangor,439
+THA,LTA Subang Terminal 3,Selangor,439
+AUS,Pengkalan Hulu (Bukit Berapit),Perak,438
+ROU,LTA Langkawi,Kedah,438
+IRQ,Gelang Patah,Johor,437
+URY,Gelang Patah,Johor,435
+CZE,Jeti Kuah Langkawi,Kedah,434
+HRV,Bangunan Sultan Iskandar,Johor,433
+CAN,LT Miri,Sarawak,431
+AUS,Pos Imigresen Mengkalap,Sarawak,428
+KAZ,Bangunan Sultan Iskandar,Johor,428
+LVA,Gelang Patah,Johor,425
+RUS,LTA Sultan Ismail Senai,Johor,421
+CHL,Gelang Patah,Johor,419
+VNM,LTA Kota Kinabalu,Sabah,417
+KWT,Bangunan Sultan Iskandar,Johor,417
+PAK,Padang Besar,Perlis,416
+HKG,LTA Kuching,Sarawak,414
+TCD,LTA Kuala Lumpur Terminal 1,Selangor,413
+KOR,Terminal Feri Puteri Harbour,Johor,412
+MMR,LTA Ipoh,Perak,412
+PAK,Pos Imigresen Mengkalap,Sarawak,411
+MAR,Gelang Patah,Johor,408
+JPN,Tedungan,Sarawak,404
+LAO,Pengkalan Hulu (Bukit Berapit),Perak,404
+THA,Pelabuhan Klang Barat - KMT,Selangor,402
+CHN,LT Bintulu,Sarawak,401
+VUT,Gelang Patah,Johor,401
+BRA,LTA Langkawi,Kedah,400
+HKG,LTA Bayan Lepas,Pulau_Pinang,399
+IDN,Roro Labuan,Labuan,398
+TWN,LTA Subang Terminal 3,Selangor,396
+KOR,Pos Imigresen Mengkalap,Sarawak,396
+IDN,LT Bintulu,Sarawak,394
+FRA,Sungai Tujuh,Sarawak,393
+MWI,LTA Kuala Lumpur Terminal 1,Selangor,392
+USA,LT Miri,Sarawak,392
+IDN,Jeti Kuah Langkawi,Kedah,392
+NLD,Woodlands Train Checkpoint,Singapore,392
+TUR,Bukit Kayu Hitam,Kedah,391
+IRL,LTA Kota Kinabalu,Sabah,390
+FIN,Jeti Kuah Langkawi,Kedah,390
+ESP,LTA Subang Terminal 3,Selangor,387
+CHE,Padang Besar,Perlis,386
+NZL,Bukit Kayu Hitam,Kedah,383
+ITA,Padang Besar,Perlis,382
+DZA,Bangunan Sultan Iskandar,Johor,382
+VNM,LTA Ipoh,Perak,382
+PAK,Pandaruan,Sarawak,381
+ROU,LTA Bayan Lepas,Pulau_Pinang,381
+TWN,LTA Kuantan,Pahang,379
+SLE,LTA Kuala Lumpur Terminal 1,Selangor,379
+CHN,LTA Kuantan,Pahang,377
+LAO,Stulang Laut,Johor,377
+SVK,Gelang Patah,Johor,376
+POL,Bukit Kayu Hitam,Kedah,375
+LAO,LTA Bayan Lepas,Pulau_Pinang,375
+THA,Stulang Laut,Johor,375
+IDN,ICQ Durian Burung,Kedah,374
+SGP,Tebedu,Sarawak,373
+FRA,Rantau Panjang,Kelantan,372
+CAN,Pos Imigresen Mengkalap,Sarawak,370
+ZAF,LTA Langkawi,Kedah,368
+PER,Gelang Patah,Johor,368
+BRN,Padang Besar,Perlis,365
+EST,Gelang Patah,Johor,364
+ARE,Bangunan Sultan Iskandar,Johor,363
+NAM,LTA Kuala Lumpur Terminal 1,Selangor,362
+BRN,Bukit Kayu Hitam,Kedah,361
+TWN,Tedungan,Sarawak,360
+NZL,LTA Subang Terminal 3,Selangor,360
+COM,LTA Kuala Lumpur Terminal 1,Selangor,359
+DNK,Pelabuhan Tanjung Pelepas,Johor,357
+NZL,LTA Ipoh,Perak,356
+BEL,LTA Kota Kinabalu,Sabah,354
+GBR,Tanjung Pengelih,Johor,353
+USA,LT Sandakan,Sabah,353
+AUS,Stulang Laut,Johor,351
+NZL,Tedungan,Sarawak,351
+NZL,Woodlands Train Checkpoint,Singapore,350
+THA,LTA Langkawi,Kedah,350
+BIH,LTA Kuala Lumpur Terminal 2,Selangor,349
+NOR,Telaga Harbour Park,Kedah,348
+SOM,LTA Kuala Lumpur Terminal 2,Selangor,345
+TWN,Tebedu,Sarawak,343
+IRL,Bukit Kayu Hitam,Kedah,343
+BEL,Jeti Kuah Langkawi,Kedah,343
+BGR,Bangunan Sultan Iskandar,Johor,340
+KHM,ICQ Durian Burung,Kedah,340
+POL,Padang Besar,Perlis,339
+TUR,Pelabuhan Klang Barat - KMT,Selangor,338
+NGA,Bangunan Sultan Iskandar,Johor,337
+ZAF,Tedungan,Sarawak,336
+SVK,Bangunan Sultan Iskandar,Johor,336
+ERI,LTA Kuala Lumpur Terminal 1,Selangor,332
+IND,Tanjung Pengelih,Johor,331
+LTU,Bangunan Sultan Iskandar,Johor,330
+ESP,Padang Besar,Perlis,330
+SWZ,LTA Kuala Lumpur Terminal 1,Selangor,329
+DEU,LTA Sultan Ismail Senai,Johor,328
+IDN,Pengkalan Kubur,Kelantan,327
+AUT,Bukit Kayu Hitam,Kedah,327
+CAN,Tedungan,Sarawak,327
+HRV,Gelang Patah,Johor,324
+BEL,Bukit Kayu Hitam,Kedah,324
+MDA,LTA Kuala Lumpur Terminal 1,Selangor,324
+BRA,Telaga Harbour Park,Kedah,323
+DJI,LTA Kuala Lumpur Terminal 1,Selangor,323
+PHL,Terminal Feri Puteri Harbour,Johor,322
+MLT,LTA Kuala Lumpur Terminal 2,Selangor,320
+DNK,LTA Kuching,Sarawak,319
+PAN,LTA Kuala Lumpur Terminal 1,Selangor,318
+GBR,Rantau Panjang,Kelantan,318
+BEL,Telaga Harbour Park,Kedah,318
+CAN,LTA Sultan Ismail Senai,Johor,317
+MMR,LTA Kuching,Sarawak,316
+PRT,LTA Langkawi,Kedah,314
+GBR,LT Sandakan,Sabah,313
+KOR,LTA Ipoh,Perak,313
+CYP,LTA Kuala Lumpur Terminal 2,Selangor,310
+SVK,LTA Langkawi,Kedah,310
+CHN,Telaga Harbour Park,Kedah,309
+XXX,LTA Kota Kinabalu,Sabah,307
+UZB,Bukit Kayu Hitam,Kedah,307
+PRT,Telaga Harbour Park,Kedah,307
+CUB,LTA Kuala Lumpur Terminal 1,Selangor,306
+COL,Gelang Patah,Johor,306
+PHL,Jeti Kuah Langkawi,Kedah,304
+GBR,Pelabuhan Klang Barat - KMT,Selangor,304
+ZAF,LTA Kota Kinabalu,Sabah,303
+VNM,LTA Subang Terminal 3,Selangor,302
+BWA,LTA Kuala Lumpur Terminal 1,Selangor,301
+SVK,LTA Bayan Lepas,Pulau_Pinang,300
+VUT,LTA Kuala Lumpur Terminal 2,Selangor,299
+TWN,Padang Besar,Perlis,298
+SGP,Jeti Pasir Gudang,Johor,298
+TWN,Pengkalan Hulu (Bukit Berapit),Perak,296
+VNM,Terminal Feri Puteri Harbour,Johor,295
+LUX,LTA Kuala Lumpur Terminal 2,Selangor,294
+EST,Bangunan Sultan Iskandar,Johor,294
+DOM,LTA Kuala Lumpur Terminal 1,Selangor,294
+GTM,LTA Kuala Lumpur Terminal 2,Selangor,293
+KHM,Jeti Kuah Langkawi,Kedah,293
+DNK,Bukit Kayu Hitam,Kedah,292
+TWN,Pelabuhan Klang Barat - KMT,Selangor,289
+TWN,LT Miri,Sarawak,287
+AUT,Jeti Kuah Langkawi,Kedah,287
+ARG,Jeti Kuah Langkawi,Kedah,287
+AUT,Telaga Harbour Park,Kedah,285
+NZL,Jeti Kuah Langkawi,Kedah,285
+HUN,Jeti Kuah Langkawi,Kedah,284
+AUT,Pelabuhan Klang Barat - SCT,Selangor,284
+KGZ,Bangunan Sultan Iskandar,Johor,283
+BRN,LTA Bayan Lepas,Pulau_Pinang,283
+ARG,Bukit Kayu Hitam,Kedah,283
+EST,Telaga Harbour Park,Kedah,283
+VUT,Bangunan Sultan Iskandar,Johor,282
+CZE,LTA Kota Kinabalu,Sabah,281
+MNE,LTA Kuala Lumpur Terminal 1,Selangor,281
+IRL,Sungai Tujuh,Sarawak,280
+VNM,Tedungan,Sarawak,280
+AUS,LTA Kuantan,Pahang,279
+LKA,Woodlands Train Checkpoint,Singapore,279
+CAN,Wang Kelian,Perlis,277
+TWN,LT Sandakan,Sabah,277
+GBR,Pengkalan Hulu (Bukit Berapit),Perak,277
+PAK,Tedungan,Sarawak,276
+MMR,LTA Kota Kinabalu,Sabah,275
+IRL,Telaga Harbour Park,Kedah,273
+ATG,LTA Kuala Lumpur Terminal 1,Selangor,273
+PAK,Woodlands Train Checkpoint,Singapore,272
+BGD,Bukit Kayu Hitam,Kedah,272
+THA,Pandaruan,Sarawak,271
+JPN,Tanjung Pengelih,Johor,271
+FIN,LTA Kota Kinabalu,Sabah,271
+BEL,LTA Kuching,Sarawak,270
+BRN,Merapok,Sabah,269
+CHN,Tanjung Pengelih,Johor,267
+SAU,Bukit Kayu Hitam,Kedah,267
+GBR,Pandaruan,Sarawak,266
+SWE,LTA Kuching,Sarawak,265
+HUN,Telaga Harbour Park,Kedah,264
+IDN,Pejabat Imigresen Desaru Coast,Johor,264
+NPL,Pos Imigresen Mengkalap,Sarawak,263
+TWN,Pos Imigresen Mengkalap,Sarawak,262
+UKR,Telaga Harbour Park,Kedah,262
+KNA,LTA Kuala Lumpur Terminal 2,Selangor,262
+PER,Bangunan Sultan Iskandar,Johor,261
+DZA,Gelang Patah,Johor,261
+MDG,LTA Kuala Lumpur Terminal 2,Selangor,260
+JPN,LT Miri,Sarawak,259
+QAT,Gelang Patah,Johor,258
+GEO,LTA Kuala Lumpur Terminal 2,Selangor,258
+BGD,Woodlands Train Checkpoint,Singapore,258
+MMR,Pelabuhan Klang Barat - KMT,Selangor,258
+TUR,Padang Besar,Perlis,257
+SWE,Padang Besar,Perlis,256
+MDA,LTA Kuala Lumpur Terminal 2,Selangor,256
+UZB,LTA Kota Kinabalu,Sabah,254
+IDN,Pasir Gudang,Johor,254
+JPN,Stulang Laut,Johor,253
+UGA,LTA Kuala Lumpur Terminal 2,Selangor,252
+FRA,LTA Sultan Ismail Senai,Johor,249
+SGP,LT Tawau,Sabah,249
+THA,Jeti Tioman,Pahang,249
+TUR,LTA Langkawi,Kedah,246
+PRT,LTA Kota Kinabalu,Sabah,244
+AUS,Terminal Feri Puteri Harbour,Johor,244
+ALB,LTA Kuala Lumpur Terminal 2,Selangor,243
+DEU,Rantau Panjang,Kelantan,243
+NZL,Padang Besar,Perlis,242
+DEU,Pejabat Imigresen Desaru Coast,Johor,242
+CHN,LT Sibu,Sarawak,241
+DNK,LTA Subang Terminal 3,Selangor,241
+PNG,LTA Kuala Lumpur Terminal 2,Selangor,240
+IRL,Jeti Kuah Langkawi,Kedah,239
+USA,Pos Imigresen Mengkalap,Sarawak,238
+THA,LTA Ipoh,Perak,238
+EST,LTA Langkawi,Kedah,237
+BRA,Bukit Kayu Hitam,Kedah,237
+AUT,LTA Kota Kinabalu,Sabah,236
+NGA,Gelang Patah,Johor,236
+GHA,LTA Kuala Lumpur Terminal 2,Selangor,235
+LTU,LTA Langkawi,Kedah,234
+FRA,LTA Kuantan,Pahang,233
+NOR,Jeti Kuah Langkawi,Kedah,233
+USA,Rantau Panjang,Kelantan,232
+YEM,Gelang Patah,Johor,232
+NLD,Wang Kelian,Perlis,232
+BRN,Biawak,Sarawak,231
+SVK,Telaga Harbour Park,Kedah,231
+LKA,Sungai Tujuh,Sarawak,231
+TWN,Stulang Laut,Johor,230
+NPL,Pelabuhan Klang Barat - SCT,Selangor,230
+ISL,LTA Kuala Lumpur Terminal 2,Selangor,229
+SGP,Pelabuhan Melaka,Melaka,229
+SEN,LTA Kuala Lumpur Terminal 2,Selangor,229
+PHL,Pasir Gudang,Johor,229
+KNA,Bangunan Sultan Iskandar,Johor,228
+ALB,Bangunan Sultan Iskandar,Johor,228
+KNA,Gelang Patah,Johor,227
+JPN,Pelabuhan Klang Barat - SCT,Selangor,226
+COL,Bangunan Sultan Iskandar,Johor,226
+DEU,Pos Imigresen Mengkalap,Sarawak,225
+NLD,LTA Ipoh,Perak,224
+PHL,Tanjung Pengelih,Johor,224
+NPL,Roro Labuan,Labuan,223
+UZB,LTA Bayan Lepas,Pulau_Pinang,223
+SUR,LTA Kuala Lumpur Terminal 1,Selangor,222
+KHM,Pengkalan Hulu (Bukit Berapit),Perak,222
+CHN,Tebedu,Sarawak,221
+PAK,Rantau Panjang,Kelantan,219
+VNM,Rantau Panjang,Kelantan,219
+BGD,LTA Kuching,Sarawak,218
+KOR,Pejabat Imigresen Desaru Coast,Johor,218
+OMN,LTA Bayan Lepas,Pulau_Pinang,218
+NOR,Sungai Tujuh,Sarawak,218
+USA,Tedungan,Sarawak,217
+IDN,Telaga Harbour Park,Kedah,217
+CHE,LTA Subang Terminal 3,Selangor,216
+IRL,LTA Subang Terminal 3,Selangor,216
+PHL,Pengkalan Hulu (Bukit Berapit),Perak,215
+GTM,LTA Kuala Lumpur Terminal 1,Selangor,215
+TUR,Sungai Tujuh,Sarawak,215
+IND,LT Bintulu,Sarawak,214
+TTO,LTA Kuala Lumpur Terminal 2,Selangor,213
+ROU,Telaga Harbour Park,Kedah,213
+EGY,Pos Imigresen Mengkalap,Sarawak,213
+BEL,Padang Besar,Perlis,212
+ITA,Sungai Tujuh,Sarawak,212
+IDN,Kawasan Pelabuhan Sematan,Sarawak,212
+GBR,Stulang Laut,Johor,212
+CHE,Wang Kelian,Perlis,211
+OMN,Sungai Tujuh,Sarawak,208
+CHL,Bangunan Sultan Iskandar,Johor,208
+KAZ,Bukit Kayu Hitam,Kedah,208
+BTN,LTA Kuala Lumpur Terminal 2,Selangor,205
+GIN,LTA Kuala Lumpur Terminal 2,Selangor,205
+ARE,Gelang Patah,Johor,204
+AUS,Tanjung Pengelih,Johor,203
+AUS,LT Sibu,Sarawak,203
+COD,LTA Kuala Lumpur Terminal 1,Selangor,203
+FRA,Tanjung Pengelih,Johor,202
+JAM,LTA Kuala Lumpur Terminal 1,Selangor,202
+NLD,Pelabuhan Klang Barat - SCT,Selangor,202
+BEL,LTA Subang Terminal 3,Selangor,201
+IRL,Padang Besar,Perlis,200
+NOR,LTA Kota Kinabalu,Sabah,199
+PAK,Pelabuhan Klang Barat - SCT,Selangor,198
+ZAF,Bukit Kayu Hitam,Kedah,198
+UKR,LTA Sultan Ismail Senai,Johor,197
+SGP,Biawak,Sarawak,197
+MNG,LTA Bayan Lepas,Pulau_Pinang,196
+AUT,LTA Kuching,Sarawak,196
+ROU,Pelabuhan Tanjung Pelepas,Johor,196
+MAR,LTA Bayan Lepas,Pulau_Pinang,195
+CUB,LTA Kuala Lumpur Terminal 2,Selangor,194
+TZA,Gelang Patah,Johor,193
+PAN,LTA Kuala Lumpur Terminal 2,Selangor,193
+KWT,LTA Langkawi,Kedah,192
+TUR,Pelabuhan Klang Barat - SCT,Selangor,192
+PHL,Wang Kelian,Perlis,192
+PSE,Gelang Patah,Johor,192
+AUT,Padang Besar,Perlis,191
+SGP,Dermaga Labuan,Labuan,191
+DNK,Padang Besar,Perlis,190
+CAN,Stulang Laut,Johor,190
+BHR,Bangunan Sultan Iskandar,Johor,190
+CHN,Pandaruan,Sarawak,189
+HUN,LTA Kota Kinabalu,Sabah,189
+AUS,Tebedu,Sarawak,188
+TZA,Bangunan Sultan Iskandar,Johor,188
+GBR,Terminal Feri Puteri Harbour,Johor,187
+FIN,Bukit Kayu Hitam,Kedah,187
+IND,Terminal Feri Puteri Harbour,Johor,187
+EGY,LTA Bayan Lepas,Pulau_Pinang,187
+NZL,Telaga Harbour Park,Kedah,187
+CHE,Woodlands Train Checkpoint,Singapore,187
+JOR,Bangunan Sultan Iskandar,Johor,186
+LVA,Bangunan Sultan Iskandar,Johor,184
+IRL,LTA Kuching,Sarawak,184
+MLI,LTA Kuala Lumpur Terminal 1,Selangor,183
+NLD,LT Miri,Sarawak,183
+UKR,Jeti Kuah Langkawi,Kedah,183
+RWA,LTA Kuala Lumpur Terminal 1,Selangor,182
+BOL,LTA Kuala Lumpur Terminal 2,Selangor,182
+THA,Pelabuhan Melaka,Melaka,182
+ZAF,Jeti Kuah Langkawi,Kedah,181
+MKD,LTA Kuala Lumpur Terminal 2,Selangor,181
+JAM,LTA Kuala Lumpur Terminal 2,Selangor,181
+ITA,Woodlands Train Checkpoint,Singapore,181
+SGP,Pengkalan Kubur,Kelantan,180
+JPN,Pos Imigresen Mengkalap,Sarawak,180
+JOR,LTA Bayan Lepas,Pulau_Pinang,180
+POL,Sungai Tujuh,Sarawak,180
+GBR,LTA Kuantan,Pahang,180
+HKG,Pelabuhan Klang Barat - SCT,Selangor,179
+SVN,Bangunan Sultan Iskandar,Johor,179
+DEU,LT Miri,Sarawak,178
+IDN,Tanjung Belungkor,Johor,178
+JPN,Dermaga Labuan,Labuan,177
+ESP,Sungai Tujuh,Sarawak,177
+PAK,LTA Kota Kinabalu,Sabah,177
+KWT,LTA Bayan Lepas,Pulau_Pinang,177
+KOR,Wang Kelian,Perlis,175
+ZAF,Padang Besar,Perlis,175
+NLD,LTA Sultan Ismail Senai,Johor,174
+HND,LTA Kuala Lumpur Terminal 1,Selangor,174
+NOR,Bukit Kayu Hitam,Kedah,174
+IDN,LT Sibu,Sarawak,174
+SGP,Pejabat Imigresen Port Swettenham,Selangor,173
+MMR,LTA Subang Terminal 3,Selangor,172
+PRT,Jeti Kuah Langkawi,Kedah,172
+LBR,LTA Kuala Lumpur Terminal 1,Selangor,172
+NZL,LT Miri,Sarawak,171
+KGZ,Gelang Patah,Johor,171
+RUS,LTA Kuching,Sarawak,170
+UGA,Gelang Patah,Johor,169
+ESP,Woodlands Train Checkpoint,Singapore,169
+KHM,Woodlands Train Checkpoint,Singapore,169
+SVN,Gelang Patah,Johor,169
+CHE,Sungai Tujuh,Sarawak,168
+JOR,Gelang Patah,Johor,168
+CHE,Pelabuhan Klang Barat - SCT,Selangor,168
+ZMB,LTA Kuala Lumpur Terminal 2,Selangor,168
+PNG,Gelang Patah,Johor,168
+SYR,Bangunan Sultan Iskandar,Johor,168
+BRA,Jeti Kuah Langkawi,Kedah,167
+BGR,LTA Langkawi,Kedah,166
+IDN,Jeti Tioman,Pahang,166
+CYP,Gelang Patah,Johor,166
+LAO,ICQ Durian Burung,Kedah,166
+LAO,LTA Sultan Ismail Senai,Johor,166
+SYC,LTA Kuala Lumpur Terminal 2,Selangor,165
+ARE,LTA Langkawi,Kedah,165
+CHN,Pelabuhan Klang Utara,Selangor,164
+LBN,Bangunan Sultan Iskandar,Johor,164
+NPL,LT Miri,Sarawak,164
+BGD,Pelabuhan Tanjung Pelepas,Johor,164
+FRA,LT Miri,Sarawak,164
+AFG,LTA Kuala Lumpur Terminal 2,Selangor,164
+GRD,LTA Kuala Lumpur Terminal 1,Selangor,163
+THA,Terminal Feri Puteri Harbour,Johor,163
+TUR,Pelabuhan Tanjung Pelepas,Johor,163
+ZAF,Pelabuhan Klang Barat - SCT,Selangor,162
+ZAF,Pos Imigresen Mengkalap,Sarawak,162
+JPN,Tanjung Belungkor,Johor,162
+GAB,LTA Kuala Lumpur Terminal 1,Selangor,162
+SLV,LTA Kuala Lumpur Terminal 1,Selangor,162
+KOR,LT Bintulu,Sarawak,161
+BRA,LTA Kota Kinabalu,Sabah,161
+RUS,Pelabuhan Klang Barat - KMT,Selangor,161
+JPN,Rantau Panjang,Kelantan,160
+VNM,Pos Imigresen Mengkalap,Sarawak,160
+DOM,LTA Kuala Lumpur Terminal 2,Selangor,160
+PNG,Bangunan Sultan Iskandar,Johor,160
+IRQ,Bangunan Sultan Iskandar,Johor,158
+ARG,LTA Bayan Lepas,Pulau_Pinang,158
+GRC,LTA Bayan Lepas,Pulau_Pinang,158
+AUS,Pandaruan,Sarawak,158
+PHL,Telaga Harbour Park,Kedah,157
+DEU,Dermaga Labuan,Labuan,157
+CZE,LTA Kuching,Sarawak,157
+EST,LTA Bayan Lepas,Pulau_Pinang,156
+AUS,Dermaga Labuan,Labuan,156
+EST,Jeti Kuah Langkawi,Kedah,156
+HND,LTA Kuala Lumpur Terminal 2,Selangor,155
+GBR,Tanjung Belungkor,Johor,154
+BLR,Gelang Patah,Johor,154
+MUS,LTA Bayan Lepas,Pulau_Pinang,154
+BRN,LT Tawau,Sabah,154
+RUS,Woodlands Train Checkpoint,Singapore,153
+UKR,LTA Kota Kinabalu,Sabah,153
+BGR,LTA Bayan Lepas,Pulau_Pinang,153
+ZAF,LTA Subang Terminal 3,Selangor,152
+LTU,LTA Bayan Lepas,Pulau_Pinang,152
+XXX,Woodlands Train Checkpoint,Singapore,152
+QAT,LTA Kuala Lumpur Terminal 2,Selangor,151
+NPL,LTA Kota Kinabalu,Sabah,151
+AUS,Rantau Panjang,Kelantan,151
+NLD,Pos Imigresen Mengkalap,Sarawak,151
+ZAF,Telaga Harbour Park,Kedah,151
+XXX,Bukit Kayu Hitam,Kedah,150
+CHL,Bukit Kayu Hitam,Kedah,150
+UGA,Bangunan Sultan Iskandar,Johor,149
+VEN,Bangunan Sultan Iskandar,Johor,148
+USA,Tanjung Pengelih,Johor,148
+BEN,LTA Kuala Lumpur Terminal 1,Selangor,148
+SWE,LTA Subang Terminal 3,Selangor,148
+TUN,Bangunan Sultan Iskandar,Johor,147
+LKA,LTA Kota Kinabalu,Sabah,147
+ZWE,Bangunan Sultan Iskandar,Johor,146
+TWN,Pejabat Imigresen Desaru Coast,Johor,146
+NZL,Pelabuhan Klang Barat - SCT,Selangor,146
+KAZ,LTA Bayan Lepas,Pulau_Pinang,146
+PAK,Stulang Laut,Johor,145
+PHL,Jeti Tioman,Pahang,145
+USA,Pelabuhan Kuching,Sarawak,144
+USA,Terminal Feri Puteri Harbour,Johor,143
+NLD,Tebedu,Sarawak,143
+CHN,Wang Kelian,Perlis,142
+ITA,Wang Kelian,Perlis,142
+IND,Roro Labuan,Labuan,142
+KHM,LTA Sultan Ismail Senai,Johor,141
+ITA,LTA Sultan Ismail Senai,Johor,141
+UKR,Wang Kelian,Perlis,141
+SWE,Rantau Panjang,Kelantan,141
+USA,Dermaga Labuan,Labuan,140
+IND,Wang Kelian,Perlis,140
+BRN,Stulang Laut,Johor,140
+CAN,Pengkalan Hulu (Bukit Berapit),Perak,140
+IND,LTA Kuantan,Pahang,139
+USA,LTA Kuantan,Pahang,139
+SGP,LT Batu Berendam,Melaka,139
+RUS,Tedungan,Sarawak,138
+CZE,Padang Besar,Perlis,137
+CHN,Rantau Panjang,Kelantan,136
+PHL,LT Bintulu,Sarawak,136
+ROU,Jeti Kuah Langkawi,Kedah,135
+IDN,LTA Kuantan,Pahang,135
+IRL,Woodlands Train Checkpoint,Singapore,135
+IRN,LTA Bayan Lepas,Pulau_Pinang,135
+SAU,Woodlands Train Checkpoint,Singapore,134
+FRA,Pelabuhan Klang Barat - SCT,Selangor,134
+POL,LTA Subang Terminal 3,Selangor,134
+IRL,Pejabat Imigresen Desaru Coast,Johor,133
+BHR,Gelang Patah,Johor,133
+QAT,Bangunan Sultan Iskandar,Johor,132
+BRA,LTA Subang Terminal 3,Selangor,132
+TWN,Pandaruan,Sarawak,132
+PRT,Bukit Kayu Hitam,Kedah,132
+BGD,Dermaga Labuan,Labuan,131
+SWE,Woodlands Train Checkpoint,Singapore,131
+BLR,Bukit Kayu Hitam,Kedah,131
+BLR,LTA Bayan Lepas,Pulau_Pinang,131
+JPN,LTA Kuantan,Pahang,130
+IRL,LTA Ipoh,Perak,130
+ITA,LTA Ipoh,Perak,130
+BGD,Pelabuhan Klang Barat - SCT,Selangor,130
+CHL,LTA Bayan Lepas,Pulau_Pinang,129
+CAN,Pejabat Imigresen Desaru Coast,Johor,129
+ZAF,Woodlands Train Checkpoint,Singapore,129
+UKR,Padang Besar,Perlis,128
+NOR,LTA Subang Terminal 3,Selangor,128
+MDV,LTA Langkawi,Kedah,127
+BRA,Woodlands Train Checkpoint,Singapore,127
+ZAF,LTA Kuching,Sarawak,127
+ECU,Gelang Patah,Johor,127
+ROU,LTA Kota Kinabalu,Sabah,126
+THA,LT Miri,Sarawak,126
+JPN,Pandaruan,Sarawak,125
+PAK,LTA Sultan Ismail Senai,Johor,125
+BGD,Pelabuhan Klang Barat - KMT,Selangor,124
+TWN,Dermaga Labuan,Labuan,124
+MEX,Pelabuhan Klang Barat - SCT,Selangor,124
+SVN,Telaga Harbour Park,Kedah,124
+KOR,LT Miri,Sarawak,124
+BGD,LTA Subang Terminal 3,Selangor,123
+SVK,LTA Kota Kinabalu,Sabah,123
+LCA,LTA Kuala Lumpur Terminal 1,Selangor,123
+TUR,LTA Kota Kinabalu,Sabah,123
+LTU,Telaga Harbour Park,Kedah,122
+BFA,LTA Kuala Lumpur Terminal 1,Selangor,122
+SLV,LTA Kuala Lumpur Terminal 2,Selangor,122
+MLT,LTA Bayan Lepas,Pulau_Pinang,122
+JPN,Pelabuhan Klang Barat - KMT,Selangor,122
+JPN,Pengkalan Hulu (Bukit Berapit),Perak,122
+FRA,Stulang Laut,Johor,121
+IND,Jeti Pasir Gudang,Johor,121
+SUR,LTA Kuala Lumpur Terminal 2,Selangor,121
+TON,LTA Kuala Lumpur Terminal 1,Selangor,121
+MMR,Tedungan,Sarawak,120
+DMA,LTA Kuala Lumpur Terminal 2,Selangor,120
+POL,Pelabuhan Tanjung Pelepas,Johor,120
+MDV,LTA Bayan Lepas,Pulau_Pinang,120
+TGO,LTA Kuala Lumpur Terminal 1,Selangor,119
+IRL,Tedungan,Sarawak,119
+SAU,Sungai Tujuh,Sarawak,119
+LBN,Gelang Patah,Johor,118
+ESP,LTA Sultan Ismail Senai,Johor,118
+RUS,Dermaga Labuan,Labuan,117
+THA,Pasir Gudang,Johor,117
+THA,Dermaga Labuan,Labuan,117
+RUS,Pos Imigresen Mengkalap,Sarawak,117
+ARG,LTA Langkawi,Kedah,117
+ESP,LTA Ipoh,Perak,117
+NPL,LTA Langkawi,Kedah,116
+SLE,LTA Kuala Lumpur Terminal 2,Selangor,116
+POL,Woodlands Train Checkpoint,Singapore,116
+BLR,LTA Langkawi,Kedah,116
+NZL,Wang Kelian,Perlis,116
+VNM,LT Miri,Sarawak,116
+EGY,Stulang Laut,Johor,116
+TLS,LTA Bayan Lepas,Pulau_Pinang,115
+IRL,Wang Kelian,Perlis,115
+CHE,LTA Ipoh,Perak,114
+CMR,LTA Kuala Lumpur Terminal 2,Selangor,114
+FIN,Padang Besar,Perlis,114
+AGO,LTA Kuala Lumpur Terminal 1,Selangor,114
+FRA,Tedungan,Sarawak,114
+PHL,Tebedu,Sarawak,113
+NLD,Pejabat Imigresen Desaru Coast,Johor,112
+MDG,Gelang Patah,Johor,112
+CRI,Gelang Patah,Johor,112
+AUS,Tanjung Belungkor,Johor,112
+NOR,Padang Besar,Perlis,112
+KOR,Pandaruan,Sarawak,112
+IND,Rantau Panjang,Kelantan,111
+AUS,LT Sandakan,Sabah,111
+NZL,LTA Sultan Ismail Senai,Johor,111
+NZL,Pos Imigresen Mengkalap,Sarawak,111
+TUR,LTA Subang Terminal 3,Selangor,111
+LKA,LTA Kuching,Sarawak,111
+PRY,LTA Kuala Lumpur Terminal 1,Selangor,111
+FRA,Pos Imigresen Mengkalap,Sarawak,111
+LUX,Gelang Patah,Johor,110
+BRA,Padang Besar,Perlis,110
+BLR,Bangunan Sultan Iskandar,Johor,110
+LTU,Jeti Kuah Langkawi,Kedah,110
+ITA,Pos Imigresen Mengkalap,Sarawak,110
+GBR,Pasir Gudang,Johor,110
+NPL,Tedungan,Sarawak,110
+IDN,Pejabat Imigresen Port Swettenham,Selangor,109
+LVA,Pos Imigresen Mengkalap,Sarawak,109
+MNG,LTA Kota Kinabalu,Sabah,109
+PHL,Pelabuhan Kuantan,Pahang,109
+DEU,Tanjung Pengelih,Johor,109
+BGD,Tedungan,Sarawak,109
+MNG,Bukit Kayu Hitam,Kedah,108
+MMR,Pasir Gudang,Johor,108
+VNM,Jeti Kuah Langkawi,Kedah,108
+BDI,LTA Kuala Lumpur Terminal 1,Selangor,108
+GBR,Jeti Tioman,Pahang,108
+BRN,LT Sandakan,Sabah,108
+JOR,LTA Langkawi,Kedah,108
+PRT,LTA Subang Terminal 3,Selangor,107
+PAK,LTA Subang Terminal 3,Selangor,107
+NZL,Pejabat Imigresen Desaru Coast,Johor,107
+DEU,Stulang Laut,Johor,107
+CRI,LTA Bayan Lepas,Pulau_Pinang,106
+AUT,LTA Subang Terminal 3,Selangor,106
+SAU,Rantau Panjang,Kelantan,106
+VEN,Gelang Patah,Johor,106
+TWN,Telaga Harbour Park,Kedah,105
+ARM,Gelang Patah,Johor,105
+SAU,Padang Besar,Perlis,105
+ALB,Gelang Patah,Johor,105
+ZAF,LT Miri,Sarawak,105
+HUN,LTA Kuching,Sarawak,105
+BEL,Sungai Tujuh,Sarawak,105
+SLB,LTA Kuala Lumpur Terminal 1,Selangor,105
+GBR,Roro Labuan,Labuan,104
+LVA,LTA Kota Kinabalu,Sabah,104
+NOR,LTA Kuching,Sarawak,104
+DEU,Pandaruan,Sarawak,104
+CRI,Bangunan Sultan Iskandar,Johor,104
+VNM,Wang Kelian,Perlis,104
+MMR,Pos Imigresen Mengkalap,Sarawak,103
+MMR,Padang Besar,Perlis,103
+PAK,Pelabuhan Tanjung Pelepas,Johor,103
+PHL,Lubok Antu,Sarawak,103
+KOR,Dermaga Labuan,Labuan,102
+SRB,Gelang Patah,Johor,102
+POL,Wang Kelian,Perlis,102
+NPL,Bukit Kayu Hitam,Kedah,102
+EGY,Woodlands Train Checkpoint,Singapore,102
+ESP,Rantau Panjang,Kelantan,101
+SWE,Sungai Tujuh,Sarawak,101
+BGD,Stulang Laut,Johor,101
+TWN,Jeti Kuah Langkawi,Kedah,101
+FIN,LTA Kuching,Sarawak,101
+ARG,Padang Besar,Perlis,99
+PHL,LTA Kuantan,Pahang,99
+CAN,Rantau Panjang,Kelantan,99
+PRT,Pelabuhan Klang Barat - KMT,Selangor,99
+TON,LTA Kuala Lumpur Terminal 2,Selangor,99
+BEL,Woodlands Train Checkpoint,Singapore,99
+EGY,LTA Langkawi,Kedah,99
+HKG,Pelabuhan Klang Barat - KMT,Selangor,98
+ESP,Pelabuhan Klang Barat - SCT,Selangor,98
+ETH,LTA Kuala Lumpur Terminal 2,Selangor,98
+AUT,Pelabuhan Klang Utara,Selangor,98
+ZWE,Gelang Patah,Johor,98
+IND,Tanjung Belungkor,Johor,97
+PRY,LTA Kuala Lumpur Terminal 2,Selangor,97
+IND,Pasir Gudang,Johor,97
+HRV,LTA Bayan Lepas,Pulau_Pinang,97
+GEO,Pelabuhan Tanjung Pelepas,Johor,96
+IRN,Bukit Kayu Hitam,Kedah,96
+DEU,LTA Kuantan,Pahang,96
+AUT,Wang Kelian,Perlis,96
+LSO,LTA Kuala Lumpur Terminal 1,Selangor,96
+GBR,LT Tawau,Sabah,96
+ESP,Wang Kelian,Perlis,95
+LCA,Gelang Patah,Johor,95
+SGP,ICQ Durian Burung,Kedah,95
+GMB,LTA Kuala Lumpur Terminal 2,Selangor,95
+ECU,Bangunan Sultan Iskandar,Johor,94
+PHL,Tanjung Belungkor,Johor,94
+GRC,LTA Langkawi,Kedah,94
+SVK,Jeti Kuah Langkawi,Kedah,94
+PHL,Pelabuhan Klang Utara,Selangor,94
+GHA,Gelang Patah,Johor,93
+SGP,Jeti Port Dickson,Negeri_Sembilan,93
+HUN,Bukit Kayu Hitam,Kedah,93
+UZB,LTA Langkawi,Kedah,93
+NGA,Sungai Tujuh,Sarawak,93
+USA,Tebedu,Sarawak,92
+IDN,LT Sandakan,Sabah,92
+TUR,Jeti Kuah Langkawi,Kedah,92
+IRN,LTA Langkawi,Kedah,92
+COL,Pelabuhan Klang Barat - SCT,Selangor,91
+MAR,LTA Langkawi,Kedah,91
+BRN,Pelabuhan Klang Barat - SCT,Selangor,90
+SWE,LTA Ipoh,Perak,90
+KHM,Sungai Tujuh,Sarawak,90
+THA,Pelabuhan Klang Utara,Selangor,90
+KOR,Pengkalan Hulu (Bukit Berapit),Perak,90
+PSE,Bangunan Sultan Iskandar,Johor,89
+USA,Tanjung Belungkor,Johor,89
+LAO,Sungai Tujuh,Sarawak,89
+OMN,LTA Langkawi,Kedah,89
+BGD,Pelabuhan Klang Utara,Selangor,89
+ITA,Rantau Panjang,Kelantan,89
+ZAF,LTA Sultan Ismail Senai,Johor,89
+ISL,Bangunan Sultan Iskandar,Johor,88
+CHE,Pejabat Imigresen Desaru Coast,Johor,88
+CAN,Dermaga Labuan,Labuan,88
+RUS,Pengkalan Kubur,Kelantan,88
+LTU,LTA Kota Kinabalu,Sabah,87
+TWN,Terminal Feri Puteri Harbour,Johor,87
+LVA,LTA Langkawi,Kedah,87
+DEU,Tebedu,Sarawak,87
+SDN,Gelang Patah,Johor,87
+IND,Jeti Kuah Langkawi,Kedah,87
+MEX,LTA Langkawi,Kedah,86
+TUN,Gelang Patah,Johor,86
+CHL,Telaga Harbour Park,Kedah,86
+MLT,Gelang Patah,Johor,86
+ESP,Pejabat Imigresen Desaru Coast,Johor,86
+LKA,Pelabuhan Klang Barat - SCT,Selangor,86
+USA,LT Sibu,Sarawak,85
+BRN,Rantau Panjang,Kelantan,85
+JPN,LT Bintulu,Sarawak,85
+NLD,Stulang Laut,Johor,85
+BRB,LTA Kuala Lumpur Terminal 1,Selangor,85
+NIC,LTA Kuala Lumpur Terminal 1,Selangor,85
+MMR,LT Miri,Sarawak,85
+SWE,Wang Kelian,Perlis,84
+VNM,Telaga Harbour Park,Kedah,84
+GRD,Gelang Patah,Johor,84
+GBR,Tebedu,Sarawak,83
+MEX,LTA Kota Kinabalu,Sabah,83
+KOR,Tanjung Pengelih,Johor,83
+SDN,Bangunan Sultan Iskandar,Johor,83
+BEL,Wang Kelian,Perlis,82
+GRC,Pelabuhan Tanjung Pelepas,Johor,82
+NOR,Wang Kelian,Perlis,82
+KHM,Stulang Laut,Johor,82
+IND,Pelabuhan Melaka,Melaka,82
+GRC,LTA Kuching,Sarawak,82
+CZE,Woodlands Train Checkpoint,Singapore,82
+CAN,Pandaruan,Sarawak,82
+GRC,Telaga Harbour Park,Kedah,81
+SAU,LTA Sultan Ismail Senai,Johor,81
+CZE,LTA Subang Terminal 3,Selangor,81
+LKA,Pelabuhan Tanjung Pelepas,Johor,81
+PAK,LTA Kuching,Sarawak,81
+SGP,LT Bintulu,Sarawak,81
+AUS,Biawak,Sarawak,81
+TUR,Telaga Harbour Park,Kedah,81
+DEU,Pengkalan Hulu (Bukit Berapit),Perak,81
+PRT,Woodlands Train Checkpoint,Singapore,80
+YEM,LTA Bayan Lepas,Pulau_Pinang,80
+USA,Pandaruan,Sarawak,80
+FRA,Tanjung Belungkor,Johor,80
+BIH,Gelang Patah,Johor,80
+LKA,Bukit Kayu Hitam,Kedah,79
+KOR,Tebedu,Sarawak,79
+BIH,Bangunan Sultan Iskandar,Johor,79
+EGY,LTA Kota Kinabalu,Sabah,79
+UKR,Rantau Panjang,Kelantan,78
+SAU,LTA Subang Terminal 3,Selangor,78
+OMN,LTA Sultan Ismail Senai,Johor,78
+SVN,LTA Bayan Lepas,Pulau_Pinang,78
+PAK,LT Tawau,Sabah,78
+BLZ,LTA Kuala Lumpur Terminal 2,Selangor,78
+PHL,LT Tawau,Sabah,78
+IDN,Pos Imigresen Bukit Bunga,Kelantan,77
+CHL,Padang Besar,Perlis,77
+USA,Biawak,Sarawak,77
+POL,Pelabuhan Klang Barat - SCT,Selangor,76
+VUT,LTA Bayan Lepas,Pulau_Pinang,76
+MOZ,LTA Kuala Lumpur Terminal 2,Selangor,76
+PER,LTA Bayan Lepas,Pulau_Pinang,76
+ZAF,Wang Kelian,Perlis,76
+MLT,Bangunan Sultan Iskandar,Johor,75
+KOR,Pelabuhan Tanjung Pelepas,Johor,75
+MEX,LTA Subang Terminal 3,Selangor,75
+HKG,LTA Kuala Lumpur Terminal 1,Selangor,75
+KAZ,Telaga Harbour Park,Kedah,75
+TUR,LTA Sultan Ismail Senai,Johor,75
+RUS,Stulang Laut,Johor,75
+BRA,LTA Sultan Ismail Senai,Johor,75
+LKA,LTA Ipoh,Perak,74
+MMR,Tanjung Pengelih,Johor,74
+PAK,Dermaga Labuan,Labuan,74
+IRN,Padang Besar,Perlis,74
+BGR,Telaga Harbour Park,Kedah,74
+AUS,Pasir Gudang,Johor,74
+NPL,Pelabuhan Klang Barat - KMT,Selangor,73
+DNK,Wang Kelian,Perlis,73
+BGD,LTA Kota Kinabalu,Sabah,73
+VNM,Pengkalan Kubur,Kelantan,73
+BTN,Gelang Patah,Johor,73
+PAN,Gelang Patah,Johor,73
+TWN,Pelabuhan Melaka,Melaka,72
+GUY,LTA Kuala Lumpur Terminal 1,Selangor,72
+NZL,Pengkalan Hulu (Bukit Berapit),Perak,72
+BHS,LTA Kuala Lumpur Terminal 1,Selangor,72
+THA,Jeti Kukup,Johor,72
+MDG,Bangunan Sultan Iskandar,Johor,72
+THA,Tanjung Pengelih,Johor,72
+CHN,Pasir Gudang,Johor,71
+GRD,Bangunan Sultan Iskandar,Johor,71
+KIR,LTA Kuala Lumpur Terminal 1,Selangor,71
+NLD,Rantau Panjang,Kelantan,71
+VNM,Pelabuhan Klang Utara,Selangor,71
+SRB,Bangunan Sultan Iskandar,Johor,71
+TUN,LTA Bayan Lepas,Pulau_Pinang,71
+PHL,Jeti Pasir Gudang,Johor,70
+BRA,LTA Kuching,Sarawak,70
+SLB,Gelang Patah,Johor,70
+THA,LT Tawau,Sabah,70
+DNK,LTA Ipoh,Perak,70
+OMN,Woodlands Train Checkpoint,Singapore,70
+BLZ,LTA Kuala Lumpur Terminal 1,Selangor,70
+SVN,Jeti Kuah Langkawi,Kedah,69
+TUR,Pos Imigresen Mengkalap,Sarawak,69
+VEN,Sungai Tujuh,Sarawak,69
+SYR,Gelang Patah,Johor,69
+KHM,Pelabuhan Klang Barat - SCT,Selangor,69
+TUR,Wang Kelian,Perlis,69
+LIE,LTA Kuala Lumpur Terminal 1,Selangor,69
+TCD,LTA Kuala Lumpur Terminal 2,Selangor,68
+NZL,Terminal Feri Puteri Harbour,Johor,68
+AUT,Sungai Tujuh,Sarawak,68
+PAK,Pelabuhan Klang Barat - KMT,Selangor,68
+TTO,Bangunan Sultan Iskandar,Johor,68
+TUR,Woodlands Train Checkpoint,Singapore,68
+NGA,LTA Bayan Lepas,Pulau_Pinang,68
+NLD,LT Sandakan,Sabah,68
+LTU,Bukit Kayu Hitam,Kedah,68
+SEN,Gelang Patah,Johor,68
+PHL,Biawak,Sarawak,68
+MKD,Gelang Patah,Johor,67
+MAR,Sungai Tujuh,Sarawak,67
+KAZ,Wang Kelian,Perlis,67
+ATG,Gelang Patah,Johor,67
+COL,LTA Bayan Lepas,Pulau_Pinang,67
+PRT,LTA Kuching,Sarawak,67
+LVA,LTA Bayan Lepas,Pulau_Pinang,66
+THA,Pelabuhan Tanjung Pelepas,Johor,66
+POL,Pelabuhan Klang Barat - KMT,Selangor,66
+MNG,Padang Besar,Perlis,66
+AND,LTA Kuala Lumpur Terminal 1,Selangor,66
+KOR,LTA Kuantan,Pahang,66
+PRT,Padang Besar,Perlis,66
+EGY,Terminal Feri Puteri Harbour,Johor,65
+BGD,Padang Besar,Perlis,65
+ZAF,Pejabat Imigresen Desaru Coast,Johor,65
+AUT,LTA Ipoh,Perak,65
+ROU,LTA Subang Terminal 3,Selangor,64
+MUS,Woodlands Train Checkpoint,Singapore,64
+GHA,Bangunan Sultan Iskandar,Johor,64
+BRA,LTA Ipoh,Perak,64
+GIN,Gelang Patah,Johor,64
+FRA,Pelabuhan Melaka,Melaka,64
+JPN,Terminal Feri Puteri Harbour,Johor,64
+DEU,Pelabuhan Melaka,Melaka,63
+IDN,Bunan Gega,Sarawak,63
+DNK,LTA Sultan Ismail Senai,Johor,63
+UKR,Pasir Gudang,Johor,63
+SYC,Gelang Patah,Johor,63
+HRV,LTA Langkawi,Kedah,63
+JPN,Wang Kelian,Perlis,63
+MUS,Bukit Kayu Hitam,Kedah,63
+LTU,Padang Besar,Perlis,63
+NLD,Tedungan,Sarawak,63
+FRA,Pengkalan Kubur,Kelantan,63
+HND,Gelang Patah,Johor,63
+ZAF,Dermaga Labuan,Labuan,63
+LTU,Pos Imigresen Mengkalap,Sarawak,63
+RUS,Pejabat Imigresen Desaru Coast,Johor,63
+USA,Pejabat Imigresen Port Swettenham,Selangor,63
+ITA,Pelabuhan Klang Barat - SCT,Selangor,62
+USA,LT Tawau,Sabah,62
+SRB,LTA Bayan Lepas,Pulau_Pinang,62
+KAZ,LTA Kota Kinabalu,Sabah,62
+BRN,LTA Subang Terminal 3,Selangor,62
+ITA,Tedungan,Sarawak,62
+CHL,Jeti Kuah Langkawi,Kedah,62
+MAR,Bukit Kayu Hitam,Kedah,62
+SVN,LTA Langkawi,Kedah,61
+THA,Pejabat Imigresen Desaru Coast,Johor,61
+LUX,Bangunan Sultan Iskandar,Johor,61
+EST,LTA Kota Kinabalu,Sabah,61
+WSM,LTA Kuala Lumpur Terminal 1,Selangor,61
+PHL,LT Sibu,Sarawak,61
+NLD,Dermaga Labuan,Labuan,60
+MMR,Pejabat Imigresen Desaru Coast,Johor,60
+FRA,Pelabuhan Klang Barat - KMT,Selangor,60
+BGD,Pejabat Imigresen Desaru Coast,Johor,60
+CAN,Pelabuhan Klang Barat - KMT,Selangor,60
+LBN,LTA Bayan Lepas,Pulau_Pinang,60
+IRL,LTA Sultan Ismail Senai,Johor,60
+CAN,Terminal Feri Puteri Harbour,Johor,60
+SUR,Gelang Patah,Johor,59
+IRQ,LTA Bayan Lepas,Pulau_Pinang,59
+NZL,Pelabuhan Klang Barat - KMT,Selangor,59
+ROU,Bukit Kayu Hitam,Kedah,59
+MWI,LTA Kuala Lumpur Terminal 2,Selangor,59
+ZAF,Pandaruan,Sarawak,59
+RUS,Pasir Gudang,Johor,58
+ITA,Pejabat Imigresen Desaru Coast,Johor,58
+AUS,LT Tawau,Sabah,58
+ITA,Pelabuhan Klang Barat - KMT,Selangor,58
+ZAF,Rantau Panjang,Kelantan,58
+CAN,Tanjung Pengelih,Johor,58
+LUX,LTA Bayan Lepas,Pulau_Pinang,58
+TWN,LT Sibu,Sarawak,58
+DMA,Gelang Patah,Johor,58
+HRV,Pelabuhan Tanjung Pelepas,Johor,58
+FJI,LTA Bayan Lepas,Pulau_Pinang,57
+ARE,LTA Bayan Lepas,Pulau_Pinang,57
+FIN,Sungai Tujuh,Sarawak,57
+CHE,Rantau Panjang,Kelantan,57
+SGP,Roro Labuan,Labuan,57
+TLS,Jeti Pasir Gudang,Johor,57
+BRN,Pengkalan Kubur,Kelantan,57
+POL,LTA Ipoh,Perak,57
+MRT,LTA Kuala Lumpur Terminal 2,Selangor,57
+TTO,Gelang Patah,Johor,57
+SAU,LTA Kota Kinabalu,Sabah,57
+HTI,LTA Kuala Lumpur Terminal 1,Selangor,56
+TWN,LT Tawau,Sabah,56
+CHN,LT Sandakan,Sabah,56
+SGP,Pos Imigresen Bukit Bunga,Kelantan,56
+GRC,LTA Subang Terminal 3,Selangor,56
+VNM,Pandaruan,Sarawak,56
+CZE,Sungai Tujuh,Sarawak,56
+BEL,LTA Ipoh,Perak,56
+NAM,LTA Kuala Lumpur Terminal 2,Selangor,56
+LKA,LTA Subang Terminal 3,Selangor,56
+AUT,Rantau Panjang,Kelantan,56
+DMA,Bangunan Sultan Iskandar,Johor,56
+BGD,Tanjung Pengelih,Johor,56
+COG,LTA Kuala Lumpur Terminal 1,Selangor,56
+GRC,LTA Kota Kinabalu,Sabah,55
+FIN,Woodlands Train Checkpoint,Singapore,55
+PHL,LT Labuan,Labuan,55
+EGY,Bukit Kayu Hitam,Kedah,55
+KEN,LTA Bayan Lepas,Pulau_Pinang,55
+BRN,LT Bintulu,Sarawak,55
+DZA,LTA Bayan Lepas,Pulau_Pinang,55
+JOR,Bukit Kayu Hitam,Kedah,55
+DEU,Terminal Feri Puteri Harbour,Johor,55
+LVA,Jeti Kuah Langkawi,Kedah,55
+HTI,LTA Kuala Lumpur Terminal 2,Selangor,55
+FRA,Pengkalan Hulu (Bukit Berapit),Perak,55
+HKG,Pengkalan Hulu (Bukit Berapit),Perak,54
+NLD,Pengkalan Hulu (Bukit Berapit),Perak,54
+CUB,Gelang Patah,Johor,54
+CYP,Bangunan Sultan Iskandar,Johor,54
+AUT,Woodlands Train Checkpoint,Singapore,54
+AUS,Pelabuhan Melaka,Melaka,54
+AUS,Pelabuhan Klang Utara,Selangor,54
+MNG,Woodlands Train Checkpoint,Singapore,54
+IND,Telaga Harbour Park,Kedah,54
+FIN,LTA Subang Terminal 3,Selangor,54
+ARG,LTA Sultan Ismail Senai,Johor,54
+MNG,LTA Sultan Ismail Senai,Johor,54
+NLD,Terminal Feri Puteri Harbour,Johor,53
+XXX,LTA Subang Terminal 3,Selangor,53
+SVK,LTA Subang Terminal 3,Selangor,53
+SGP,LT Sandakan,Sabah,53
+BTN,Bangunan Sultan Iskandar,Johor,53
+IRN,Sungai Tujuh,Sarawak,53
+BHS,LTA Kuala Lumpur Terminal 2,Selangor,53
+DEU,Pelabuhan Tanjung Pelepas,Johor,53
+BRA,Sungai Tujuh,Sarawak,53
+MMR,LT Bintulu,Sarawak,52
+VNM,Tanjung Pengelih,Johor,52
+DEU,Pejabat Imigresen Port Swettenham,Selangor,52
+LKA,Tedungan,Sarawak,52
+TWN,Pelabuhan Klang Utara,Selangor,52
+DEU,Pengkalan Kubur,Kelantan,52
+GRD,LTA Kuala Lumpur Terminal 2,Selangor,52
+BEL,LTA Sultan Ismail Senai,Johor,52
+KEN,Bukit Kayu Hitam,Kedah,52
+KNA,LTA Bayan Lepas,Pulau_Pinang,52
+BGD,LTA Sultan Ismail Senai,Johor,52
+FRA,Dermaga Labuan,Labuan,52
+ITA,LT Miri,Sarawak,51
+TLS,Stulang Laut,Johor,51
+BRN,LT Sibu,Sarawak,51
+CHN,Roro Labuan,Labuan,51
+BTN,LTA Bayan Lepas,Pulau_Pinang,51
+USA,Pelabuhan Melaka,Melaka,51
+IND,LT Tawau,Sabah,51
+THA,LT Bintulu,Sarawak,51
+BGD,LTA Ipoh,Perak,51
+VNM,Pejabat Imigresen Desaru Coast,Johor,50
+GRC,Pelabuhan Klang Barat - KMT,Selangor,50
+VNM,LTA Kuala Terengganu,Terengganu,50
+ERI,LTA Kuala Lumpur Terminal 2,Selangor,50
+DZA,LTA Langkawi,Kedah,50
+DNK,Woodlands Train Checkpoint,Singapore,49
+JPN,Roro Labuan,Labuan,49
+LBN,LTA Langkawi,Kedah,49
+SDN,Sungai Tujuh,Sarawak,49
+PRY,Gelang Patah,Johor,49
+NZL,Rantau Panjang,Kelantan,49
+PHL,ICQS Kudat,Sabah,49
+IDN,Pelabuhan Kuantan,Pahang,49
+NZL,Dermaga Labuan,Labuan,49
+GRC,Bukit Kayu Hitam,Kedah,49
+MEX,Bukit Kayu Hitam,Kedah,49
+LAO,Jeti Kuah Langkawi,Kedah,48
+HKG,Gelang Patah,Johor,48
+KOR,Pelabuhan Melaka,Melaka,48
+POL,LTA Sultan Ismail Senai,Johor,48
+KAZ,Sungai Tujuh,Sarawak,48
+FIN,LTA Ipoh,Perak,48
+ZAF,Pelabuhan Klang Barat - KMT,Selangor,48
+IND,Tebedu,Sarawak,48
+CZE,Dermaga Labuan,Labuan,48
+CHL,LTA Langkawi,Kedah,48
+TWN,Tanjung Belungkor,Johor,48
+CHN,Jeti Tioman,Pahang,48
+TUN,LTA Langkawi,Kedah,48
+POL,LT Miri,Sarawak,48
+BRA,Pejabat Imigresen Desaru Coast,Johor,48
+IND,Jeti Kukup,Johor,47
+SAU,Pandaruan,Sarawak,47
+MNE,LTA Kuala Lumpur Terminal 2,Selangor,47
+MAR,LTA Kota Kinabalu,Sabah,47
+CHN,Jeti Pasir Gudang,Johor,47
+LVA,Telaga Harbour Park,Kedah,47
+KOR,Jeti Pasir Gudang,Johor,47
+NER,LTA Kuala Lumpur Terminal 1,Selangor,47
+PNG,LTA Kuching,Sarawak,47
+KAZ,Jeti Kuah Langkawi,Kedah,47
+PRT,Sungai Tujuh,Sarawak,47
+POL,Pos Imigresen Mengkalap,Sarawak,47
+VNM,Dermaga Labuan,Labuan,46
+KHM,LTA Subang Terminal 3,Selangor,46
+TWN,Tanjung Pengelih,Johor,46
+TUR,LTA Kuching,Sarawak,46
+LCA,LTA Kuala Lumpur Terminal 2,Selangor,46
+MNG,LTA Langkawi,Kedah,46
+AZE,Gelang Patah,Johor,46
+HKG,LTA Kuala Lumpur Terminal 2,Selangor,46
+ROU,LTA Kuching,Sarawak,46
+ARG,LTA Kota Kinabalu,Sabah,46
+NLD,Tanjung Pengelih,Johor,46
+DEU,Tanjung Belungkor,Johor,46
+XXX,LTA Ipoh,Perak,46
+MEX,Sungai Tujuh,Sarawak,45
+CHN,Dermaga Tawau,Sabah,45
+TUR,Rantau Panjang,Kelantan,45
+CYP,LTA Bayan Lepas,Pulau_Pinang,45
+MMR,Stulang Laut,Johor,45
+IRN,LTA Kota Kinabalu,Sabah,45
+SVN,Bukit Kayu Hitam,Kedah,45
+FRA,Terminal Feri Puteri Harbour,Johor,45
+GBR,Jeti Pasir Gudang,Johor,45
+GBR,Dermaga Kota Kinabalu,Sabah,45
+ISL,LT Sandakan,Sabah,45
+RUS,Pelabuhan Klang Barat - SCT,Selangor,45
+SWE,Pelabuhan Klang Barat - SCT,Selangor,45
+NPL,Woodlands Train Checkpoint,Singapore,45
+BHR,LTA Bayan Lepas,Pulau_Pinang,45
+NLD,Pandaruan,Sarawak,44
+LAO,Tedungan,Sarawak,44
+MNE,Pelabuhan Tanjung Pelepas,Johor,44
+MMR,Pelabuhan Klang Utara,Selangor,44
+LVA,Bukit Kayu Hitam,Kedah,44
+GRC,Jeti Kuah Langkawi,Kedah,44
+NPL,LTA Kuching,Sarawak,44
+ESP,Dermaga Labuan,Labuan,44
+ARE,LT Miri,Sarawak,44
+HKG,LTA Langkawi,Kedah,44
+NRU,Gelang Patah,Johor,44
+HKG,Padang Besar,Perlis,44
+NZL,LTA Kuantan,Pahang,44
+YEM,Bukit Kayu Hitam,Kedah,44
+IRL,LT Miri,Sarawak,44
+BEL,Pejabat Imigresen Desaru Coast,Johor,44
+URY,Bangunan Sultan Iskandar,Johor,44
+ROU,Woodlands Train Checkpoint,Singapore,44
+ROU,Sungai Tujuh,Sarawak,44
+SGP,Pos Kawalan Imigresen Muar,Johor,44
+GBR,Pelabuhan Tanjung Pelepas,Johor,44
+SYR,LTA Bayan Lepas,Pulau_Pinang,44
+MAR,Woodlands Train Checkpoint,Singapore,43
+KHM,LTA Kuching,Sarawak,43
+ISL,Gelang Patah,Johor,43
+LAO,LTA Kota Kinabalu,Sabah,43
+LBY,Sungai Tujuh,Sarawak,43
+NLD,Pelabuhan Klang Barat - KMT,Selangor,43
+POL,Tedungan,Sarawak,43
+GBR,Pejabat Imigresen Port Swettenham,Selangor,43
+LUX,LTA Langkawi,Kedah,43
+RUS,LTA Ipoh,Perak,43
+CHN,Tanjung Belungkor,Johor,43
+FRA,LTA Sultan Ismail,Kelantan,43
+MUS,Pelabuhan Klang Barat - KMT,Selangor,43
+KGZ,Bukit Kayu Hitam,Kedah,43
+TLS,Gelang Patah,Johor,43
+NZL,Stulang Laut,Johor,43
+CHL,LTA Kota Kinabalu,Sabah,43
+DNK,Sungai Tujuh,Sarawak,42
+YEM,Pelabuhan Melaka,Melaka,42
+TUR,Stulang Laut,Johor,42
+SLB,LTA Kuching,Sarawak,42
+CUB,Bangunan Sultan Iskandar,Johor,42
+PAK,LT Bintulu,Sarawak,42
+DZA,Bukit Kayu Hitam,Kedah,42
+COD,LTA Kuala Lumpur Terminal 2,Selangor,42
+CHE,LTA Sultan Ismail Senai,Johor,42
+UZB,Jeti Kuah Langkawi,Kedah,42
+GBR,Tanjung Lembung,Kedah,42
+SEN,Bangunan Sultan Iskandar,Johor,42
+AZE,LTA Langkawi,Kedah,42
+BEL,Rantau Panjang,Kelantan,41
+MDV,Woodlands Train Checkpoint,Singapore,41
+BRB,LTA Kuala Lumpur Terminal 2,Selangor,41
+NOR,Woodlands Train Checkpoint,Singapore,41
+ZMB,Gelang Patah,Johor,41
+GMB,Gelang Patah,Johor,41
+DEU,LT Sandakan,Sabah,41
+MLI,Bangunan Sultan Iskandar,Johor,41
+PAK,Wang Kelian,Perlis,41
+AZE,Bangunan Sultan Iskandar,Johor,41
+FRA,Pandaruan,Sarawak,41
+MUS,LTA Subang Terminal 3,Selangor,41
+KGZ,LTA Bayan Lepas,Pulau_Pinang,41
+BOL,Gelang Patah,Johor,41
+USA,Pengkalan Kubur,Kelantan,41
+XXX,LTA Kuching,Sarawak,41
+BLR,LTA Kota Kinabalu,Sabah,41
+ZAF,Tanjung Pengelih,Johor,41
+NZL,Pandaruan,Sarawak,40
+YEM,LTA Sultan Ismail Senai,Johor,40
+ESP,LT Sandakan,Sabah,40
+PER,Bukit Kayu Hitam,Kedah,40
+SVN,LTA Kota Kinabalu,Sabah,40
+PHL,LT Sandakan,Sabah,40
+GBR,LT Sibu,Sarawak,40
+RUS,LT Miri,Sarawak,40
+USA,Dermaga Kota Kinabalu,Sabah,40
+KOR,Rantau Panjang,Kelantan,40
+NIC,LTA Kuala Lumpur Terminal 2,Selangor,40
+BGR,Pelabuhan Tanjung Pelepas,Johor,40
+BWA,LTA Kuala Lumpur Terminal 2,Selangor,40
+DZA,Sungai Tujuh,Sarawak,40
+HUN,Padang Besar,Perlis,40
+PAN,Bangunan Sultan Iskandar,Johor,40
+AUT,LTA Sultan Ismail Senai,Johor,40
+GNQ,LTA Kuala Lumpur Terminal 1,Selangor,40
+SGP,Pasir Gudang,Johor,39
+MEX,LTA Kuching,Sarawak,39
+FRA,Tebedu,Sarawak,39
+BRN,Dermaga Tawau,Sabah,39
+BGD,Jeti Pasir Gudang,Johor,39
+GHA,Pelabuhan Klang Barat - KMT,Selangor,39
+SWE,Pos Imigresen Mengkalap,Sarawak,39
+ZAF,Pelabuhan Tanjung Pelepas,Johor,39
+SVK,Dermaga Labuan,Labuan,39
+PRT,Wang Kelian,Perlis,39
+BGR,LTA Kota Kinabalu,Sabah,39
+EST,Bukit Kayu Hitam,Kedah,39
+UKR,LT Batu Berendam,Melaka,39
+HUN,Pelabuhan Klang Barat - SCT,Selangor,39
+XXX,Padang Besar,Perlis,39
+ESP,LT Miri,Sarawak,39
+BEL,Stulang Laut,Johor,39
+MHL,LTA Kuala Lumpur Terminal 1,Selangor,39
+GEO,Bangunan Sultan Iskandar,Johor,38
+NOR,Pejabat Imigresen Desaru Coast,Johor,38
+SWE,LTA Sultan Ismail Senai,Johor,38
+TZA,Tedungan,Sarawak,38
+GBR,Pengkalan Kubur,Kelantan,38
+ZAF,LTA Ipoh,Perak,38
+XXX,Tedungan,Sarawak,38
+MDA,Bangunan Sultan Iskandar,Johor,38
+RUS,Pandaruan,Sarawak,38
+KGZ,LTA Langkawi,Kedah,38
+LBY,Bangunan Sultan Iskandar,Johor,38
+IRL,Pos Imigresen Mengkalap,Sarawak,38
+SGP,Pelabuhan Tanjung Pelepas,Johor,38
+LTU,LTA Kuching,Sarawak,38
+LTU,LTA Subang Terminal 3,Selangor,38
+AUS,Lumut,Perak,38
+DOM,Pelabuhan Klang Barat - SCT,Selangor,38
+AUS,Pejabat Imigresen Port Swettenham,Selangor,38
+COL,LTA Langkawi,Kedah,38
+CHE,Pelabuhan Klang Utara,Selangor,37
+LKA,Pelabuhan Klang Barat - KMT,Selangor,37
+KAZ,Rantau Panjang,Kelantan,37
+JPN,Tebedu,Sarawak,37
+GBR,Pelabuhan Melaka,Melaka,37
+BEN,LTA Kuala Lumpur Terminal 2,Selangor,37
+EST,LTA Kuching,Sarawak,37
+POL,Rantau Panjang,Kelantan,37
+ATG,Bangunan Sultan Iskandar,Johor,37
+MKD,Bangunan Sultan Iskandar,Johor,37
+HRV,LTA Kota Kinabalu,Sabah,37
+GIN,Bangunan Sultan Iskandar,Johor,37
+LIE,LTA Kuala Lumpur Terminal 2,Selangor,37
+PAK,LTA Ipoh,Perak,37
+NAM,Gelang Patah,Johor,37
+BRN,LTA Ipoh,Perak,37
+VNM,ICQ Durian Burung,Kedah,37
+COL,LTA Subang Terminal 3,Selangor,37
+KWT,Pelabuhan Klang Barat - SCT,Selangor,36
+ITA,Dermaga Labuan,Labuan,36
+MEX,Woodlands Train Checkpoint,Singapore,36
+BRN,Terminal Feri Puteri Harbour,Johor,36
+ZWE,LTA Bayan Lepas,Pulau_Pinang,36
+FRA,Jeti Port Dickson,Negeri_Sembilan,36
+HKG,Bangunan Sultan Iskandar,Johor,36
+ESP,Pos Imigresen Mengkalap,Sarawak,36
+UKR,LTA Subang Terminal 3,Selangor,36
+LVA,Sungai Tujuh,Sarawak,36
+MMR,Rantau Panjang,Kelantan,36
+CYP,LTA Langkawi,Kedah,36
+AUS,Jeti Tioman,Pahang,36
+SSD,LTA Kuala Lumpur Terminal 2,Selangor,36
+BRA,Wang Kelian,Perlis,36
+IND,Dermaga Tawau,Sabah,36
+LTU,Dermaga Labuan,Labuan,36
+PSE,Sungai Tujuh,Sarawak,36
+LCA,Bangunan Sultan Iskandar,Johor,36
+DNK,Jeti Tioman,Pahang,36
+NGA,LTA Kuching,Sarawak,36
+MEX,Pelabuhan Klang Barat - KMT,Selangor,36
+AND,LTA Kuala Lumpur Terminal 2,Selangor,35
+AUS,LT Bintulu,Sarawak,35
+HKG,LTA Kuantan,Pahang,35
+ESP,Tedungan,Sarawak,35
+MMR,Pandaruan,Sarawak,35
+MMR,LTA Kuantan,Pahang,35
+CHE,Tanjung Pengelih,Johor,35
+GBR,LT Bintulu,Sarawak,35
+LTU,Sungai Tujuh,Sarawak,35
+TON,LTA Bayan Lepas,Pulau_Pinang,35
+VNM,Pelabuhan Tanjung Pelepas,Johor,35
+VNM,LT Bintulu,Sarawak,35
+LBY,Gelang Patah,Johor,35
+NLD,Pelabuhan Melaka,Melaka,35
+RUS,Pengkalan Hulu (Bukit Berapit),Perak,35
+USA,Jeti Tioman,Pahang,35
+MUS,LTA Langkawi,Kedah,35
+IND,LT Sibu,Sarawak,35
+CZE,Wang Kelian,Perlis,35
+BGD,Pos Imigresen Mengkalap,Sarawak,34
+JPN,LT Sibu,Sarawak,34
+JPN,LT Tawau,Sabah,34
+LAO,Pos Imigresen Bukit Bunga,Kelantan,34
+NOR,LT Miri,Sarawak,34
+QAT,LTA Bayan Lepas,Pulau_Pinang,34
+UZB,LTA Subang Terminal 3,Selangor,34
+TWN,Wang Kelian,Perlis,34
+UKR,Pelabuhan Kuantan,Pahang,34
+PRT,Pelabuhan Klang Barat - SCT,Selangor,34
+MAR,Padang Besar,Perlis,34
+CHE,Pelabuhan Klang Barat - KMT,Selangor,34
+POL,Dermaga Labuan,Labuan,34
+KWT,LTA Sultan Ismail Senai,Johor,34
+IRN,Woodlands Train Checkpoint,Singapore,34
+NGA,Woodlands Train Checkpoint,Singapore,34
+ARE,LTA Subang Terminal 3,Selangor,34
+CZE,Pos Imigresen Mengkalap,Sarawak,33
+COM,LTA Kuala Lumpur Terminal 2,Selangor,33
+PRT,LTA Ipoh,Perak,33
+SWE,Pejabat Imigresen Desaru Coast,Johor,33
+MDV,LTA Subang Terminal 3,Selangor,33
+VNM,Tebedu,Sarawak,33
+CHE,LTA Kuantan,Pahang,33
+SVK,Padang Besar,Perlis,33
+LKA,Pejabat Imigresen Desaru Coast,Johor,33
+CHE,Pos Imigresen Mengkalap,Sarawak,33
+MKD,LTA Langkawi,Kedah,33
+AUS,Dermaga Kota Kinabalu,Sabah,33
+SMR,LTA Kuala Lumpur Terminal 1,Selangor,33
+SWE,LT Miri,Sarawak,33
+CHE,Dermaga Labuan,Labuan,33
+PAK,Tebedu,Sarawak,33
+KWT,LTA Subang Terminal 3,Selangor,33
+UKR,LTA Kuching,Sarawak,33
+MMR,Jeti Kuah Langkawi,Kedah,32
+ESP,Tanjung Pengelih,Johor,32
+GUY,LTA Kuala Lumpur Terminal 2,Selangor,32
+KOR,Roro Labuan,Labuan,32
+QAT,LTA Langkawi,Kedah,32
+UKR,Sungai Tujuh,Sarawak,32
+ATG,LTA Kuala Lumpur Terminal 2,Selangor,32
+TJK,Gelang Patah,Johor,32
+VNM,LT Tawau,Sabah,32
+NZL,LT Sibu,Sarawak,32
+ROU,Padang Besar,Perlis,32
+ISL,LTA Bayan Lepas,Pulau_Pinang,32
+BLR,Rantau Panjang,Kelantan,32
+FRA,LT Sandakan,Sabah,32
+PHL,Dermaga Kota Kinabalu,Sabah,32
+ARM,LTA Langkawi,Kedah,32
+FIN,Pejabat Imigresen Desaru Coast,Johor,32
+FIN,Wang Kelian,Perlis,32
+STP,LTA Kuala Lumpur Terminal 1,Selangor,32
+DEU,Dermaga Tawau,Sabah,32
+ROU,Pelabuhan Klang Barat - KMT,Selangor,32
+IRQ,LTA Langkawi,Kedah,31
+SYR,Sungai Tujuh,Sarawak,31
+AUS,Roro Labuan,Labuan,31
+GRC,Padang Besar,Perlis,31
+THA,Tebedu,Sarawak,31
+PNG,LTA Bayan Lepas,Pulau_Pinang,31
+BGR,Bukit Kayu Hitam,Kedah,31
+SYC,Bangunan Sultan Iskandar,Johor,31
+BRA,Pelabuhan Klang Barat - SCT,Selangor,31
+BEL,Pelabuhan Klang Barat - SCT,Selangor,31
+CIV,LTA Kuala Lumpur Terminal 2,Selangor,31
+TLS,Bangunan Sultan Iskandar,Johor,31
+UKR,Pelabuhan Klang Barat - KMT,Selangor,31
+DZA,Woodlands Train Checkpoint,Singapore,31
+NZL,Tanjung Pengelih,Johor,31
+FRA,LT Tawau,Sabah,30
+JAM,Gelang Patah,Johor,30
+SUR,Bangunan Sultan Iskandar,Johor,30
+ZAF,Roro Labuan,Labuan,30
+CPV,LTA Kuala Lumpur Terminal 1,Selangor,30
+MMR,LT Sibu,Sarawak,30
+KAZ,Padang Besar,Perlis,30
+SLB,LTA Kuala Lumpur Terminal 2,Selangor,30
+MDV,LTA Kuching,Sarawak,30
+KOR,Biawak,Sarawak,30
+TGO,LTA Kuala Lumpur Terminal 2,Selangor,30
+ROU,Pelabuhan Klang Barat - SCT,Selangor,30
+MLT,LTA Langkawi,Kedah,30
+LTU,LTA Ipoh,Perak,30
+MCO,LTA Kuala Lumpur Terminal 1,Selangor,30
+NRU,LTA Kuala Lumpur Terminal 1,Selangor,29
+LKA,Pos Imigresen Mengkalap,Sarawak,29
+ECU,LTA Bayan Lepas,Pulau_Pinang,29
+LTU,Wang Kelian,Perlis,29
+ARM,LTA Bayan Lepas,Pulau_Pinang,29
+KHM,LTA Ipoh,Perak,29
+USA,Dermaga Tawau,Sabah,29
+IRN,Pelabuhan Klang Barat - SCT,Selangor,29
+IRN,Pelabuhan Klang Barat - KMT,Selangor,29
+CHE,LT Miri,Sarawak,29
+VNM,Jeti Pasir Gudang,Johor,29
+NLD,Pelabuhan Tanjung Pelepas,Johor,29
+VEN,LTA Bayan Lepas,Pulau_Pinang,29
+EST,LTA Subang Terminal 3,Selangor,29
+NOR,Rantau Panjang,Kelantan,29
+BIH,LTA Bayan Lepas,Pulau_Pinang,29
+JPN,Pelabuhan Melaka,Melaka,29
+MEX,Padang Besar,Perlis,28
+CRI,Pelabuhan Klang Barat - SCT,Selangor,28
+TCD,Bangunan Sultan Iskandar,Johor,28
+UKR,Dermaga Labuan,Labuan,28
+NLD,Biawak,Sarawak,28
+BGR,Jeti Kuah Langkawi,Kedah,28
+URY,LTA Sultan Ismail,Kelantan,28
+VEN,LTA Kota Kinabalu,Sabah,28
+MNG,LTA Subang Terminal 3,Selangor,28
+SWE,Tedungan,Sarawak,28
+DEU,Jeti Tioman,Pahang,28
+IDN,Dermaga Sandakan,Sabah,28
+USA,Jeti Pasir Gudang,Johor,28
+GEO,Gelang Patah,Johor,28
+KAZ,LTA Kuching,Sarawak,28
+FIN,LTA Sultan Ismail Senai,Johor,27
+HRV,Pelabuhan Klang Barat - KMT,Selangor,27
+CAN,LT Sibu,Sarawak,27
+TTO,Sungai Tujuh,Sarawak,27
+BRN,Pengkalan Hulu (Bukit Berapit),Perak,27
+DZA,LTA Kota Kinabalu,Sabah,27
+BRA,LT Miri,Sarawak,27
+SWE,Pengkalan Hulu (Bukit Berapit),Perak,27
+KWT,Bukit Kayu Hitam,Kedah,27
+PHL,Pengkalan Kubur,Kelantan,27
+MEX,LTA Sultan Ismail Senai,Johor,27
+THA,Jeti Pasir Gudang,Johor,27
+ITA,Terminal Feri Puteri Harbour,Johor,27
+SRB,LTA Langkawi,Kedah,27
+SWZ,LTA Kuala Lumpur Terminal 2,Selangor,27
+BRN,LTA Sultan Ismail Senai,Johor,27
+GBR,Pelabuhan Klang Utara,Selangor,27
+NPL,Stulang Laut,Johor,27
+GBR,Dermaga Tawau,Sabah,27
+JAM,LTA Bayan Lepas,Pulau_Pinang,27
+LVA,Wang Kelian,Perlis,27
+DNK,Dermaga Kota Kinabalu,Sabah,27
+PER,LTA Langkawi,Kedah,27
+RWA,LTA Kuala Lumpur Terminal 2,Selangor,26
+KHM,Tedungan,Sarawak,26
+CAN,LTA Kuantan,Pahang,26
+NOR,Stulang Laut,Johor,26
+KHM,Pelabuhan Klang Barat - KMT,Selangor,26
+AZE,Sungai Tujuh,Sarawak,26
+PSE,LTA Bayan Lepas,Pulau_Pinang,26
+KHM,LTA Kota Kinabalu,Sabah,26
+LBY,LTA Bayan Lepas,Pulau_Pinang,26
+UZB,Wang Kelian,Perlis,26
+PAK,Terminal Feri Puteri Harbour,Johor,26
+ITA,LT Tawau,Sabah,26
+THA,Pos Kawalan Imigresen Muar,Johor,26
+GEO,LTA Bayan Lepas,Pulau_Pinang,26
+AUS,LT Labuan,Labuan,26
+AUS,Jeti Pasir Gudang,Johor,26
+ESP,Pelabuhan Klang Barat - KMT,Selangor,26
+GEO,Bukit Kayu Hitam,Kedah,26
+SVN,LTA Kuching,Sarawak,26
+THA,LTA Sultan Ismail,Kelantan,26
+EGY,Rantau Panjang,Kelantan,26
+MDA,Gelang Patah,Johor,25
+MDA,Bukit Kayu Hitam,Kedah,25
+GTM,Gelang Patah,Johor,25
+ROU,LT Miri,Sarawak,25
+POL,Pasir Gudang,Johor,25
+BRN,Lubok Antu,Sarawak,25
+BRN,LTA Langkawi,Kedah,25
+TUR,LTA Ipoh,Perak,25
+IRL,Pelabuhan Klang Barat - SCT,Selangor,25
+SVK,LTA Kuching,Sarawak,25
+LAO,LTA Subang Terminal 3,Selangor,25
+UGA,LTA Bayan Lepas,Pulau_Pinang,25
+KHM,LTA Langkawi,Kedah,25
+SAU,Pengkalan Kubur,Kelantan,25
+IND,LT Sandakan,Sabah,25
+ZMB,Bangunan Sultan Iskandar,Johor,25
+AUT,Pelabuhan Klang Barat - KMT,Selangor,25
+BGR,LTA Subang Terminal 3,Selangor,25
+BLR,LTA Kuching,Sarawak,25
+CMR,Bangunan Sultan Iskandar,Johor,25
+CHN,Pejabat Imigresen Port Swettenham,Selangor,25
+MUS,Pelabuhan Klang Barat - SCT,Selangor,25
+KWT,Pelabuhan Klang Barat - KMT,Selangor,24
+DNK,Pelabuhan Klang Barat - SCT,Selangor,24
+ROU,LTA Ipoh,Perak,24
+VEN,LTA Langkawi,Kedah,24
+ROU,Wang Kelian,Perlis,24
+PAK,Jeti Pasir Gudang,Johor,24
+CZE,Rantau Panjang,Kelantan,24
+FRA,Pasir Gudang,Johor,24
+IDN,Pelabuhan Batu Pahat,Johor,24
+YEM,LTA Langkawi,Kedah,24
+SRB,Bukit Kayu Hitam,Kedah,24
+JPN,Jeti Pasir Gudang,Johor,24
+ARM,Bangunan Sultan Iskandar,Johor,24
+BLR,Sungai Tujuh,Sarawak,24
+ESP,Stulang Laut,Johor,24
+ITA,Stulang Laut,Johor,24
+ITA,Dermaga Tawau,Sabah,24
+DEU,Roro Labuan,Labuan,24
+XXX,Pos Imigresen Mengkalap,Sarawak,24
+TWN,Rantau Panjang,Kelantan,24
+IRL,Pengkalan Hulu (Bukit Berapit),Perak,24
+IRL,Tanjung Pengelih,Johor,24
+BRN,Sindumin,Sabah,24
+CPV,LTA Kuala Lumpur Terminal 2,Selangor,24
+MRT,Bangunan Sultan Iskandar,Johor,24
+HRV,Sungai Tujuh,Sarawak,24
+HUN,Wang Kelian,Perlis,24
+MEX,Jeti Kuah Langkawi,Kedah,23
+THA,Jeti Port Dickson,Negeri_Sembilan,23
+CZE,Tedungan,Sarawak,23
+TLS,Sungai Tujuh,Sarawak,23
+SWE,Dermaga Labuan,Labuan,23
+GTM,Bangunan Sultan Iskandar,Johor,23
+ARG,Sungai Tujuh,Sarawak,23
+KOR,Dermaga Tawau,Sabah,23
+RUS,Dermaga Kota Kinabalu,Sabah,23
+EST,Pos Imigresen Mengkalap,Sarawak,23
+DOM,Gelang Patah,Johor,23
+ISL,LTA Sultan Ismail Senai,Johor,23
+ARG,LTA Subang Terminal 3,Selangor,23
+FIN,Tedungan,Sarawak,23
+VCT,LTA Kuala Lumpur Terminal 1,Selangor,23
+FRA,Jeti Tioman,Pahang,23
+PRT,Pejabat Imigresen Desaru Coast,Johor,23
+PAK,Pejabat Imigresen Desaru Coast,Johor,23
+FRA,Dermaga Tawau,Sabah,23
+MUS,LTA Kota Kinabalu,Sabah,23
+SLV,Bangunan Sultan Iskandar,Johor,23
+JOR,LTA Kota Kinabalu,Sabah,23
+TGO,Gelang Patah,Johor,23
+JAM,Bangunan Sultan Iskandar,Johor,23
+SGP,Dermaga Tawau,Sabah,23
+HUN,Woodlands Train Checkpoint,Singapore,23
+MNG,Wang Kelian,Perlis,23
+GBR,Biawak,Sarawak,23
+NLD,Tanjung Belungkor,Johor,23
+HND,Bangunan Sultan Iskandar,Johor,23
+DEU,Jeti Pasir Gudang,Johor,23
+NOR,LTA Sultan Ismail Senai,Johor,23
+GRC,Woodlands Train Checkpoint,Singapore,22
+RUS,Biawak,Sarawak,22
+MDV,LTA Kota Kinabalu,Sabah,22
+SYR,Pelabuhan Kuantan,Pahang,22
+EGY,Pelabuhan Tanjung Pelepas,Johor,22
+AUS,Dermaga Tawau,Sabah,22
+EGY,LTA Sultan Ismail Senai,Johor,22
+MCO,LTA Kuala Lumpur Terminal 2,Selangor,22
+THA,Roro Labuan,Labuan,22
+ITA,Pandaruan,Sarawak,22
+FRA,ICQS Kudat,Sabah,22
+KOR,Tanjung Belungkor,Johor,22
+COL,LTA Kota Kinabalu,Sabah,22
+SLV,LTA Bayan Lepas,Pulau_Pinang,22
+THA,Lubok Antu,Sarawak,22
+CHN,Pelabuhan Melaka,Melaka,22
+SLB,Bangunan Sultan Iskandar,Johor,22
+SLE,Gelang Patah,Johor,22
+BLZ,Gelang Patah,Johor,22
+FRA,Roro Labuan,Labuan,22
+GAB,Bangunan Sultan Iskandar,Johor,22
+UZB,Telaga Harbour Park,Kedah,22
+KEN,LTA Kota Kinabalu,Sabah,22
+IDN,Merapok,Sabah,22
+BOL,Bangunan Sultan Iskandar,Johor,22
+ZAF,Terminal Feri Puteri Harbour,Johor,22
+EGY,LTA Subang Terminal 3,Selangor,22
+AUT,Pos Imigresen Mengkalap,Sarawak,22
+KOR,Pelabuhan Klang Utara,Selangor,22
+NOR,LTA Ipoh,Perak,22
+CAN,Roro Labuan,Labuan,22
+OMN,LTA Subang Terminal 3,Selangor,22
+BWA,Bangunan Sultan Iskandar,Johor,22
+BEL,Tebedu,Sarawak,22
+DNK,Pejabat Imigresen Desaru Coast,Johor,22
+BEL,Pos Imigresen Mengkalap,Sarawak,22
+CAN,LT Sandakan,Sabah,22
+KHM,Jeti Kuala Perlis,Perlis,22
+TTO,LTA Bayan Lepas,Pulau_Pinang,22
+NLD,LTA Kuantan,Pahang,22
+MUS,Padang Besar,Perlis,22
+CHN,ICQ Durian Burung,Kedah,22
+USA,Lumut,Perak,22
+EGY,Jeti Pasir Gudang,Johor,22
+DNK,Tedungan,Sarawak,21
+ALB,LTA Bayan Lepas,Pulau_Pinang,21
+YEM,Padang Besar,Perlis,21
+POL,Pejabat Imigresen Desaru Coast,Johor,21
+SAU,Pengkalan Hulu (Bukit Berapit),Perak,21
+LBR,Bangunan Sultan Iskandar,Johor,21
+CAN,LT Tawau,Sabah,21
+NER,LTA Kuala Lumpur Terminal 2,Selangor,21
+RUS,Tanjung Pengelih,Johor,21
+OMN,Padang Besar,Perlis,21
+TUN,Bukit Kayu Hitam,Kedah,21
+IRN,Pelabuhan Tanjung Pelepas,Johor,21
+XXX,LTA Langkawi,Kedah,21
+PAK,LT Sandakan,Sabah,21
+DZA,Padang Besar,Perlis,21
+CAN,Tebedu,Sarawak,21
+ZAF,LT Bintulu,Sarawak,21
+ARG,Rantau Panjang,Kelantan,21
+DEU,LT Tawau,Sabah,21
+BGR,Pelabuhan Klang Barat - KMT,Selangor,21
+AUT,Pejabat Imigresen Desaru Coast,Johor,21
+CZE,LTA Sultan Ismail,Kelantan,21
+BGR,Pelabuhan Klang Barat - SCT,Selangor,21
+GAB,LTA Kuala Lumpur Terminal 2,Selangor,21
+BGR,LTA Kuching,Sarawak,21
+HUN,LTA Subang Terminal 3,Selangor,21
+MAR,LTA Sultan Ismail Senai,Johor,21
+TCD,Gelang Patah,Johor,21
+TWN,LT Bintulu,Sarawak,21
+BIH,LTA Langkawi,Kedah,21
+POL,Stulang Laut,Johor,21
+JPN,Pelabuhan Klang Utara,Selangor,21
+SYR,Pos Imigresen Mengkalap,Sarawak,20
+HTI,Gelang Patah,Johor,20
+MAC,Pelabuhan Klang Barat - KMT,Selangor,20
+MAC,LTA Ipoh,Perak,20
+CHN,LT Labuan,Labuan,20
+CHN,LT Batu Berendam,Melaka,20
+HUN,Sungai Tujuh,Sarawak,20
+PNG,LT Miri,Sarawak,20
+KOR,LT Sibu,Sarawak,20
+GTM,LTA Bayan Lepas,Pulau_Pinang,20
+EST,Padang Besar,Perlis,20
+PRY,Bangunan Sultan Iskandar,Johor,20
+OMN,Pelabuhan Klang Barat - SCT,Selangor,20
+OMN,Bukit Kayu Hitam,Kedah,20
+BRN,Jeti Pasir Gudang,Johor,20
+PSE,LTA Langkawi,Kedah,20
+UZB,Padang Besar,Perlis,20
+TKM,Bangunan Sultan Iskandar,Johor,20
+ISL,Bukit Kayu Hitam,Kedah,20
+ESP,Tebedu,Sarawak,20
+ITA,Tebedu,Sarawak,20
+KEN,LTA Kuching,Sarawak,20
+SAU,Tedungan,Sarawak,20
+BLZ,Bangunan Sultan Iskandar,Johor,20
+KEN,LTA Langkawi,Kedah,20
+LAO,Woodlands Train Checkpoint,Singapore,20
+LKA,Padang Besar,Perlis,20
+CAN,Tanjung Belungkor,Johor,20
+UKR,Pelabuhan Klang Barat - SCT,Selangor,20
+LKA,Stulang Laut,Johor,20
+TUR,Pejabat Imigresen Desaru Coast,Johor,20
+FRA,Pejabat Imigresen Port Swettenham,Selangor,20
+JOR,LTA Sultan Ismail Senai,Johor,20
+BHR,LTA Langkawi,Kedah,20
+UGA,Bukit Kayu Hitam,Kedah,20
+PER,LTA Kota Kinabalu,Sabah,20
+ITA,LT Sandakan,Sabah,20
+RUS,Tebedu,Sarawak,20
+LBR,LTA Kuala Lumpur Terminal 2,Selangor,19
+NOR,Pos Imigresen Mengkalap,Sarawak,19
+EST,Wang Kelian,Perlis,19
+RUS,Pelabuhan Melaka,Melaka,19
+FIN,Dermaga Labuan,Labuan,19
+BOL,Sungai Tujuh,Sarawak,19
+IRL,Pandaruan,Sarawak,19
+PER,Jeti Kuah Langkawi,Kedah,19
+DNK,Pos Imigresen Mengkalap,Sarawak,19
+NZL,Jeti Tioman,Pahang,19
+XXX,LTA Sultan Ismail Senai,Johor,19
+JPN,Pengkalan Kubur,Kelantan,19
+THA,Pejabat Imigresen Port Swettenham,Selangor,19
+MEX,Telaga Harbour Park,Kedah,19
+BHS,Gelang Patah,Johor,19
+BHR,Woodlands Train Checkpoint,Singapore,19
+THA,LTA Kuantan,Pahang,19
+YEM,LTA Subang Terminal 3,Selangor,19
+HUN,LTA Sultan Ismail Senai,Johor,19
+USA,LT Batu Berendam,Melaka,19
+MAR,Stulang Laut,Johor,19
+MMR,Terminal Feri Puteri Harbour,Johor,19
+MDA,LTA Bayan Lepas,Pulau_Pinang,19
+ITA,LTA Kuantan,Pahang,19
+PRT,Pos Imigresen Mengkalap,Sarawak,19
+DNK,Dermaga Labuan,Labuan,19
+LVA,Dermaga Labuan,Labuan,19
+IND,Biawak,Sarawak,19
+HRV,Pelabuhan Klang Barat - SCT,Selangor,19
+DEU,LTA Sultan Ismail,Kelantan,19
+BEL,LT Miri,Sarawak,19
+SWE,Pelabuhan Klang Barat - KMT,Selangor,19
+SVN,Padang Besar,Perlis,19
+NLD,Pelabuhan Klang Utara,Selangor,19
+SAU,LTA Ipoh,Perak,19
+NLD,Pasir Gudang,Johor,19
+EGY,LT Miri,Sarawak,19
+GMB,Bangunan Sultan Iskandar,Johor,19
+PNG,LTA Kota Kinabalu,Sabah,19
+LSO,LTA Kuala Lumpur Terminal 2,Selangor,19
+MRT,Gelang Patah,Johor,19
+MMR,Dermaga Labuan,Labuan,18
+AUS,Pengkalan Kubur,Kelantan,18
+POL,Pelabuhan Klang Utara,Selangor,18
+USA,Roro Labuan,Labuan,18
+TWN,Dermaga Tawau,Sabah,18
+VUT,LTA Kota Kinabalu,Sabah,18
+ETH,Pelabuhan Tanjung Pelepas,Johor,18
+BGD,Pandaruan,Sarawak,18
+BRB,Gelang Patah,Johor,18
+PAK,LT Miri,Sarawak,18
+LVA,LTA Kuching,Sarawak,18
+MLI,LTA Kuala Lumpur Terminal 2,Selangor,18
+GHA,LTA Bayan Lepas,Pulau_Pinang,18
+MAR,Rantau Panjang,Kelantan,18
+MHL,LTA Kuala Lumpur Terminal 2,Selangor,18
+NLD,Pengkalan Kubur,Kelantan,18
+AUS,ICQ Durian Burung,Kedah,18
+IDN,Pelabuhan Kemaman,Terengganu,18
+FSM,LTA Kuala Lumpur Terminal 1,Selangor,18
+USA,Pasir Gudang,Johor,18
+CHE,Pengkalan Hulu (Bukit Berapit),Perak,18
+MWI,Bangunan Sultan Iskandar,Johor,18
+KAZ,LTA Subang Terminal 3,Selangor,18
+VNM,Lubok Antu,Sarawak,18
+TUR,LT Miri,Sarawak,18
+TJK,Bangunan Sultan Iskandar,Johor,18
+ZAF,Stulang Laut,Johor,18
+DNK,LT Miri,Sarawak,18
+RUS,Pejabat Imigresen Port Swettenham,Selangor,18
+NPL,LTA Subang Terminal 3,Selangor,18
+NPL,LTA Sultan Ismail Senai,Johor,18
+TUN,LTA Kota Kinabalu,Sabah,18
+UKR,Woodlands Train Checkpoint,Singapore,18
+NZL,Tanjung Belungkor,Johor,18
+BRA,Pelabuhan Klang Barat - KMT,Selangor,18
+CHE,Dermaga Tawau,Sabah,18
+FIN,Rantau Panjang,Kelantan,18
+SVK,Sungai Tujuh,Sarawak,18
+NGA,LTA Langkawi,Kedah,18
+SAU,Jeti Kuah Langkawi,Kedah,18
+SAU,Stulang Laut,Johor,18
+ETH,Bangunan Sultan Iskandar,Johor,18
+YEM,Stulang Laut,Johor,18
+AUS,Jeti Port Dickson,Negeri_Sembilan,17
+GEO,LTA Langkawi,Kedah,17
+HRV,Telaga Harbour Park,Kedah,17
+MKD,Sungai Tujuh,Sarawak,17
+COG,LTA Kuala Lumpur Terminal 2,Selangor,17
+THA,LTA Kuala Terengganu,Terengganu,17
+GRC,Wang Kelian,Perlis,17
+GBR,ICQ Durian Burung,Kedah,17
+RUS,Terminal Feri Puteri Harbour,Johor,17
+VCT,LTA Kuala Lumpur Terminal 2,Selangor,17
+BEL,LTA Kuantan,Pahang,17
+CHE,LT Sandakan,Sabah,17
+SAU,Wang Kelian,Perlis,17
+SAU,Pos Imigresen Mengkalap,Sarawak,17
+CYP,LTA Subang Terminal 3,Selangor,17
+WSM,LTA Kuala Lumpur Terminal 2,Selangor,17
+CHE,Tebedu,Sarawak,17
+CZE,LTA Sultan Ismail Senai,Johor,17
+MUS,LTA Ipoh,Perak,17
+PHL,Pejabat Imigresen Port Swettenham,Selangor,17
+FJI,Sungai Tujuh,Sarawak,17
+CZE,LT Miri,Sarawak,17
+FRA,Jeti Pasir Gudang,Johor,17
+FJI,Woodlands Train Checkpoint,Singapore,17
+KOR,LT Tawau,Sabah,17
+NZL,LT Sandakan,Sabah,17
+THA,Dermaga Kota Kinabalu,Sabah,17
+DNK,Terminal Feri Puteri Harbour,Johor,17
+NOR,Dermaga Labuan,Labuan,17
+FIN,Pelabuhan Klang Barat - KMT,Selangor,17
+RUS,Pelabuhan Kuantan,Pahang,17
+EST,Sungai Tujuh,Sarawak,17
+BRN,Dermaga Kastam Limbang,Sarawak,17
+BGD,Pelabuhan Melaka,Melaka,17
+HRV,Jeti Kuah Langkawi,Kedah,17
+PAK,Jeti Kuah Langkawi,Kedah,17
+BGD,Rantau Panjang,Kelantan,17
+KGZ,LTA Subang Terminal 3,Selangor,17
+MDV,Bukit Kayu Hitam,Kedah,17
+MEX,LTA Ipoh,Perak,17
+AFG,Gelang Patah,Johor,16
+ZMB,LTA Bayan Lepas,Pulau_Pinang,16
+POL,Pandaruan,Sarawak,16
+SYR,LTA Kuching,Sarawak,16
+BGD,Terminal Feri Puteri Harbour,Johor,16
+JOR,Padang Besar,Perlis,16
+ARG,Woodlands Train Checkpoint,Singapore,16
+ARG,Wang Kelian,Perlis,16
+PSE,LTA Sultan Ismail Senai,Johor,16
+JPN,Biawak,Sarawak,16
+MLT,LTA Kota Kinabalu,Sabah,16
+LVA,Woodlands Train Checkpoint,Singapore,16
+USA,ICQ Durian Burung,Kedah,16
+AUS,ICQS Kudat,Sabah,16
+IDN,LT Labuan,Labuan,16
+KNA,LTA Langkawi,Kedah,16
+EGY,LTA Kuching,Sarawak,16
+CHL,Wang Kelian,Perlis,16
+UKR,Pos Imigresen Mengkalap,Sarawak,16
+XXX,Pengkalan Hulu (Bukit Berapit),Perak,16
+IRN,Pos Imigresen Mengkalap,Sarawak,16
+KIR,Pelabuhan Tanjung Pelepas,Johor,16
+FIN,Pos Imigresen Mengkalap,Sarawak,16
+FJI,LTA Kota Kinabalu,Sabah,16
+NLD,Jeti Port Dickson,Negeri_Sembilan,16
+LCA,Sungai Tujuh,Sarawak,16
+NLD,LT Tawau,Sabah,16
+DEU,Lubok Antu,Sarawak,16
+SAU,Tanjung Pengelih,Johor,16
+DOM,LTA Bayan Lepas,Pulau_Pinang,16
+ARE,Woodlands Train Checkpoint,Singapore,16
+PAN,LTA Bayan Lepas,Pulau_Pinang,16
+SVN,LTA Subang Terminal 3,Selangor,16
+IND,Jeti Tioman,Pahang,16
+FIN,Stulang Laut,Johor,16
+JPN,Tanjung Lembung,Kedah,16
+OMN,Stulang Laut,Johor,16
+IRL,Rantau Panjang,Kelantan,16
+NZL,LT Tawau,Sabah,16
+DNK,Rantau Panjang,Kelantan,16
+ZAF,Tanjung Belungkor,Johor,16
+IRN,LTA Subang Terminal 3,Selangor,16
+MDV,LTA Sultan Ismail Senai,Johor,16
+PER,Padang Besar,Perlis,16
+BRN,Wang Kelian,Perlis,16
+BWA,Gelang Patah,Johor,16
+KWT,Sungai Tujuh,Sarawak,16
+DMA,LTA Bayan Lepas,Pulau_Pinang,16
+ITA,Tanjung Pengelih,Johor,16
+LBN,LTA Kota Kinabalu,Sabah,16
+BOL,LTA Bayan Lepas,Pulau_Pinang,16
+TZA,Pelabuhan Tanjung Pelepas,Johor,16
+FIN,Pengkalan Hulu (Bukit Berapit),Perak,16
+SYR,Pelabuhan Klang Barat - KMT,Selangor,15
+LTU,Woodlands Train Checkpoint,Singapore,15
+MOZ,Gelang Patah,Johor,15
+SWE,Terminal Feri Puteri Harbour,Johor,15
+PHL,Lumut,Perak,15
+SVK,Pejabat Imigresen Port Swettenham,Selangor,15
+DOM,Bangunan Sultan Iskandar,Johor,15
+BLR,Jeti Kuah Langkawi,Kedah,15
+CMR,Gelang Patah,Johor,15
+CMR,LTA Bayan Lepas,Pulau_Pinang,15
+COD,Bangunan Sultan Iskandar,Johor,15
+SWE,Stulang Laut,Johor,15
+MEX,Wang Kelian,Perlis,15
+UKR,Pelabuhan Klang Utara,Selangor,15
+MAR,LTA Kuching,Sarawak,15
+MKD,LTA Bayan Lepas,Pulau_Pinang,15
+BRA,Pelabuhan Melaka,Melaka,15
+PHL,Jeti Kukup,Johor,15
+ITA,Tanjung Belungkor,Johor,15
+SWE,Pengkalan Kubur,Kelantan,15
+LIE,Bangunan Sultan Iskandar,Johor,15
+FJI,Pelabuhan Klang Barat - SCT,Selangor,15
+LIE,Gelang Patah,Johor,15
+BLR,LTA Subang Terminal 3,Selangor,15
+MUS,Pejabat Imigresen Desaru Coast,Johor,15
+BIH,Sungai Tujuh,Sarawak,15
+BLR,Padang Besar,Perlis,15
+AZE,LT Labuan,Labuan,15
+BGR,Pejabat Imigresen Desaru Coast,Johor,15
+TWN,Pos Kawalan Imigresen Muar,Johor,15
+HRV,Bukit Kayu Hitam,Kedah,15
+HRV,LTA Kuching,Sarawak,15
+URY,LTA Bayan Lepas,Pulau_Pinang,15
+VNM,Dermaga Tawau,Sabah,15
+PAK,Tanjung Pengelih,Johor,15
+BEL,Tanjung Pengelih,Johor,15
+SAU,ICQ Durian Burung,Kedah,15
+KOR,LT Labuan,Labuan,15
+VNM,LT Sibu,Sarawak,15
+THA,Biawak,Sarawak,15
+ROU,Pos Imigresen Mengkalap,Sarawak,15
+ETH,Gelang Patah,Johor,15
+HKG,Biawak,Sarawak,15
+BFA,LTA Kuala Lumpur Terminal 2,Selangor,15
+BGD,LT Miri,Sarawak,15
+SYR,Bukit Kayu Hitam,Kedah,15
+THA,LT Sibu,Sarawak,15
+THA,LT Sandakan,Sabah,15
+GRC,LTA Sultan Ismail Senai,Johor,14
+ECU,LTA Langkawi,Kedah,14
+GRD,LTA Bayan Lepas,Pulau_Pinang,14
+MAC,Pelabuhan Klang Barat - SCT,Selangor,14
+HUN,Pelabuhan Klang Barat - KMT,Selangor,14
+SLV,Gelang Patah,Johor,14
+LUX,Pelabuhan Klang Barat - SCT,Selangor,14
+PLW,LTA Kuala Lumpur Terminal 1,Selangor,14
+EGY,Tedungan,Sarawak,14
+THA,Pelabuhan Klang Selatan - Jeti,Selangor,14
+VUT,LTA Sultan Ismail Senai,Johor,14
+KEN,Woodlands Train Checkpoint,Singapore,14
+BRN,Pelabuhan Melaka,Melaka,14
+CHN,Dermaga Kota Kinabalu,Sabah,14
+EGY,Padang Besar,Perlis,14
+THA,Dermaga Sandakan,Sabah,14
+RUS,Jeti Tioman,Pahang,14
+LVA,Padang Besar,Perlis,14
+BRA,Pos Imigresen Mengkalap,Sarawak,14
+LUX,Bukit Kayu Hitam,Kedah,14
+MOZ,LTA Langkawi,Kedah,14
+NZL,Pelabuhan Melaka,Melaka,14
+NZL,Tebedu,Sarawak,14
+GBR,LT Batu Berendam,Melaka,14
+ALB,Woodlands Train Checkpoint,Singapore,14
+BEL,Dermaga Labuan,Labuan,14
+USA,Pelabuhan Kuantan,Pahang,14
+CRI,LTA Kota Kinabalu,Sabah,14
+SYR,LTA Langkawi,Kedah,14
+MDV,Stulang Laut,Johor,14
+LBN,Sungai Tujuh,Sarawak,14
+PRT,LTA Sultan Ismail Senai,Johor,14
+SDN,LTA Bayan Lepas,Pulau_Pinang,14
+TJK,LTA Bayan Lepas,Pulau_Pinang,14
+ARE,Pelabuhan Klang Barat - SCT,Selangor,14
+SVK,Wang Kelian,Perlis,14
+SVK,Rantau Panjang,Kelantan,14
+IRL,LTA Kuantan,Pahang,14
+FIN,Pelabuhan Klang Barat - SCT,Selangor,14
+TJK,Bukit Kayu Hitam,Kedah,14
+AZE,Bukit Kayu Hitam,Kedah,14
+TWN,Roro Labuan,Labuan,14
+ESP,Pandaruan,Sarawak,14
+BEL,Pengkalan Hulu (Bukit Berapit),Perak,14
+XXX,LT Miri,Sarawak,14
+LTU,LT Miri,Sarawak,14
+RUS,LTA Kuantan,Pahang,14
+DEU,Tanjung Lembung,Kedah,14
+IRN,LTA Kuching,Sarawak,14
+TKM,Gelang Patah,Johor,14
+KNA,LTA Kota Kinabalu,Sabah,14
+YEM,Rantau Panjang,Kelantan,14
+IRL,Dermaga Labuan,Labuan,14
+VNM,Biawak,Sarawak,14
+DJI,LTA Kuala Lumpur Terminal 2,Selangor,14
+LAO,LTA Kuching,Sarawak,14
+CAN,Pelabuhan Kuching,Sarawak,14
+NLD,Dermaga Tawau,Sabah,14
+LKA,LT Miri,Sarawak,14
+KAZ,Woodlands Train Checkpoint,Singapore,14
+LVA,Pelabuhan Tanjung Pelepas,Johor,13
+HKG,Bukit Kayu Hitam,Kedah,13
+LUX,LTA Kota Kinabalu,Sabah,13
+SGP,Pelabuhan Kemaman,Terengganu,13
+UKR,LTA Ipoh,Perak,13
+PRY,LTA Bayan Lepas,Pulau_Pinang,13
+SWE,Pandaruan,Sarawak,13
+ARG,LTA Kuching,Sarawak,13
+USA,LT Bintulu,Sarawak,13
+HUN,LTA Ipoh,Perak,13
+CIV,Gelang Patah,Johor,13
+SMR,LTA Kuala Lumpur Terminal 2,Selangor,13
+IDN,Dermaga Kota Kinabalu,Sabah,13
+VNM,Roro Labuan,Labuan,13
+ESP,Pelabuhan Melaka,Melaka,13
+MEX,Pasir Gudang,Johor,13
+BRA,Tanjung Pengelih,Johor,13
+UZB,Pejabat Imigresen Port Swettenham,Selangor,13
+PAK,LT Sibu,Sarawak,13
+NZL,ICQS Kudat,Sabah,13
+DNK,Stulang Laut,Johor,13
+MMR,Tanjung Belungkor,Johor,13
+LVA,LTA Subang Terminal 3,Selangor,13
+DZA,Jeti Kuah Langkawi,Kedah,13
+CHE,Tedungan,Sarawak,13
+GBR,Jeti Port Dickson,Negeri_Sembilan,13
+LIE,LTA Bayan Lepas,Pulau_Pinang,13
+CHE,Pelabuhan Melaka,Melaka,13
+NIC,Bangunan Sultan Iskandar,Johor,13
+DEU,Jeti Port Dickson,Negeri_Sembilan,13
+LKA,Dermaga Labuan,Labuan,13
+CAN,ICQS Kudat,Sabah,13
+OMN,LTA Kota Kinabalu,Sabah,13
+SGP,Lumut,Perak,13
+BRA,Pasir Gudang,Johor,13
+DEU,Biawak,Sarawak,13
+PAK,Pengkalan Kubur,Kelantan,13
+ECU,Sungai Tujuh,Sarawak,13
+KHM,Pelabuhan Melaka,Melaka,13
+ISL,LTA Ipoh,Perak,13
+TKM,Bukit Kayu Hitam,Kedah,13
+SAU,LTA Kuching,Sarawak,13
+BEL,LT Sandakan,Sabah,13
+CHE,Pandaruan,Sarawak,13
+NLD,Jeti Pasir Gudang,Johor,13
+CAN,Dermaga Kota Kinabalu,Sabah,13
+RWA,Gelang Patah,Johor,13
+ZWE,Bukit Kayu Hitam,Kedah,13
+BLR,Telaga Harbour Park,Kedah,13
+BLR,Wang Kelian,Perlis,13
+SYR,LTA Subang Terminal 3,Selangor,13
+POL,LT Sandakan,Sabah,13
+BHR,Sungai Tujuh,Sarawak,13
+TUR,Tedungan,Sarawak,13
+MDV,Padang Besar,Perlis,13
+RUS,LT Sandakan,Sabah,12
+TGO,Bangunan Sultan Iskandar,Johor,12
+SRB,LTA Kota Kinabalu,Sabah,12
+MDA,LTA Langkawi,Kedah,12
+TWN,Jeti Pasir Gudang,Johor,12
+GHA,Pelabuhan Klang Barat - SCT,Selangor,12
+VNM,Pelabuhan Kuantan,Pahang,12
+CAN,Biawak,Sarawak,12
+KOR,Jeti Port Dickson,Negeri_Sembilan,12
+ROU,Pasir Gudang,Johor,12
+NZL,Pasir Gudang,Johor,12
+POL,Dermaga Tawau,Sabah,12
+NLD,Pejabat Imigresen Port Swettenham,Selangor,12
+TLS,Bukit Kayu Hitam,Kedah,12
+USA,LTA Sultan Ismail,Kelantan,12
+TKM,Sungai Tujuh,Sarawak,12
+ARG,Pejabat Imigresen Desaru Coast,Johor,12
+ROU,LTA Sultan Ismail Senai,Johor,12
+QAT,Sungai Tujuh,Sarawak,12
+NIC,Gelang Patah,Johor,12
+PRT,LT Miri,Sarawak,12
+HRV,LTA Subang Terminal 3,Selangor,12
+TJK,LTA Kota Kinabalu,Sabah,12
+ARG,Tanjung Belungkor,Johor,12
+MEX,Tedungan,Sarawak,12
+MDA,LTA Kota Kinabalu,Sabah,12
+COL,Sungai Tujuh,Sarawak,12
+UGA,Padang Besar,Perlis,12
+AUT,Pejabat Imigresen Port Swettenham,Selangor,12
+TUN,Jeti Kuah Langkawi,Kedah,12
+YEM,Sungai Tujuh,Sarawak,12
+UKR,Pengkalan Kubur,Kelantan,12
+NLD,Roro Labuan,Labuan,12
+CZE,Pejabat Imigresen Desaru Coast,Johor,12
+AUT,Stulang Laut,Johor,12
+LTU,LTA Sultan Ismail Senai,Johor,12
+NPL,LT Bintulu,Sarawak,12
+CZE,Pandaruan,Sarawak,12
+FJI,Jeti Kuah Langkawi,Kedah,12
+LKA,Tanjung Pengelih,Johor,12
+AZE,LTA Bayan Lepas,Pulau_Pinang,12
+SYC,LTA Bayan Lepas,Pulau_Pinang,12
+NZL,Dermaga Kota Kinabalu,Sabah,12
+ISL,Sungai Tujuh,Sarawak,12
+KEN,Sungai Tujuh,Sarawak,12
+KAZ,LTA Sultan Ismail Senai,Johor,12
+BLR,LTA Sultan Ismail Senai,Johor,12
+BRN,ICQ Durian Burung,Kedah,12
+CHE,Terminal Feri Puteri Harbour,Johor,12
+OMN,LTA Ipoh,Perak,12
+LTU,Pelabuhan Tanjung Pelepas,Johor,12
+CAN,Jeti Pasir Gudang,Johor,12
+CAN,Jeti Tioman,Pahang,12
+MNG,Telaga Harbour Park,Kedah,12
+LUX,Jeti Kuah Langkawi,Kedah,12
+MMR,Jeti Pasir Gudang,Johor,12
+HND,LTA Bayan Lepas,Pulau_Pinang,12
+ROU,Rantau Panjang,Kelantan,12
+ARG,LTA Ipoh,Perak,12
+PRT,Rantau Panjang,Kelantan,11
+PAK,Roro Labuan,Labuan,11
+CAN,Pengkalan Kubur,Kelantan,11
+LAO,Pelabuhan Klang Barat - SCT,Selangor,11
+VEN,LTA Subang Terminal 3,Selangor,11
+MAR,Jeti Kuah Langkawi,Kedah,11
+PER,LTA Sultan Ismail Senai,Johor,11
+PER,LTA Subang Terminal 3,Selangor,11
+HRV,Pasir Gudang,Johor,11
+HRV,Pelabuhan Kuantan,Pahang,11
+ROU,Pelabuhan Kuching,Sarawak,11
+BGR,Wang Kelian,Perlis,11
+HUN,Tedungan,Sarawak,11
+VNM,Pelabuhan Melaka,Melaka,11
+SLV,LTA Langkawi,Kedah,11
+MEX,Pejabat Imigresen Desaru Coast,Johor,11
+HUN,Pos Imigresen Mengkalap,Sarawak,11
+SLE,Bangunan Sultan Iskandar,Johor,11
+MDV,LTA Ipoh,Perak,11
+BGD,Wang Kelian,Perlis,11
+ITA,Pelabuhan Melaka,Melaka,11
+NPL,Padang Besar,Perlis,11
+GRC,Pelabuhan Klang Utara,Selangor,11
+YEM,LTA Kota Kinabalu,Sabah,11
+PHL,Merapok,Sabah,11
+PHL,Pelabuhan Melaka,Melaka,11
+OMN,Pos Imigresen Mengkalap,Sarawak,11
+TWN,Pasir Gudang,Johor,11
+AUT,LT Miri,Sarawak,11
+LTU,Roro Labuan,Labuan,11
+VAT,LTA Kuala Lumpur Terminal 1,Selangor,11
+NPL,Jeti Pasir Gudang,Johor,11
+CHL,Rantau Panjang,Kelantan,11
+CHL,LTA Subang Terminal 3,Selangor,11
+BEL,Tanjung Belungkor,Johor,11
+VNM,Pejabat Imigresen Port Swettenham,Selangor,11
+USA,ICQS Kudat,Sabah,11
+MMR,Pengkalan Hulu (Bukit Berapit),Perak,11
+ITA,Pengkalan Kubur,Kelantan,11
+DNK,LT Sandakan,Sabah,11
+KHM,LT Miri,Sarawak,11
+CHE,Tanjung Belungkor,Johor,11
+BRN,Pelabuhan Klang Barat - KMT,Selangor,11
+IRL,Tanjung Belungkor,Johor,11
+BGR,Padang Besar,Perlis,11
+MWI,Gelang Patah,Johor,11
+ESP,Tanjung Belungkor,Johor,11
+ESP,Terminal Feri Puteri Harbour,Johor,11
+SVK,LT Miri,Sarawak,11
+LCA,LTA Bayan Lepas,Pulau_Pinang,11
+BEN,Gelang Patah,Johor,11
+MDG,LTA Bayan Lepas,Pulau_Pinang,11
+LBY,LTA Kota Kinabalu,Sabah,11
+PRT,Jeti Pasir Gudang,Johor,11
+THA,Pelabuhan Kuantan,Pahang,11
+JPN,Jeti Tioman,Pahang,11
+CZE,Pelabuhan Klang Barat - SCT,Selangor,11
+CZE,LTA Ipoh,Perak,11
+GRC,Tedungan,Sarawak,11
+HRV,Woodlands Train Checkpoint,Singapore,11
+ISL,Jeti Kuah Langkawi,Kedah,11
+CAN,LT Bintulu,Sarawak,11
+CHN,LTA Sultan Ismail,Kelantan,11
+BLR,Pelabuhan Klang Barat - SCT,Selangor,11
+NGA,Tedungan,Sarawak,10
+SDN,LTA Langkawi,Kedah,10
+ROU,Tedungan,Sarawak,10
+FJI,Bukit Kayu Hitam,Kedah,10
+MLT,Telaga Harbour Park,Kedah,10
+ZWE,LTA Kota Kinabalu,Sabah,10
+SAU,Telaga Harbour Park,Kedah,10
+POL,Roro Labuan,Labuan,10
+FIN,Pandaruan,Sarawak,10
+JPN,Dermaga Tawau,Sabah,10
+TUR,Pelabuhan Klang Utara,Selangor,10
+CHN,Pengkalan Kubur,Kelantan,10
+PNG,LT Sibu,Sarawak,10
+SSD,Jeti Pasir Gudang,Johor,10
+RUS,LT Bintulu,Sarawak,10
+GRC,Pelabuhan Klang Barat - SCT,Selangor,10
+CHN,Jeti Kukup,Johor,10
+LBR,Gelang Patah,Johor,10
+FJI,LTA Kuching,Sarawak,10
+SAU,Terminal Feri Puteri Harbour,Johor,10
+SUR,LTA Bayan Lepas,Pulau_Pinang,10
+SSD,Sungai Tujuh,Sarawak,10
+NGA,LT Miri,Sarawak,10
+CHE,Stulang Laut,Johor,10
+LAO,LTA Langkawi,Kedah,10
+CHE,Jeti Tioman,Pahang,10
+TUN,LTA Sultan Ismail Senai,Johor,10
+TUN,Rantau Panjang,Kelantan,10
+USA,Pelabuhan Klang Utara,Selangor,10
+BEL,LT Tawau,Sabah,10
+GBR,Pelabuhan Kemaman,Terengganu,10
+GBR,Lumut,Perak,10
+PAK,Biawak,Sarawak,10
+AUT,Dermaga Labuan,Labuan,10
+UZB,LTA Kuching,Sarawak,10
+UZB,LTA Sultan Ismail Senai,Johor,10
+LKA,LTA Sultan Ismail Senai,Johor,10
+IND,Pejabat Imigresen Port Swettenham,Selangor,10
+SGP,LT Labuan,Labuan,10
+BDI,LTA Kuala Lumpur Terminal 2,Selangor,10
+UKR,Pandaruan,Sarawak,10
+BRA,Stulang Laut,Johor,10
+YEM,Tedungan,Sarawak,10
+BRA,Rantau Panjang,Kelantan,10
+DEU,ICQ Durian Burung,Kedah,10
+TTO,LTA Subang Terminal 3,Selangor,10
+NAM,Bangunan Sultan Iskandar,Johor,10
+FIN,Tanjung Belungkor,Johor,10
+CHE,Pengkalan Kubur,Kelantan,10
+BEL,Pandaruan,Sarawak,10
+FRA,Dermaga Kota Kinabalu,Sabah,10
+AUT,Pengkalan Kubur,Kelantan,10
+SGP,Lubok Antu,Sarawak,10
+PER,LTA Kuching,Sarawak,10
+GBR,Pelabuhan Kuantan,Pahang,10
+MMR,Wang Kelian,Perlis,10
+CYP,LTA Kuching,Sarawak,10
+DMA,Woodlands Train Checkpoint,Singapore,10
+JOR,Jeti Kuah Langkawi,Kedah,10
+EGY,Pandaruan,Sarawak,10
+SWZ,Gelang Patah,Johor,10
+SWZ,Bangunan Sultan Iskandar,Johor,10
+CHL,LTA Kuching,Sarawak,10
+UKR,Stulang Laut,Johor,10
+FRA,Lumut,Perak,10
+BRN,LT Labuan,Labuan,10
+GAB,Gelang Patah,Johor,10
+EST,Dermaga Labuan,Labuan,10
+ESP,Dermaga Tawau,Sabah,10
+BGR,LTA Ipoh,Perak,10
+YEM,Wang Kelian,Perlis,10
+YEM,Woodlands Train Checkpoint,Singapore,10
+ZAF,Dermaga Kota Kinabalu,Sabah,10
+ECU,LTA Kota Kinabalu,Sabah,10
+DZA,LTA Sultan Ismail Senai,Johor,10
+IRQ,Bukit Kayu Hitam,Kedah,10
+MAR,Pos Imigresen Mengkalap,Sarawak,10
+MDG,LTA Langkawi,Kedah,10
+TUR,Terminal Feri Puteri Harbour,Johor,10
+COM,Bangunan Sultan Iskandar,Johor,10
+SYR,Woodlands Train Checkpoint,Singapore,10
+GRC,Pelabuhan Kuantan,Pahang,10
+COL,LTA Kuching,Sarawak,9
+COL,Pelabuhan Klang Barat - KMT,Selangor,9
+MCO,Gelang Patah,Johor,9
+VNM,Tanjung Belungkor,Johor,9
+IRQ,Sungai Tujuh,Sarawak,9
+GEO,Wang Kelian,Perlis,9
+GRD,LTA Subang Terminal 3,Selangor,9
+GRC,Pos Imigresen Mengkalap,Sarawak,9
+ISL,Wang Kelian,Perlis,9
+ZWE,Padang Besar,Perlis,9
+UKR,LT Miri,Sarawak,9
+PAN,LTA Kota Kinabalu,Sabah,9
+ITA,Pejabat Imigresen Port Swettenham,Selangor,9
+ITA,Pelabuhan Klang Utara,Selangor,9
+ITA,LT Bintulu,Sarawak,9
+CRI,Tanjung Pengelih,Johor,9
+LUX,LTA Subang Terminal 3,Selangor,9
+MNG,Terminal Feri Puteri Harbour,Johor,9
+GRD,LTA Langkawi,Kedah,9
+GBR,LTA Sultan Ismail,Kelantan,9
+UZB,Rantau Panjang,Kelantan,9
+UGA,Pelabuhan Klang Barat - SCT,Selangor,9
+TUR,Pandaruan,Sarawak,9
+JOR,Stulang Laut,Johor,9
+JOR,Woodlands Train Checkpoint,Singapore,9
+BEL,Pengkalan Kubur,Kelantan,9
+NOR,Pasir Gudang,Johor,9
+NOR,Pelabuhan Klang Barat - SCT,Selangor,9
+MUS,Tanjung Pengelih,Johor,9
+AUT,Tedungan,Sarawak,9
+XXX,Dermaga Labuan,Labuan,9
+MMR,Tebedu,Sarawak,9
+ZAF,Pasir Gudang,Johor,9
+DNK,Jeti Pasir Gudang,Johor,9
+VNM,Jeti Kukup,Johor,9
+PER,Woodlands Train Checkpoint,Singapore,9
+PHL,LTA Sultan Ismail,Kelantan,9
+ESP,LTA Kuantan,Pahang,9
+DEU,ICQS Kudat,Sabah,9
+TUR,LT Tawau,Sabah,9
+YEM,Tebedu,Sarawak,9
+HKG,LTA Sultan Ismail Senai,Johor,9
+DZA,Pos Imigresen Mengkalap,Sarawak,9
+UZB,Pelabuhan Klang Barat - KMT,Selangor,9
+PRT,Tedungan,Sarawak,9
+CHN,Lubok Antu,Sarawak,9
+TTO,LTA Langkawi,Kedah,9
+URY,LTA Kuching,Sarawak,9
+URY,LTA Langkawi,Kedah,9
+ESP,Roro Labuan,Labuan,9
+JAM,LTA Langkawi,Kedah,9
+ITA,Pengkalan Hulu (Bukit Berapit),Perak,9
+VNM,LTA Kuantan,Pahang,9
+SDN,Tedungan,Sarawak,9
+QAT,LTA Subang Terminal 3,Selangor,9
+CAN,Pelabuhan Melaka,Melaka,9
+TZA,LTA Kota Kinabalu,Sabah,9
+NLD,LT Bintulu,Sarawak,9
+SVN,Sungai Tujuh,Sarawak,9
+NLD,LTA Sultan Ismail,Kelantan,9
+CAN,Dermaga Tawau,Sabah,9
+HUN,Rantau Panjang,Kelantan,9
+PLW,Bangunan Sultan Iskandar,Johor,9
+BHR,Bukit Kayu Hitam,Kedah,9
+UKR,Terminal Feri Puteri Harbour,Johor,9
+BRA,Terminal Feri Puteri Harbour,Johor,9
+NZL,Lumut,Perak,9
+IRN,LTA Sultan Ismail Senai,Johor,9
+BEL,Tedungan,Sarawak,9
+FIN,Tanjung Pengelih,Johor,9
+BEL,Jeti Tioman,Pahang,9
+POL,LT Bintulu,Sarawak,9
+BHR,Pelabuhan Klang Barat - SCT,Selangor,9
+ALB,LTA Langkawi,Kedah,9
+SYR,LTA Kota Kinabalu,Sabah,9
+TZA,LTA Langkawi,Kedah,9
+URY,Telaga Harbour Park,Kedah,9
+PRK,LTA Kuala Lumpur Terminal 1,Selangor,9
+PRT,Dermaga Labuan,Labuan,9
+KEN,Padang Besar,Perlis,9
+PHL,ICQ Durian Burung,Kedah,9
+ISL,LTA Kuching,Sarawak,9
+SLE,LTA Bayan Lepas,Pulau_Pinang,9
+AFG,Bangunan Sultan Iskandar,Johor,8
+OMN,Rantau Panjang,Kelantan,8
+SWE,LTA Sultan Ismail,Kelantan,8
+ARE,LTA Sultan Ismail Senai,Johor,8
+OMN,LTA Kuching,Sarawak,8
+NZL,Pelabuhan Klang Utara,Selangor,8
+AND,Gelang Patah,Johor,8
+OMN,Pelabuhan Klang Barat - KMT,Selangor,8
+SWE,LTA Kuantan,Pahang,8
+MHL,Gelang Patah,Johor,8
+MHL,Bangunan Sultan Iskandar,Johor,8
+DNK,Pandaruan,Sarawak,8
+BTN,LTA Sultan Ismail Senai,Johor,8
+PAK,Dermaga Tawau,Sabah,8
+GIN,Padang Besar,Perlis,8
+BRN,Telaga Harbour Park,Kedah,8
+TWN,Jeti Tioman,Pahang,8
+SVN,Dermaga Labuan,Labuan,8
+SVK,LTA Sultan Ismail Senai,Johor,8
+DZA,LTA Subang Terminal 3,Selangor,8
+NRU,LTA Kuala Lumpur Terminal 2,Selangor,8
+DNK,Tanjung Belungkor,Johor,8
+KHM,Jeti Kukup,Johor,8
+VNM,LT Sandakan,Sabah,8
+PAK,LTA Kuantan,Pahang,8
+XXX,Pejabat Imigresen Desaru Coast,Johor,8
+GIN,Bukit Kayu Hitam,Kedah,8
+STP,LTA Kuala Lumpur Terminal 2,Selangor,8
+CUB,LTA Bayan Lepas,Pulau_Pinang,8
+SLB,Biawak,Sarawak,8
+LBN,LTA Kuching,Sarawak,8
+EGY,Wang Kelian,Perlis,8
+TUR,Pengkalan Kubur,Kelantan,8
+UZB,Stulang Laut,Johor,8
+LBY,Bukit Kayu Hitam,Kedah,8
+TUR,Pelabuhan Melaka,Melaka,8
+TLS,LTA Subang Terminal 3,Selangor,8
+SOM,Bangunan Sultan Iskandar,Johor,8
+PER,Telaga Harbour Park,Kedah,8
+ATG,LTA Langkawi,Kedah,8
+HUN,Pejabat Imigresen Desaru Coast,Johor,8
+SLV,LTA Kota Kinabalu,Sabah,8
+HUN,Pandaruan,Sarawak,8
+THA,Pelabuhan Kemaman,Terengganu,8
+MLT,Jeti Kuah Langkawi,Kedah,8
+MAR,LTA Subang Terminal 3,Selangor,8
+TLS,Pelabuhan Klang Barat - SCT,Selangor,8
+PAN,LTA Subang Terminal 3,Selangor,8
+UKR,LTA Kuantan,Pahang,8
+ECU,Bukit Kayu Hitam,Kedah,8
+GHA,Pelabuhan Tanjung Pelepas,Johor,8
+GHA,Sungai Tujuh,Sarawak,8
+ARM,LTA Kota Kinabalu,Sabah,8
+UGA,LTA Kota Kinabalu,Sabah,8
+MMR,LT Tawau,Sabah,8
+BHR,Wang Kelian,Perlis,8
+SLB,Lubok Antu,Sarawak,8
+SLB,LT Miri,Sarawak,8
+YEM,LTA Kuching,Sarawak,8
+EGY,Pelabuhan Klang Barat - SCT,Selangor,8
+KEN,LTA Subang Terminal 3,Selangor,8
+KAZ,Pos Imigresen Mengkalap,Sarawak,8
+LKA,Rantau Panjang,Kelantan,8
+IRN,LT Miri,Sarawak,8
+RUS,LTA Sultan Ismail,Kelantan,8
+ISL,LTA Kota Kinabalu,Sabah,8
+UKR,Tedungan,Sarawak,8
+TKM,LTA Kota Kinabalu,Sabah,8
+CHE,LT Sibu,Sarawak,8
+ROU,Pejabat Imigresen Desaru Coast,Johor,8
+ZWE,LTA Kuching,Sarawak,8
+GRC,Pasir Gudang,Johor,8
+GRC,LTA Ipoh,Perak,8
+AGO,LTA Kuala Lumpur Terminal 2,Selangor,8
+COL,Pejabat Imigresen Desaru Coast,Johor,8
+GRC,Sungai Tujuh,Sarawak,8
+GTM,LTA Subang Terminal 3,Selangor,8
+GUY,Gelang Patah,Johor,8
+BGD,LT Bintulu,Sarawak,8
+RUS,LT Tawau,Sabah,8
+LTU,Pasir Gudang,Johor,8
+TWN,Pelabuhan Tanjung Pelepas,Johor,8
+RUS,LT Sibu,Sarawak,8
+IRN,Jeti Kuah Langkawi,Kedah,8
+CHL,Pelabuhan Klang Barat - SCT,Selangor,8
+ISR,LTA Bayan Lepas,Pulau_Pinang,8
+ZAF,LTA Kuantan,Pahang,8
+SEN,LTA Bayan Lepas,Pulau_Pinang,8
+TUN,Woodlands Train Checkpoint,Singapore,8
+IND,Pelabuhan Kuantan,Pahang,8
+JAM,LTA Kota Kinabalu,Sabah,8
+NGA,Bukit Kayu Hitam,Kedah,8
+IRL,Pelabuhan Klang Barat - KMT,Selangor,8
+URY,LTA Kota Kinabalu,Sabah,8
+MNG,LTA Kuching,Sarawak,8
+BGR,LTA Sultan Ismail Senai,Johor,8
+AUT,Terminal Feri Puteri Harbour,Johor,8
+SDN,LTA Sultan Ismail Senai,Johor,8
+LVA,Pelabuhan Klang Barat - SCT,Selangor,8
+AUT,Pelabuhan Melaka,Melaka,8
+LVA,Pasir Gudang,Johor,8
+AZE,LTA Kota Kinabalu,Sabah,8
+JOR,LTA Kuching,Sarawak,8
+UKR,Pengkalan Hulu (Bukit Berapit),Perak,8
+TUN,LTA Subang Terminal 3,Selangor,8
+TUN,Padang Besar,Perlis,8
+PRT,Pandaruan,Sarawak,8
+JOR,Sungai Tujuh,Sarawak,8
+MMR,Pelabuhan Kuantan,Pahang,8
+ESP,LT Tawau,Sabah,8
+IDN,LTA Sultan Ismail,Kelantan,8
+LVA,Roro Labuan,Labuan,8
+THA,Tanjung Belungkor,Johor,8
+IND,Jeti Port Dickson,Negeri_Sembilan,8
+POL,Pelabuhan Kuantan,Pahang,8
+JPN,Dermaga Kota Kinabalu,Sabah,8
+LBN,LTA Sultan Ismail Senai,Johor,8
+LBN,Stulang Laut,Johor,8
+ISL,Telaga Harbour Park,Kedah,8
+MNG,Rantau Panjang,Kelantan,8
+FIN,LT Sibu,Sarawak,8
+LUX,Padang Besar,Perlis,8
+IRL,Terminal Feri Puteri Harbour,Johor,8
+EST,LT Sandakan,Sabah,8
+AUS,Pelabuhan Kuantan,Pahang,7
+MAC,Pengkalan Hulu (Bukit Berapit),Perak,7
+LBN,Tedungan,Sarawak,7
+POL,Tanjung Pengelih,Johor,7
+CHN,Pelabuhan Kuantan,Pahang,7
+CAN,Pelabuhan Klang Utara,Selangor,7
+LBN,LTA Subang Terminal 3,Selangor,7
+AUS,Pelabuhan Kuching,Sarawak,7
+PNG,Tebedu,Sarawak,7
+EGY,Telaga Harbour Park,Kedah,7
+KWT,Padang Besar,Perlis,7
+DMA,LTA Kota Kinabalu,Sabah,7
+NOR,Tanjung Belungkor,Johor,7
+KGZ,LTA Kota Kinabalu,Sabah,7
+MAR,Wang Kelian,Perlis,7
+MAR,Telaga Harbour Park,Kedah,7
+CMR,LTA Langkawi,Kedah,7
+COL,LTA Ipoh,Perak,7
+EGY,Tebedu,Sarawak,7
+EGY,Tanjung Pengelih,Johor,7
+AUS,LT Batu Berendam,Melaka,7
+PHL,Jeti Port Dickson,Negeri_Sembilan,7
+PLW,Gelang Patah,Johor,7
+EGY,Pelabuhan Melaka,Melaka,7
+PAK,Pejabat Imigresen Port Swettenham,Selangor,7
+KWT,Woodlands Train Checkpoint,Singapore,7
+KHM,Tanjung Pengelih,Johor,7
+OMN,Wang Kelian,Perlis,7
+GNB,LTA Kuala Lumpur Terminal 1,Selangor,7
+XXX,Pelabuhan Klang Barat - SCT,Selangor,7
+SVN,Pelabuhan Klang Barat - SCT,Selangor,7
+DNK,Jeti Port Dickson,Negeri_Sembilan,7
+KOR,LT Batu Berendam,Melaka,7
+SWE,LT Sandakan,Sabah,7
+ZWE,LTA Subang Terminal 3,Selangor,7
+ZMB,LTA Langkawi,Kedah,7
+DNK,Pengkalan Hulu (Bukit Berapit),Perak,7
+ZMB,Sungai Tujuh,Sarawak,7
+UKR,Biawak,Sarawak,7
+NZL,Pelabuhan Kuantan,Pahang,7
+ARE,Padang Besar,Perlis,7
+OMN,LT Miri,Sarawak,7
+HRV,Rantau Panjang,Kelantan,7
+CRI,LTA Langkawi,Kedah,7
+SVK,Pelabuhan Klang Barat - KMT,Selangor,7
+KHM,LT Tawau,Sabah,7
+PAK,Pos Kawalan Imigresen Muar,Johor,7
+XXX,Telaga Harbour Park,Kedah,7
+KHM,Lubok Antu,Sarawak,7
+GIN,Rantau Panjang,Kelantan,7
+EGY,Dermaga Labuan,Labuan,7
+CIV,Bangunan Sultan Iskandar,Johor,7
+BRA,LT Bintulu,Sarawak,7
+EGY,Biawak,Sarawak,7
+TLS,Tebedu,Sarawak,7
+GHA,LTA Langkawi,Kedah,7
+POL,Terminal Feri Puteri Harbour,Johor,7
+SEN,LTA Langkawi,Kedah,7
+PRY,LTA Kota Kinabalu,Sabah,7
+PRT,Terminal Feri Puteri Harbour,Johor,7
+MNG,Pejabat Imigresen Desaru Coast,Johor,7
+ITA,Jeti Pasir Gudang,Johor,7
+MNG,Pelabuhan Klang Barat - SCT,Selangor,7
+IRL,Pelabuhan Klang Utara,Selangor,7
+BEL,Terminal Feri Puteri Harbour,Johor,7
+MNE,Gelang Patah,Johor,7
+TLS,LTA Kota Kinabalu,Sabah,7
+TLS,Dermaga Tawau,Sabah,7
+FIN,Pelabuhan Klang Utara,Selangor,7
+CYP,LTA Kota Kinabalu,Sabah,7
+NLD,Jeti Tioman,Pahang,7
+ESP,Pejabat Imigresen Port Swettenham,Selangor,7
+TUN,Tedungan,Sarawak,7
+ESP,LTA Sultan Ismail,Kelantan,7
+FJI,Stulang Laut,Johor,7
+BEL,Pelabuhan Melaka,Melaka,7
+SAU,Pelabuhan Klang Barat - SCT,Selangor,7
+FJI,LTA Ipoh,Perak,7
+FJI,LTA Langkawi,Kedah,7
+SAU,Pejabat Imigresen Desaru Coast,Johor,7
+YEM,Pos Imigresen Mengkalap,Sarawak,7
+AUT,Pandaruan,Sarawak,7
+JOR,Pejabat Imigresen Desaru Coast,Johor,7
+AUT,Dermaga Tawau,Sabah,7
+AUT,LT Sandakan,Sabah,7
+FRA,Pelabuhan Klang Utara,Selangor,7
+CHE,Jeti Port Dickson,Negeri_Sembilan,7
+PSE,Stulang Laut,Johor,7
+PSE,Rantau Panjang,Kelantan,7
+VUT,LTA Subang Terminal 3,Selangor,7
+NAM,LTA Ipoh,Perak,7
+EST,Pengkalan Kubur,Kelantan,7
+RUS,Roro Labuan,Labuan,7
+LKA,Pandaruan,Sarawak,7
+TUR,Jeti Port Dickson,Negeri_Sembilan,7
+CHE,Pejabat Imigresen Port Swettenham,Selangor,7
+CHL,LTA Sultan Ismail Senai,Johor,7
+CYP,LTA Sultan Ismail Senai,Johor,7
+TKM,LTA Bayan Lepas,Pulau_Pinang,7
+LTU,Rantau Panjang,Kelantan,7
+LIE,Jeti Kuah Langkawi,Kedah,7
+DEU,LT Bintulu,Sarawak,7
+DEU,LT Batu Berendam,Melaka,7
+PSE,Bukit Kayu Hitam,Kedah,7
+ROU,Stulang Laut,Johor,7
+TUR,LT Bintulu,Sarawak,7
+RUS,Dermaga Tawau,Sabah,7
+ROU,Pandaruan,Sarawak,7
+IRQ,LTA Sultan Ismail Senai,Johor,7
+LTU,Pelabuhan Klang Barat - SCT,Selangor,7
+XXX,Jeti Kuah Langkawi,Kedah,7
+MUS,LTA Kuching,Sarawak,7
+NAM,LTA Bayan Lepas,Pulau_Pinang,7
+ETH,LTA Kuching,Sarawak,7
+KOR,ICQ Durian Burung,Kedah,7
+SYC,Sungai Tujuh,Sarawak,7
+GRD,LTA Kota Kinabalu,Sabah,7
+GRC,Pandaruan,Sarawak,7
+SYR,Padang Besar,Perlis,7
+SWE,Pasir Gudang,Johor,7
+MDG,Bukit Kayu Hitam,Kedah,7
+GRC,Rantau Panjang,Kelantan,7
+GNQ,LTA Kuala Lumpur Terminal 2,Selangor,6
+DOM,LTA Subang Terminal 3,Selangor,6
+BRB,Bangunan Sultan Iskandar,Johor,6
+KNA,LTA Subang Terminal 3,Selangor,6
+KOR,Dermaga Bintulu,Sarawak,6
+IRN,Wang Kelian,Perlis,6
+MUS,Pengkalan Hulu (Bukit Berapit),Perak,6
+MUS,Wang Kelian,Perlis,6
+BEN,Bangunan Sultan Iskandar,Johor,6
+ETH,LTA Bayan Lepas,Pulau_Pinang,6
+LSO,Bangunan Sultan Iskandar,Johor,6
+XXX,Rantau Panjang,Kelantan,6
+DNK,ICQS Kudat,Sabah,6
+MEX,Stulang Laut,Johor,6
+MEX,Tanjung Pengelih,Johor,6
+HND,Woodlands Train Checkpoint,Singapore,6
+NPL,Pelabuhan Klang Utara,Selangor,6
+CAF,LTA Kuala Lumpur Terminal 1,Selangor,6
+BTN,Bukit Kayu Hitam,Kedah,6
+KHM,LT Batu Berendam,Melaka,6
+CRI,LTA Subang Terminal 3,Selangor,6
+COD,Gelang Patah,Johor,6
+USA,Lubok Antu,Sarawak,6
+SUR,Padang Besar,Perlis,6
+MUS,LTA Sultan Ismail Senai,Johor,6
+IRL,Stulang Laut,Johor,6
+HUN,Pengkalan Hulu (Bukit Berapit),Perak,6
+HUN,LT Miri,Sarawak,6
+PAK,Telaga Harbour Park,Kedah,6
+KGZ,Woodlands Train Checkpoint,Singapore,6
+XXX,Pandaruan,Sarawak,6
+UGA,Pelabuhan Klang Barat - KMT,Selangor,6
+XXX,Roro Labuan,Labuan,6
+BRA,Dermaga Labuan,Labuan,6
+TON,LTA Sultan Ismail Senai,Johor,6
+TTO,LTA Kota Kinabalu,Sabah,6
+BEN,LTA Langkawi,Kedah,6
+EST,Woodlands Train Checkpoint,Singapore,6
+BGD,Roro Labuan,Labuan,6
+TUR,Jeti Pasir Gudang,Johor,6
+LKA,Pasir Gudang,Johor,6
+DEU,Dermaga Kota Kinabalu,Sabah,6
+SRB,LTA Subang Terminal 3,Selangor,6
+TLS,Tedungan,Sarawak,6
+BWA,Bukit Kayu Hitam,Kedah,6
+BOL,LT Miri,Sarawak,6
+MAR,Terminal Feri Puteri Harbour,Johor,6
+ARM,Bukit Kayu Hitam,Kedah,6
+GBR,Pelabuhan Kuching,Sarawak,6
+SGP,Terminal Feri Minyak Beku,Johor,6
+BHR,Padang Besar,Perlis,6
+NOR,Tedungan,Sarawak,6
+NOR,Pelabuhan Klang Barat - KMT,Selangor,6
+NOR,LT Sandakan,Sabah,6
+KAZ,LT Miri,Sarawak,6
+VEN,Tedungan,Sarawak,6
+GEO,Padang Besar,Perlis,6
+GHA,LTA Kota Kinabalu,Sabah,6
+CHE,LT Tawau,Sabah,6
+PSE,LTA Kota Kinabalu,Sabah,6
+BGR,Pelabuhan Kuantan,Pahang,6
+IRL,Tebedu,Sarawak,6
+ZAF,Jeti Tioman,Pahang,6
+CAN,LT Batu Berendam,Melaka,6
+XXX,LT Tawau,Sabah,6
+LAO,Pos Imigresen Mengkalap,Sarawak,6
+LAO,LTA Ipoh,Perak,6
+EGY,Pengkalan Kubur,Kelantan,6
+BIH,LTA Kota Kinabalu,Sabah,6
+USA,Jeti Port Dickson,Negeri_Sembilan,6
+MLT,Padang Besar,Perlis,6
+IDN,Dermaga Kastam Limbang,Sarawak,6
+NIC,LTA Bayan Lepas,Pulau_Pinang,6
+NGA,LTA Kota Kinabalu,Sabah,6
+NGA,LTA Subang Terminal 3,Selangor,6
+ITA,Jeti Tioman,Pahang,6
+PRT,Stulang Laut,Johor,6
+URY,LTA Subang Terminal 3,Selangor,6
+MOZ,LTA Bayan Lepas,Pulau_Pinang,6
+MNG,LTA Ipoh,Perak,6
+CHN,Pos Imigresen Bukit Bunga,Kelantan,6
+POL,LTA Sultan Ismail,Kelantan,6
+POL,Jeti Tioman,Pahang,6
+BHS,Bangunan Sultan Iskandar,Johor,6
+JPN,Dermaga Bintulu,Sarawak,6
+CAN,ICQ Durian Burung,Kedah,6
+ESP,Pos Imigresen Bukit Bunga,Kelantan,6
+TUN,Sungai Tujuh,Sarawak,6
+TLS,LTA Kuching,Sarawak,6
+CHL,Woodlands Train Checkpoint,Singapore,6
+FJI,LTA Subang Terminal 3,Selangor,6
+SDN,Pos Imigresen Mengkalap,Sarawak,6
+IDN,LTA Kuala Terengganu,Terengganu,6
+FRA,Pelabuhan Tanjung Pelepas,Johor,6
+AUT,Tebedu,Sarawak,6
+BGR,Woodlands Train Checkpoint,Singapore,6
+LBN,Terminal Feri Puteri Harbour,Johor,6
+TZA,LTA Bayan Lepas,Pulau_Pinang,6
+DEU,Lumut,Perak,6
+AUS,LTA Sultan Ismail,Kelantan,6
+UZB,Pelabuhan Klang Barat - SCT,Selangor,6
+UZB,Sungai Tujuh,Sarawak,6
+IRL,LT Sandakan,Sabah,6
+FIN,Terminal Feri Puteri Harbour,Johor,6
+FRA,LT Bintulu,Sarawak,6
+ZAF,LT Tawau,Sabah,6
+JOR,LT Tawau,Sabah,6
+VAT,LTA Kuala Lumpur Terminal 2,Selangor,6
+GBR,ICQS Kudat,Sabah,6
+ALB,Bukit Kayu Hitam,Kedah,6
+GRC,Tanjung Pengelih,Johor,6
+COL,Woodlands Train Checkpoint,Singapore,6
+GRC,Pejabat Imigresen Port Swettenham,Selangor,6
+SYR,Pasir Gudang,Johor,6
+ARE,Bukit Kayu Hitam,Kedah,6
+SVN,Dermaga Tawau,Sabah,6
+NRU,Bangunan Sultan Iskandar,Johor,6
+UKR,LT Bintulu,Sarawak,6
+KHM,Terminal Feri Puteri Harbour,Johor,6
+VUT,LTA Langkawi,Kedah,5
+COM,Gelang Patah,Johor,5
+GNB,Gelang Patah,Johor,5
+SWE,Pelabuhan Tanjung Pelepas,Johor,5
+KHM,Tebedu,Sarawak,5
+DNK,Tanjung Pengelih,Johor,5
+KOR,Pasir Gudang,Johor,5
+NPL,Terminal Feri Puteri Harbour,Johor,5
+NZL,Jeti Port Dickson,Negeri_Sembilan,5
+ECU,LTA Kuching,Sarawak,5
+SVK,Woodlands Train Checkpoint,Singapore,5
+ZMB,LTA Kuching,Sarawak,5
+ZWE,LTA Langkawi,Kedah,5
+ALB,LTA Subang Terminal 3,Selangor,5
+GRC,Pejabat Imigresen Desaru Coast,Johor,5
+SYC,LTA Kuching,Sarawak,5
+ALB,Stulang Laut,Johor,5
+KOR,Dermaga Sandakan,Sabah,5
+ALB,Telaga Harbour Park,Kedah,5
+MDA,Woodlands Train Checkpoint,Singapore,5
+MDA,Sungai Tujuh,Sarawak,5
+MDV,Rantau Panjang,Kelantan,5
+SGP,Pelabuhan Kuantan,Pahang,5
+JOR,Tedungan,Sarawak,5
+JOR,Pos Imigresen Mengkalap,Sarawak,5
+LBY,Pos Imigresen Mengkalap,Sarawak,5
+SGP,Dermaga Sandakan,Sabah,5
+SGP,Dermaga Bintulu,Sarawak,5
+LUX,Telaga Harbour Park,Kedah,5
+CHL,Sungai Tujuh,Sarawak,5
+FJI,Wang Kelian,Perlis,5
+JOR,LTA Subang Terminal 3,Selangor,5
+DEU,Merapok,Sabah,5
+LBY,LTA Langkawi,Kedah,5
+POL,Pengkalan Hulu (Bukit Berapit),Perak,5
+JOR,Terminal Feri Puteri Harbour,Johor,5
+MMR,LT Sandakan,Sabah,5
+SDN,Bukit Kayu Hitam,Kedah,5
+MNE,Pelabuhan Klang Barat - KMT,Selangor,5
+IND,Pengkalan Kubur,Kelantan,5
+PRT,LT Sandakan,Sabah,5
+TUN,Telaga Harbour Park,Kedah,5
+TUN,Tebedu,Sarawak,5
+LBY,Woodlands Train Checkpoint,Singapore,5
+ESP,Pengkalan Kubur,Kelantan,5
+IRL,Pasir Gudang,Johor,5
+LVA,LT Miri,Sarawak,5
+PNG,Pos Imigresen Mengkalap,Sarawak,5
+ERI,Bangunan Sultan Iskandar,Johor,5
+VEN,LTA Sultan Ismail Senai,Johor,5
+BHR,Rantau Panjang,Kelantan,5
+POL,LT Tawau,Sabah,5
+CAN,Pelabuhan Kemaman,Terengganu,5
+AUS,LTA Kuala Terengganu,Terengganu,5
+MAR,Dermaga Labuan,Labuan,5
+MAR,Biawak,Sarawak,5
+USA,Dermaga Sandakan,Sabah,5
+LUX,Woodlands Train Checkpoint,Singapore,5
+VCT,Gelang Patah,Johor,5
+PRT,Tebedu,Sarawak,5
+PRT,Pengkalan Hulu (Bukit Berapit),Perak,5
+ITA,Jeti Port Dickson,Negeri_Sembilan,5
+EST,LTA Ipoh,Perak,5
+BEL,Roro Labuan,Labuan,5
+ZAF,LT Batu Berendam,Melaka,5
+SGS,LTA Kuala Lumpur Terminal 2,Selangor,5
+SLB,Sungai Tujuh,Sarawak,5
+MLT,Bukit Kayu Hitam,Kedah,5
+PLW,LTA Kuala Lumpur Terminal 2,Selangor,5
+JPN,LT Sandakan,Sabah,5
+EGY,Roro Labuan,Labuan,5
+LAO,Tebedu,Sarawak,5
+RWA,LTA Bayan Lepas,Pulau_Pinang,5
+FIN,LT Miri,Sarawak,5
+VEN,Jeti Kuah Langkawi,Kedah,5
+WSM,Gelang Patah,Johor,5
+WSM,Bangunan Sultan Iskandar,Johor,5
+LTU,Pelabuhan Klang Utara,Selangor,5
+EST,LT Miri,Sarawak,5
+ISL,Roro Labuan,Labuan,5
+PSE,Pengkalan Hulu (Bukit Berapit),Perak,5
+CHE,LTA Sultan Ismail,Kelantan,5
+NGA,Pelabuhan Tanjung Pelepas,Johor,5
+SRB,LTA Kuching,Sarawak,5
+KAZ,Pejabat Imigresen Desaru Coast,Johor,5
+NOR,LTA Kuantan,Pahang,5
+SLB,LTA Subang Terminal 3,Selangor,5
+GBR,Merapok,Sabah,5
+SLB,LTA Kota Kinabalu,Sabah,5
+CMR,LTA Kota Kinabalu,Sabah,5
+MKD,Woodlands Train Checkpoint,Singapore,5
+GHA,LTA Sultan Ismail Senai,Johor,5
+GMB,LTA Bayan Lepas,Pulau_Pinang,5
+ARG,Tanjung Pengelih,Johor,5
+BLR,Pelabuhan Tanjung Pelepas,Johor,5
+BWA,LTA Kuching,Sarawak,5
+KWT,Jeti Kuah Langkawi,Kedah,5
+HUN,Pejabat Imigresen Port Swettenham,Selangor,5
+MAR,Pelabuhan Klang Barat - SCT,Selangor,5
+NGA,Pelabuhan Klang Barat - SCT,Selangor,5
+QAT,LTA Kuching,Sarawak,5
+EST,Pelabuhan Klang Barat - KMT,Selangor,5
+ISL,LT Miri,Sarawak,5
+DEU,Dermaga Sandakan,Sabah,5
+BGD,Pos Imigresen Bukit Bunga,Kelantan,5
+BGD,Pengkalan Kubur,Kelantan,5
+IRN,Stulang Laut,Johor,5
+RUS,Pelabuhan Klang Utara,Selangor,5
+BFA,LTA Bayan Lepas,Pulau_Pinang,5
+DZA,Stulang Laut,Johor,5
+DZA,Rantau Panjang,Kelantan,5
+PAK,Pelabuhan Melaka,Melaka,5
+VNM,Dermaga Sandakan,Sabah,5
+KGZ,Rantau Panjang,Kelantan,5
+KGZ,Padang Besar,Perlis,5
+BEN,LTA Kota Kinabalu,Sabah,5
+IRL,Roro Labuan,Labuan,5
+TWN,LTA Sultan Ismail,Kelantan,5
+QAT,Pelabuhan Klang Barat - SCT,Selangor,5
+BGD,LTA Kuantan,Pahang,5
+VNM,Pasir Gudang,Johor,5
+LKA,Terminal Feri Puteri Harbour,Johor,5
+MWI,Sungai Tujuh,Sarawak,5
+ROU,Pelabuhan Klang Utara,Selangor,5
+IRQ,Stulang Laut,Johor,5
+IRN,Tedungan,Sarawak,5
+IRQ,Woodlands Train Checkpoint,Singapore,5
+BGD,LT Tawau,Sabah,5
+BGD,Jeti Kukup,Johor,5
+SVK,LTA Ipoh,Perak,5
+SVK,Pos Imigresen Mengkalap,Sarawak,5
+SVK,Pelabuhan Tanjung Pelepas,Johor,5
+MEX,Terminal Feri Puteri Harbour,Johor,5
+BRA,LTA Kuantan,Pahang,5
+BTN,LTA Langkawi,Kedah,5
+CAF,LTA Kuala Lumpur Terminal 2,Selangor,5
+BWA,LTA Langkawi,Kedah,5
+ARE,Wang Kelian,Perlis,5
+MEX,LT Tawau,Sabah,5
+MEX,Rantau Panjang,Kelantan,5
+HND,Bukit Kayu Hitam,Kedah,5
+BRA,Tedungan,Sarawak,5
+BRA,Tanjung Belungkor,Johor,5
+BTN,Padang Besar,Perlis,5
+NZL,Biawak,Sarawak,5
+DNK,LTA Sultan Ismail,Kelantan,5
+PAK,Jeti Port Dickson,Negeri_Sembilan,5
+ARG,Stulang Laut,Johor,5
+TUR,LTA Kuantan,Pahang,5
+IRN,Pejabat Imigresen Desaru Coast,Johor,5
+IRQ,LTA Kota Kinabalu,Sabah,5
+CYP,Sungai Tujuh,Sarawak,5
+CZE,LT Tawau,Sabah,5
+LTU,LT Sandakan,Sabah,5
+MUS,LT Miri,Sarawak,5
+MRT,Sungai Tujuh,Sarawak,5
+MUS,Sungai Tujuh,Sarawak,5
+IRN,Terminal Feri Puteri Harbour,Johor,5
+AFG,Bukit Kayu Hitam,Kedah,5
+ZWE,Sungai Tujuh,Sarawak,5
+BRN,Jeti Kuah Langkawi,Kedah,5
+NZL,Jeti Pasir Gudang,Johor,5
+DOM,LTA Kota Kinabalu,Sabah,5
+BRN,Pasir Gudang,Johor,5
+KNA,Bukit Kayu Hitam,Kedah,5
+HKG,Woodlands Train Checkpoint,Singapore,5
+SWE,Dermaga Kota Kinabalu,Sabah,5
+SWE,LT Tawau,Sabah,5
+TWN,Dermaga Kota Kinabalu,Sabah,5
+MDV,Wang Kelian,Perlis,4
+GUY,Bangunan Sultan Iskandar,Johor,4
+DZA,Tebedu,Sarawak,4
+NZL,Pengkalan Kubur,Kelantan,4
+DNK,Pelabuhan Klang Utara,Selangor,4
+DNK,Pelabuhan Melaka,Melaka,4
+KOR,Dermaga Kota Kinabalu,Sabah,4
+GRC,Jeti Port Dickson,Negeri_Sembilan,4
+AND,LTA Bayan Lepas,Pulau_Pinang,4
+SWE,Pelabuhan Melaka,Melaka,4
+CRI,Pejabat Imigresen Desaru Coast,Johor,4
+CPV,Bangunan Sultan Iskandar,Johor,4
+TUR,Tebedu,Sarawak,4
+TUV,LTA Kuala Lumpur Terminal 1,Selangor,4
+GNB,Stulang Laut,Johor,4
+THA,Dermaga Tawau,Sabah,4
+HKG,Pelabuhan Klang Utara,Selangor,4
+HKG,Wang Kelian,Perlis,4
+BRN,LTA Sultan Ismail,Kelantan,4
+MAR,Tanjung Pengelih,Johor,4
+MDG,LTA Kota Kinabalu,Sabah,4
+HND,LTA Kota Kinabalu,Sabah,4
+ARG,Dermaga Labuan,Labuan,4
+SVK,Tedungan,Sarawak,4
+CRI,Padang Besar,Perlis,4
+MKD,Bukit Kayu Hitam,Kedah,4
+HRV,LT Bintulu,Sarawak,4
+HRV,LTA Ipoh,Perak,4
+SVK,Pengkalan Kubur,Kelantan,4
+ARG,LTA Sultan Ismail,Kelantan,4
+ARG,Pelabuhan Melaka,Melaka,4
+USA,LTA Kuala Terengganu,Terengganu,4
+HRV,Padang Besar,Perlis,4
+SUR,LTA Subang Terminal 3,Selangor,4
+ARG,Terminal Feri Puteri Harbour,Johor,4
+HTI,Bangunan Sultan Iskandar,Johor,4
+GMB,LTA Kota Kinabalu,Sabah,4
+NPL,Wang Kelian,Perlis,4
+KOR,Pejabat Imigresen Port Swettenham,Selangor,4
+DNK,Tebedu,Sarawak,4
+KOR,Pengkalan Kubur,Kelantan,4
+KHM,Pos Imigresen Mengkalap,Sarawak,4
+KHM,Telaga Harbour Park,Kedah,4
+KIR,Bangunan Sultan Iskandar,Johor,4
+MAR,Tedungan,Sarawak,4
+MLT,LTA Ipoh,Perak,4
+MLT,LTA Kuching,Sarawak,4
+CIV,LTA Bayan Lepas,Pulau_Pinang,4
+MKD,LTA Kota Kinabalu,Sabah,4
+MAR,LTA Kuantan,Pahang,4
+ATG,LTA Bayan Lepas,Pulau_Pinang,4
+SOM,Gelang Patah,Johor,4
+BRA,Pengkalan Hulu (Bukit Berapit),Perak,4
+BRA,LT Tawau,Sabah,4
+KHM,Pejabat Imigresen Desaru Coast,Johor,4
+DZA,Pejabat Imigresen Desaru Coast,Johor,4
+GEO,Jeti Kuah Langkawi,Kedah,4
+ZAF,Pelabuhan Melaka,Melaka,4
+ZAF,Pengkalan Hulu (Bukit Berapit),Perak,4
+ZAF,Pengkalan Kubur,Kelantan,4
+ATG,Woodlands Train Checkpoint,Singapore,4
+HUN,Tebedu,Sarawak,4
+TUR,Tanjung Pengelih,Johor,4
+MLT,Pos Imigresen Mengkalap,Sarawak,4
+SLB,LTA Bayan Lepas,Pulau_Pinang,4
+GBR,Pelabuhan Klang Selatan - Jeti,Selangor,4
+UZB,Pengkalan Hulu (Bukit Berapit),Perak,4
+IDN,ICQS Kudat,Sabah,4
+IDN,Jeti Kuala Perlis,Perlis,4
+NPL,Pasir Gudang,Johor,4
+PAK,Pasir Gudang,Johor,4
+MAR,Jeti Pasir Gudang,Johor,4
+AUS,Pos Imigresen Bukit Bunga,Kelantan,4
+UZB,Woodlands Train Checkpoint,Singapore,4
+GBR,LT Labuan,Labuan,4
+VNM,Pos Kawalan Imigresen Muar,Johor,4
+LVA,Rantau Panjang,Kelantan,4
+LVA,Tedungan,Sarawak,4
+MAC,Gelang Patah,Johor,4
+LVA,LTA Ipoh,Perak,4
+IND,Dermaga Bintulu,Sarawak,4
+FRA,Lubok Antu,Sarawak,4
+IDN,Sebana Resort Desaru,Johor,4
+AUT,Tanjung Pengelih,Johor,4
+AUT,LTA Sultan Ismail,Kelantan,4
+XXX,Wang Kelian,Perlis,4
+TON,LTA Subang Terminal 3,Selangor,4
+FRA,LT Batu Berendam,Melaka,4
+FRA,LTA Kuala Terengganu,Terengganu,4
+AUT,Pengkalan Hulu (Bukit Berapit),Perak,4
+IND,LTA Sultan Ismail,Kelantan,4
+FRA,Biawak,Sarawak,4
+SGP,Dermaga Kota Kinabalu,Sabah,4
+AZE,LTA Subang Terminal 3,Selangor,4
+IND,Pelabuhan Kemaman,Terengganu,4
+CYP,LT Sandakan,Sabah,4
+CHL,LTA Ipoh,Perak,4
+CHL,LTA Kuantan,Pahang,4
+FJI,Padang Besar,Perlis,4
+FJI,Pejabat Imigresen Desaru Coast,Johor,4
+UGA,LTA Langkawi,Kedah,4
+KWT,Pengkalan Kubur,Kelantan,4
+KWT,Pos Imigresen Mengkalap,Sarawak,4
+KWT,Stulang Laut,Johor,4
+SDN,Padang Besar,Perlis,4
+SDN,Roro Labuan,Labuan,4
+SDN,LTA Kota Kinabalu,Sabah,4
+SAU,Pelabuhan Klang Barat - KMT,Selangor,4
+FIN,Tebedu,Sarawak,4
+BEL,Jeti Port Dickson,Negeri_Sembilan,4
+VCT,Sungai Tujuh,Sarawak,4
+URY,Padang Besar,Perlis,4
+MNE,Bangunan Sultan Iskandar,Johor,4
+MNE,LTA Kota Kinabalu,Sabah,4
+LUX,Wang Kelian,Perlis,4
+FIN,Pasir Gudang,Johor,4
+KGZ,Jeti Kuah Langkawi,Kedah,4
+PAN,LTA Langkawi,Kedah,4
+PAN,Pejabat Imigresen Port Swettenham,Selangor,4
+KGZ,Wang Kelian,Perlis,4
+LUX,LTA Kuching,Sarawak,4
+MNG,Tanjung Pengelih,Johor,4
+VEN,LT Miri,Sarawak,4
+FIN,Jeti Tioman,Pahang,4
+RWA,Bangunan Sultan Iskandar,Johor,4
+SAU,Biawak,Sarawak,4
+CYP,Pelabuhan Klang Barat - SCT,Selangor,4
+CYP,Pelabuhan Tanjung Pelepas,Johor,4
+MOZ,Pelabuhan Klang Barat - KMT,Selangor,4
+MOZ,Pelabuhan Klang Barat - SCT,Selangor,4
+CHL,Pejabat Imigresen Desaru Coast,Johor,4
+IRL,Tanjung Lembung,Kedah,4
+BEN,LTA Subang Terminal 3,Selangor,4
+NOR,Pengkalan Hulu (Bukit Berapit),Perak,4
+NOR,Tanjung Pengelih,Johor,4
+PER,Wang Kelian,Perlis,4
+PHL,Dermaga Bintulu,Sarawak,4
+WSM,Pelabuhan Tanjung Pelepas,Johor,4
+RUS,Jeti Pasir Gudang,Johor,4
+RUS,Jeti Port Dickson,Negeri_Sembilan,4
+BGD,Jeti Kuah Langkawi,Kedah,4
+IRQ,Tedungan,Sarawak,4
+IRN,Telaga Harbour Park,Kedah,4
+MUS,Telaga Harbour Park,Kedah,4
+IRQ,Jeti Pasir Gudang,Johor,4
+ROU,Tanjung Pengelih,Johor,4
+EGY,Pejabat Imigresen Desaru Coast,Johor,4
+PER,Pelabuhan Tanjung Pelepas,Johor,4
+PER,Sungai Tujuh,Sarawak,4
+PER,Tanjung Pengelih,Johor,4
+KWT,LTA Kota Kinabalu,Sabah,4
+BWA,LTA Bayan Lepas,Pulau_Pinang,4
+URY,Bukit Kayu Hitam,Kedah,4
+URY,Dermaga Labuan,Labuan,4
+URY,Jeti Kuah Langkawi,Kedah,4
+IRQ,LTA Subang Terminal 3,Selangor,4
+IRQ,Pelabuhan Melaka,Melaka,4
+IRQ,Pos Imigresen Mengkalap,Sarawak,4
+ROU,Roro Labuan,Labuan,4
+TUR,LT Sibu,Sarawak,4
+MWI,LTA Bayan Lepas,Pulau_Pinang,4
+CZE,Pelabuhan Tanjung Pelepas,Johor,4
+ROU,LT Bintulu,Sarawak,4
+ROU,LT Tawau,Sabah,4
+ROU,LTA Sultan Ismail,Kelantan,4
+KAZ,Pengkalan Kubur,Kelantan,4
+KAZ,Stulang Laut,Johor,4
+BLR,LTA Ipoh,Perak,4
+ITA,Biawak,Sarawak,4
+ITA,Dermaga Kota Kinabalu,Sabah,4
+EST,Pandaruan,Sarawak,4
+BGD,Tebedu,Sarawak,4
+PSE,Telaga Harbour Park,Kedah,4
+NGA,Pelabuhan Klang Barat - KMT,Selangor,4
+NIC,LTA Langkawi,Kedah,4
+ITA,Pelabuhan Kuching,Sarawak,4
+ITA,Pelabuhan Tanjung Pelepas,Johor,4
+LBY,Tedungan,Sarawak,4
+BLR,Pejabat Imigresen Desaru Coast,Johor,4
+KAZ,Dermaga Labuan,Labuan,4
+LKA,Jeti Kuah Langkawi,Kedah,4
+LKA,Jeti Pasir Gudang,Johor,4
+ITA,Pos Imigresen Bukit Bunga,Kelantan,4
+PRT,LT Sibu,Sarawak,4
+PRT,LT Tawau,Sabah,4
+BHR,LT Miri,Sarawak,4
+DEU,Pasir Gudang,Johor,4
+TUN,Pelabuhan Melaka,Melaka,4
+YEM,Pengkalan Hulu (Bukit Berapit),Perak,4
+JAM,Sungai Tujuh,Sarawak,4
+JOR,Rantau Panjang,Kelantan,4
+UKR,Pejabat Imigresen Port Swettenham,Selangor,4
+BGR,Sungai Tujuh,Sarawak,4
+BGR,Tedungan,Sarawak,4
+JPN,Jeti Kukup,Johor,4
+DMA,LTA Subang Terminal 3,Selangor,4
+DMA,Pos Imigresen Mengkalap,Sarawak,4
+NOR,Terminal Feri Puteri Harbour,Johor,4
+NOR,ICQS Kudat,Sabah,4
+JPN,LT Labuan,Labuan,4
+ESP,Jeti Port Dickson,Negeri_Sembilan,4
+POL,Lubok Antu,Sarawak,4
+NLD,Lubok Antu,Sarawak,4
+CAN,Lumut,Perak,4
+TZA,Pos Imigresen Mengkalap,Sarawak,4
+VEN,Pejabat Imigresen Port Swettenham,Selangor,4
+ERI,Gelang Patah,Johor,4
+YEM,Pandaruan,Sarawak,4
+YEM,Pelabuhan Klang Barat - SCT,Selangor,4
+YEM,Pelabuhan Tanjung Pelepas,Johor,4
+PNG,LTA Langkawi,Kedah,4
+EGY,Pengkalan Hulu (Bukit Berapit),Perak,4
+BIH,Bukit Kayu Hitam,Kedah,4
+BHR,LTA Subang Terminal 3,Selangor,4
+YEM,LTA Ipoh,Perak,4
+JPN,Pasir Gudang,Johor,4
+PNG,LTA Ipoh,Perak,4
+COL,LTA Sultan Ismail Senai,Johor,4
+SYR,Dermaga Labuan,Labuan,4
+GRC,Linggi,Melaka,4
+SYR,LTA Sultan Ismail Senai,Johor,4
+ALB,LTA Kota Kinabalu,Sabah,4
+AFG,Padang Besar,Perlis,3
+ZMB,LTA Kota Kinabalu,Sabah,3
+AFG,Sungai Tujuh,Sarawak,3
+ALB,Padang Besar,Perlis,3
+AGO,Gelang Patah,Johor,3
+DOM,Woodlands Train Checkpoint,Singapore,3
+DZA,Dermaga Tawau,Sabah,3
+DZA,LT Miri,Sarawak,3
+KNA,Pelabuhan Klang Barat - SCT,Selangor,3
+DJI,Bangunan Sultan Iskandar,Johor,3
+JPN,LTA Sultan Ismail,Kelantan,3
+ALB,Pelabuhan Tanjung Pelepas,Johor,3
+SYR,Tedungan,Sarawak,3
+TCD,LTA Langkawi,Kedah,3
+SWE,Jeti Tioman,Pahang,3
+COM,LTA Langkawi,Kedah,3
+CPV,Gelang Patah,Johor,3
+MEX,LTA Kuantan,Pahang,3
+COL,Jeti Kuah Langkawi,Kedah,3
+COL,LT Miri,Sarawak,3
+TWN,ICQ Durian Burung,Kedah,3
+SVN,Wang Kelian,Perlis,3
+SVN,Woodlands Train Checkpoint,Singapore,3
+SWE,Biawak,Sarawak,3
+ARE,LTA Kota Kinabalu,Sabah,3
+ARE,Pejabat Imigresen Desaru Coast,Johor,3
+SWE,ICQS Kudat,Sabah,3
+TGO,LTA Ipoh,Perak,3
+HKG,LT Sandakan,Sabah,3
+HKG,LT Sibu,Sarawak,3
+PHL,Tanjung Lembung,Kedah,3
+BHS,LTA Langkawi,Kedah,3
+BIH,Padang Besar,Perlis,3
+EGY,LT Tawau,Sabah,3
+EGY,Pasir Gudang,Johor,3
+ESP,Biawak,Sarawak,3
+LAO,Telaga Harbour Park,Kedah,3
+OMN,Terminal Feri Puteri Harbour,Johor,3
+NZL,LTA Sultan Ismail,Kelantan,3
+NZL,Pelabuhan Kemaman,Terengganu,3
+BRN,Pejabat Imigresen Desaru Coast,Johor,3
+DOM,LTA Langkawi,Kedah,3
+BRB,LTA Bayan Lepas,Pulau_Pinang,3
+UGA,Sungai Tujuh,Sarawak,3
+TZA,Sungai Tujuh,Sarawak,3
+VEN,LTA Kuching,Sarawak,3
+PNG,Pelabuhan Klang Barat - SCT,Selangor,3
+PNG,Tedungan,Sarawak,3
+NOR,LT Sibu,Sarawak,3
+PHL,Pos Imigresen Bukit Bunga,Kelantan,3
+TWN,Jeti Port Dickson,Negeri_Sembilan,3
+MEX,LT Miri,Sarawak,3
+MEX,LT Sandakan,Sabah,3
+HND,LTA Kuching,Sarawak,3
+HND,LTA Langkawi,Kedah,3
+ESP,Jeti Pasir Gudang,Johor,3
+POL,Tanjung Lembung,Kedah,3
+POL,Dermaga Kota Kinabalu,Sabah,3
+DEU,Pelabuhan Kuching,Sarawak,3
+CAN,Pasir Gudang,Johor,3
+CAN,Pejabat Imigresen Port Swettenham,Selangor,3
+ARE,Sungai Tujuh,Sarawak,3
+SVN,Pelabuhan Klang Barat - KMT,Selangor,3
+SVK,Stulang Laut,Johor,3
+SVN,LT Sandakan,Sabah,3
+CRI,LTA Ipoh,Perak,3
+CRI,LTA Kuching,Sarawak,3
+MHL,LTA Bayan Lepas,Pulau_Pinang,3
+MDA,LTA Sultan Ismail,Kelantan,3
+HRV,Stulang Laut,Johor,3
+HRV,Jeti Tioman,Pahang,3
+SVK,LT Sandakan,Sabah,3
+DMA,LTA Langkawi,Kedah,3
+DMA,Sungai Tujuh,Sarawak,3
+NOR,Jeti Pasir Gudang,Johor,3
+NOR,LT Bintulu,Sarawak,3
+BIH,Stulang Laut,Johor,3
+TZA,Bukit Kayu Hitam,Kedah,3
+HRV,Pandaruan,Sarawak,3
+SUR,Pejabat Imigresen Desaru Coast,Johor,3
+ARG,Tebedu,Sarawak,3
+ARG,Tedungan,Sarawak,3
+HRV,Tanjung Pengelih,Johor,3
+MKD,LTA Subang Terminal 3,Selangor,3
+KOR,Pelabuhan Kuantan,Pahang,3
+UKR,Jeti Tioman,Pahang,3
+OMN,Tedungan,Sarawak,3
+MLI,Gelang Patah,Johor,3
+CMR,LTA Kuching,Sarawak,3
+CMR,Sungai Tujuh,Sarawak,3
+LBY,Pelabuhan Klang Barat - SCT,Selangor,3
+LBY,Pelabuhan Tanjung Pelepas,Johor,3
+PRT,Dermaga Tawau,Sabah,3
+BGR,Rantau Panjang,Kelantan,3
+UKR,Roro Labuan,Labuan,3
+JAM,Dermaga Labuan,Labuan,3
+JOR,Wang Kelian,Perlis,3
+LBN,Woodlands Train Checkpoint,Singapore,3
+SSD,Bangunan Sultan Iskandar,Johor,3
+SSD,LTA Subang Terminal 3,Selangor,3
+HRV,Tanjung Lembung,Kedah,3
+SRB,LTA Sultan Ismail Senai,Johor,3
+SRB,Padang Besar,Perlis,3
+SRB,Pelabuhan Tanjung Pelepas,Johor,3
+AUS,Dermaga Sandakan,Sabah,3
+BHR,LTA Kota Kinabalu,Sabah,3
+BGR,Pandaruan,Sarawak,3
+CHE,Biawak,Sarawak,3
+LBY,LTA Subang Terminal 3,Selangor,3
+ARM,LTA Subang Terminal 3,Selangor,3
+CIV,LTA Langkawi,Kedah,3
+MLT,LTA Subang Terminal 3,Selangor,3
+MCO,LTA Langkawi,Kedah,3
+MAR,Pandaruan,Sarawak,3
+SOM,Bukit Kayu Hitam,Kedah,3
+KWT,LTA Kuching,Sarawak,3
+BRA,Tebedu,Sarawak,3
+BRA,LT Sandakan,Sabah,3
+UKR,Dermaga Tawau,Sabah,3
+UKR,Jeti Pasir Gudang,Johor,3
+GEO,LTA Kota Kinabalu,Sabah,3
+KAZ,Pelabuhan Klang Barat - SCT,Selangor,3
+YEM,LT Bintulu,Sarawak,3
+PHL,LTA Kuala Terengganu,Terengganu,3
+BLR,Pos Imigresen Mengkalap,Sarawak,3
+BLR,Stulang Laut,Johor,3
+ATG,Pelabuhan Klang Barat - KMT,Selangor,3
+ATG,Tanjung Pengelih,Johor,3
+CUB,LTA Kota Kinabalu,Sabah,3
+CUB,LTA Langkawi,Kedah,3
+MLT,Sungai Tujuh,Sarawak,3
+MLT,Woodlands Train Checkpoint,Singapore,3
+HUN,LTA Kuantan,Pahang,3
+UZB,Terminal Feri Puteri Harbour,Johor,3
+TUR,Pengkalan Hulu (Bukit Berapit),Perak,3
+VNM,Jeti Port Dickson,Negeri_Sembilan,3
+ITA,LTA Sultan Ismail,Kelantan,3
+ITA,Pasir Gudang,Johor,3
+ITA,Tanjung Lembung,Kedah,3
+BTN,LTA Kota Kinabalu,Sabah,3
+BTN,LTA Subang Terminal 3,Selangor,3
+XXX,Pelabuhan Klang Barat - KMT,Selangor,3
+PAK,ICQ Durian Burung,Kedah,3
+DNK,ICQ Durian Burung,Kedah,3
+MMR,Pejabat Imigresen Port Swettenham,Selangor,3
+MMR,ICQ Durian Burung,Kedah,3
+MAC,Bangunan Sultan Iskandar,Johor,3
+AUS,Pelabuhan Kemaman,Terengganu,3
+AUT,ICQS Kudat,Sabah,3
+AUT,Jeti Port Dickson,Negeri_Sembilan,3
+AUT,Jeti Tioman,Pahang,3
+AUT,LT Sibu,Sarawak,3
+AUT,LT Tawau,Sabah,3
+PSE,Pelabuhan Melaka,Melaka,3
+BGR,Pelabuhan Klang Utara,Selangor,3
+BGR,Dermaga Labuan,Labuan,3
+ESP,Pengkalan Hulu (Bukit Berapit),Perak,3
+LKA,LT Sibu,Sarawak,3
+NIC,Bukit Kayu Hitam,Kedah,3
+ISL,Woodlands Train Checkpoint,Singapore,3
+BOL,LTA Sultan Ismail Senai,Johor,3
+PAK,Pelabuhan Klang Utara,Selangor,3
+TTO,LT Miri,Sarawak,3
+DNK,LT Tawau,Sabah,3
+IDN,Tanjung Lembung,Kedah,3
+FRA,ICQ Durian Burung,Kedah,3
+MMR,Telaga Harbour Park,Kedah,3
+MMR,LTA Sultan Ismail,Kelantan,3
+LVA,Pejabat Imigresen Desaru Coast,Johor,3
+LVA,Pelabuhan Klang Barat - KMT,Selangor,3
+LUX,Pelabuhan Klang Utara,Selangor,3
+ITA,ICQ Durian Burung,Kedah,3
+PSE,Pos Imigresen Mengkalap,Sarawak,3
+NGA,LTA Sultan Ismail Senai,Johor,3
+NAM,LTA Kuching,Sarawak,3
+PSE,LTA Kuching,Sarawak,3
+PSE,LTA Subang Terminal 3,Selangor,3
+PSE,Padang Besar,Perlis,3
+AZE,Pelabuhan Tanjung Pelepas,Johor,3
+MNE,LTA Subang Terminal 3,Selangor,3
+MMR,Pengkalan Kubur,Kelantan,3
+CHN,Dermaga Kastam Limbang,Sarawak,3
+NPL,LTA Ipoh,Perak,3
+TJK,Padang Besar,Perlis,3
+TJK,Terminal Feri Puteri Harbour,Johor,3
+BGD,Pelabuhan Kuantan,Pahang,3
+BGD,Pengkalan Hulu (Bukit Berapit),Perak,3
+TUR,Dermaga Labuan,Labuan,3
+TUR,Dermaga Tawau,Sabah,3
+CHL,LT Miri,Sarawak,3
+XXX,Pasir Gudang,Johor,3
+KWT,Rantau Panjang,Kelantan,3
+KHM,Dermaga Labuan,Labuan,3
+KEN,Pelabuhan Klang Barat - SCT,Selangor,3
+KEN,Wang Kelian,Perlis,3
+DZA,Telaga Harbour Park,Kedah,3
+SDN,Pandaruan,Sarawak,3
+SEN,Bukit Kayu Hitam,Kedah,3
+SDN,LTA Kuching,Sarawak,3
+VEN,Woodlands Train Checkpoint,Singapore,3
+KEN,LTA Sultan Ismail Senai,Johor,3
+KAZ,Tanjung Pengelih,Johor,3
+PHL,LT Batu Berendam,Melaka,3
+KEN,LT Sandakan,Sabah,3
+KEN,LT Sibu,Sarawak,3
+SDN,LTA Subang Terminal 3,Selangor,3
+BEL,Pelabuhan Klang Utara,Selangor,3
+BEL,Dermaga Tawau,Sabah,3
+IRL,LT Tawau,Sabah,3
+IOT,LTA Bayan Lepas,Pulau_Pinang,3
+FIN,Pengkalan Kubur,Kelantan,3
+MNP,LTA Kuala Lumpur Terminal 1,Selangor,3
+MNG,Jeti Kuah Langkawi,Kedah,3
+MNG,Pelabuhan Klang Barat - KMT,Selangor,3
+MNE,LT Bintulu,Sarawak,3
+IRL,Jeti Pasir Gudang,Johor,3
+BEL,LTA Sultan Ismail,Kelantan,3
+BOL,LTA Ipoh,Perak,3
+ROU,Pelabuhan Kuantan,Pahang,3
+TUR,Jeti Tioman,Pahang,3
+LKA,LTA Kuantan,Pahang,3
+BGD,Pasir Gudang,Johor,3
+QAT,Padang Besar,Perlis,3
+EST,Pelabuhan Tanjung Pelepas,Johor,3
+BLR,Tedungan,Sarawak,3
+BOL,LTA Kota Kinabalu,Sabah,3
+ECU,Jeti Kuah Langkawi,Kedah,3
+UKR,LT Sandakan,Sabah,3
+NPL,LT Tawau,Sabah,3
+MNG,Sungai Tujuh,Sarawak,3
+VEN,Bukit Kayu Hitam,Kedah,3
+FIN,Jeti Pasir Gudang,Johor,3
+FIN,Jeti Port Dickson,Negeri_Sembilan,3
+TJK,LTA Langkawi,Kedah,3
+SAU,Dermaga Labuan,Labuan,3
+RUS,Pos Imigresen Bukit Bunga,Kelantan,3
+RUS,Tanjung Belungkor,Johor,3
+ECU,Telaga Harbour Park,Kedah,3
+TON,Bangunan Sultan Iskandar,Johor,3
+PER,Rantau Panjang,Kelantan,3
+IRQ,LTA Kuching,Sarawak,3
+IRQ,Padang Besar,Perlis,3
+ROU,Pejabat Imigresen Port Swettenham,Selangor,3
+IRN,Jeti Pasir Gudang,Johor,3
+IRN,LT Bintulu,Sarawak,3
+TWN,Lubok Antu,Sarawak,3
+MRT,Bukit Kayu Hitam,Kedah,3
+YEM,Telaga Harbour Park,Kedah,3
+IRN,Pelabuhan Klang Utara,Selangor,3
+IRN,Pengkalan Hulu (Bukit Berapit),Perak,3
+IRN,Rantau Panjang,Kelantan,3
+NOR,Pengkalan Kubur,Kelantan,3
+XXX,Biawak,Sarawak,3
+LTU,Tanjung Belungkor,Johor,3
+BGD,LT Sibu,Sarawak,3
+CZE,Pengkalan Hulu (Bukit Berapit),Perak,3
+CZE,LT Sandakan,Sabah,3
+CYP,Wang Kelian,Perlis,3
+IRN,Pasir Gudang,Johor,3
+BEN,LTA Ipoh,Perak,3
+ROU,Terminal Feri Puteri Harbour,Johor,3
+LAO,Pandaruan,Sarawak,3
+TZA,Woodlands Train Checkpoint,Singapore,3
+PER,LTA Ipoh,Perak,3
+BLZ,Sungai Tujuh,Sarawak,3
+BOL,Bukit Kayu Hitam,Kedah,3
+EST,Terminal Feri Puteri Harbour,Johor,3
+LTU,Pejabat Imigresen Desaru Coast,Johor,3
+ZWE,LTA Sultan Ismail,Kelantan,3
+AFG,LTA Langkawi,Kedah,3
+ZWE,Woodlands Train Checkpoint,Singapore,3
+MDV,Telaga Harbour Park,Kedah,3
+MDV,LT Miri,Sarawak,3
+MDG,Jeti Kuah Langkawi,Kedah,3
+GRC,Terminal Feri Puteri Harbour,Johor,3
+AND,Bangunan Sultan Iskandar,Johor,3
+TCD,Padang Besar,Perlis,3
+VNM,Terminal Feri Minyak Beku,Johor,3
+ALB,Sungai Tujuh,Sarawak,3
+SYR,Stulang Laut,Johor,3
+ZWE,Dermaga Kota Kinabalu,Sabah,2
+SYR,Pelabuhan Klang Barat - SCT,Selangor,2
+AND,Padang Besar,Perlis,2
+LAO,Jeti Kukup,Johor,2
+LBN,Jeti Kuah Langkawi,Kedah,2
+LBN,LT Miri,Sarawak,2
+JPN,Lubok Antu,Sarawak,2
+JPN,Merapok,Sabah,2
+PLW,LTA Bayan Lepas,Pulau_Pinang,2
+PLW,LTA Subang Terminal 3,Selangor,2
+PNG,Bukit Kayu Hitam,Kedah,2
+AFG,LTA Kuching,Sarawak,2
+AIA,LTA Kuala Lumpur Terminal 1,Selangor,2
+TCD,LTA Subang Terminal 3,Selangor,2
+SWE,Pelabuhan Klang Utara,Selangor,2
+GMB,LTA Sultan Ismail Senai,Johor,2
+GMB,Rantau Panjang,Kelantan,2
+GMB,Sungai Tujuh,Sarawak,2
+LSO,Gelang Patah,Johor,2
+CZE,Roro Labuan,Labuan,2
+LKA,Pelabuhan Melaka,Melaka,2
+IRN,Pandaruan,Sarawak,2
+BEN,LTA Bayan Lepas,Pulau_Pinang,2
+NOR,Roro Labuan,Labuan,2
+NOR,Tebedu,Sarawak,2
+TZA,Wang Kelian,Perlis,2
+PER,Jeti Tioman,Pahang,2
+PER,LT Sandakan,Sabah,2
+CUB,Telaga Harbour Park,Kedah,2
+CYP,Bukit Kayu Hitam,Kedah,2
+LTU,Pelabuhan Klang Barat - KMT,Selangor,2
+MUS,LT Sibu,Sarawak,2
+MDV,Jeti Kuah Langkawi,Kedah,2
+MDV,LT Sibu,Sarawak,2
+ECU,Pejabat Imigresen Desaru Coast,Johor,2
+TLS,Terminal Feri Puteri Harbour,Johor,2
+TON,Gelang Patah,Johor,2
+PER,Pelabuhan Klang Barat - SCT,Selangor,2
+PER,Stulang Laut,Johor,2
+URY,LTA Ipoh,Perak,2
+IRQ,Pelabuhan Klang Barat - KMT,Selangor,2
+IRN,LT Sandakan,Sabah,2
+LTU,Tanjung Pengelih,Johor,2
+TUR,Pasir Gudang,Johor,2
+CHL,Pelabuhan Melaka,Melaka,2
+CRI,Tedungan,Sarawak,2
+CRI,Telaga Harbour Park,Kedah,2
+NPL,LTA Kuantan,Pahang,2
+LTU,Tanjung Lembung,Kedah,2
+MUS,Rantau Panjang,Kelantan,2
+LUX,LT Miri,Sarawak,2
+LUX,LTA Ipoh,Perak,2
+LTU,Pengkalan Kubur,Kelantan,2
+CHL,Pengkalan Kubur,Kelantan,2
+MNG,Pengkalan Hulu (Bukit Berapit),Perak,2
+MNG,Pengkalan Kubur,Kelantan,2
+IRL,LTA Kuala Terengganu,Terengganu,2
+VEN,Dermaga Labuan,Labuan,2
+FIN,Dermaga Sandakan,Sabah,2
+IRL,Lumut,Perak,2
+TJK,LTA Subang Terminal 3,Selangor,2
+ZAF,Jeti Pasir Gudang,Johor,2
+ETH,Pelabuhan Klang Barat - SCT,Selangor,2
+RUS,ICQ Durian Burung,Kedah,2
+KEN,LTA Ipoh,Perak,2
+ECU,Padang Besar,Perlis,2
+ROU,Jeti Port Dickson,Negeri_Sembilan,2
+CHE,Roro Labuan,Labuan,2
+CZE,Pelabuhan Melaka,Melaka,2
+LKA,LTA Sultan Ismail,Kelantan,2
+ROU,Jeti Tioman,Pahang,2
+ROU,LTA Kuantan,Pahang,2
+QAT,Pejabat Imigresen Desaru Coast,Johor,2
+EST,Pelabuhan Klang Barat - SCT,Selangor,2
+BLR,Tanjung Belungkor,Johor,2
+ECU,LTA Ipoh,Perak,2
+BOL,LTA Kuching,Sarawak,2
+BOL,LTA Langkawi,Kedah,2
+PAN,LTA Kuching,Sarawak,2
+PAN,Padang Besar,Perlis,2
+PAN,Woodlands Train Checkpoint,Singapore,2
+NPL,Tanjung Belungkor,Johor,2
+FIN,Tanjung Lembung,Kedah,2
+FIN,LTA Sultan Ismail,Kelantan,2
+SAU,Pos Imigresen Bukit Bunga,Kelantan,2
+SAU,Tebedu,Sarawak,2
+SAU,Jeti Pasir Gudang,Johor,2
+SAU,LT Batu Berendam,Melaka,2
+FIN,Pelabuhan Tanjung Pelepas,Johor,2
+VCT,Bangunan Sultan Iskandar,Johor,2
+VCT,LTA Langkawi,Kedah,2
+URY,Rantau Panjang,Kelantan,2
+MOZ,LT Miri,Sarawak,2
+SAU,LTA Sultan Ismail,Kelantan,2
+BEL,Lumut,Perak,2
+IRL,Pejabat Imigresen Port Swettenham,Selangor,2
+FIN,Pelabuhan Kuching,Sarawak,2
+FIN,Pelabuhan Melaka,Melaka,2
+DZA,Tedungan,Sarawak,2
+SEN,LTA Kota Kinabalu,Sabah,2
+SDN,Dermaga Labuan,Labuan,2
+KAZ,Tanjung Lembung,Kedah,2
+BLZ,LTA Bayan Lepas,Pulau_Pinang,2
+TLS,Tanjung Pengelih,Johor,2
+UKR,LTA Sultan Ismail,Kelantan,2
+KEN,LT Miri,Sarawak,2
+EST,Tedungan,Sarawak,2
+ISL,Lumut,Perak,2
+ISL,Padang Besar,Perlis,2
+UKR,Tanjung Pengelih,Johor,2
+ROU,Dermaga Labuan,Labuan,2
+BEL,Jeti Kuala Perlis,Perlis,2
+BEL,Jeti Pasir Gudang,Johor,2
+IRL,LT Bintulu,Sarawak,2
+MNE,Pasir Gudang,Johor,2
+CHN,Dermaga Sandakan,Sabah,2
+FJI,LTA Sultan Ismail Senai,Johor,2
+ROU,Dermaga Sandakan,Sabah,2
+ROU,Dermaga Tawau,Sabah,2
+TKL,LTA Kuala Lumpur Terminal 2,Selangor,2
+NAM,Pelabuhan Klang Barat - SCT,Selangor,2
+NER,Bangunan Sultan Iskandar,Johor,2
+TUR,Biawak,Sarawak,2
+CHL,LT Bintulu,Sarawak,2
+CHE,Pelabuhan Tanjung Pelepas,Johor,2
+TWN,Pengkalan Kubur,Kelantan,2
+XXX,LTA Kuantan,Pahang,2
+BTN,Woodlands Train Checkpoint,Singapore,2
+KHM,Biawak,Sarawak,2
+KEN,Rantau Panjang,Kelantan,2
+BGD,Tanjung Belungkor,Johor,2
+TKM,LTA Langkawi,Kedah,2
+NGA,Padang Besar,Perlis,2
+NAM,LTA Langkawi,Kedah,2
+NAM,Padang Besar,Perlis,2
+LIE,Telaga Harbour Park,Kedah,2
+LKA,Dermaga Tawau,Sabah,2
+DEU,LT Sibu,Sarawak,2
+AZE,Rantau Panjang,Kelantan,2
+BDI,LTA Bayan Lepas,Pulau_Pinang,2
+IRL,Dermaga Kota Kinabalu,Sabah,2
+LVA,LT Sandakan,Sabah,2
+CYP,Jeti Kuah Langkawi,Kedah,2
+CYP,LT Miri,Sarawak,2
+CYP,LT Sibu,Sarawak,2
+CYP,LTA Ipoh,Perak,2
+KHM,Pos Imigresen Bukit Bunga,Kelantan,2
+DNK,LT Bintulu,Sarawak,2
+FRA,LT Sibu,Sarawak,2
+ZAF,LTA Sultan Ismail,Kelantan,2
+IND,Dermaga Sandakan,Sabah,2
+FJI,LT Miri,Sarawak,2
+CHN,LT Limbang,Sarawak,2
+CHL,Tanjung Pengelih,Johor,2
+LVA,LTA Sultan Ismail Senai,Johor,2
+LVA,Pelabuhan Kuantan,Pahang,2
+LUX,Pelabuhan Klang Barat - KMT,Selangor,2
+LUX,Rantau Panjang,Kelantan,2
+LUX,Tanjung Pengelih,Johor,2
+SEN,LTA Kuching,Sarawak,2
+AZE,Pelabuhan Melaka,Melaka,2
+EST,Pejabat Imigresen Desaru Coast,Johor,2
+PAK,Pelabuhan Klang Selatan - Jeti,Selangor,2
+EST,Dermaga Kota Kinabalu,Sabah,2
+LCA,LTA Subang Terminal 3,Selangor,2
+LCA,LTA Sultan Ismail Senai,Johor,2
+LIE,Bukit Kayu Hitam,Kedah,2
+LIE,LTA Kota Kinabalu,Sabah,2
+LIE,LTA Kuching,Sarawak,2
+LIE,LTA Subang Terminal 3,Selangor,2
+NIC,LTA Kota Kinabalu,Sabah,2
+NIC,LTA Subang Terminal 3,Selangor,2
+XXX,Stulang Laut,Johor,2
+BOL,Pelabuhan Melaka,Melaka,2
+BOL,Telaga Harbour Park,Kedah,2
+BRA,ICQ Durian Burung,Kedah,2
+PAK,Pos Imigresen Bukit Bunga,Kelantan,2
+TTO,LTA Kuantan,Pahang,2
+MMR,Jeti Port Dickson,Negeri_Sembilan,2
+MMR,Jeti Tioman,Pahang,2
+CHN,ICQS Kudat,Sabah,2
+MAC,LTA Kuantan,Pahang,2
+IDN,Linggi,Melaka,2
+IDN,Lumut,Perak,2
+AUT,ICQ Durian Burung,Kedah,2
+FRA,Pelabuhan Kemaman,Terengganu,2
+IDN,Pelabuhan Kuching,Sarawak,2
+SGP,LTA Kuala Terengganu,Terengganu,2
+AUT,LTA Kuala Terengganu,Terengganu,2
+AUT,Lumut,Perak,2
+SGP,Jeti Kuala Perlis,Perlis,2
+ZAF,LTA Kuala Terengganu,Terengganu,2
+IND,LT Batu Berendam,Melaka,2
+PAN,LTA Ipoh,Perak,2
+BTN,LT Bintulu,Sarawak,2
+KHM,Jeti Port Dickson,Negeri_Sembilan,2
+KGZ,LTA Kuching,Sarawak,2
+XXX,Pelabuhan Tanjung Pelepas,Johor,2
+DNK,Pasir Gudang,Johor,2
+DNK,Dermaga Tawau,Sabah,2
+CHN,Pelabuhan Kuching,Sarawak,2
+MAC,Pelabuhan Klang Utara,Selangor,2
+MAR,Dermaga Tawau,Sabah,2
+MAR,LTA Ipoh,Perak,2
+AUS,Jeti Kukup,Johor,2
+SGP,Pelabuhan Klang Selatan - Jeti,Selangor,2
+VAT,Bangunan Sultan Iskandar,Johor,2
+VAT,Gelang Patah,Johor,2
+GBR,Jeti Kukup,Johor,2
+MMR,Jeti Kukup,Johor,2
+TUR,Pelabuhan Kuantan,Pahang,2
+VNM,Kerteh,Terengganu,2
+BGR,LT Miri,Sarawak,2
+BGR,LT Sandakan,Sabah,2
+PRY,LTA Ipoh,Perak,2
+PRY,LTA Langkawi,Kedah,2
+PRY,Telaga Harbour Park,Kedah,2
+PRT,Pejabat Imigresen Port Swettenham,Selangor,2
+ITA,LT Sibu,Sarawak,2
+PRT,Pelabuhan Tanjung Pelepas,Johor,2
+PRT,Tanjung Belungkor,Johor,2
+TKM,Stulang Laut,Johor,2
+JAM,LTA Kuching,Sarawak,2
+LBY,Stulang Laut,Johor,2
+LBR,LTA Langkawi,Kedah,2
+NPL,Pandaruan,Sarawak,2
+CUB,LTA Kuching,Sarawak,2
+TUR,Pos Imigresen Bukit Bunga,Kelantan,2
+TUR,Roro Labuan,Labuan,2
+MLT,LTA Sultan Ismail Senai,Johor,2
+MLT,Wang Kelian,Perlis,2
+MLI,LTA Sultan Ismail Senai,Johor,2
+MLT,Dermaga Labuan,Labuan,2
+SLV,Padang Besar,Perlis,2
+SMR,Bangunan Sultan Iskandar,Johor,2
+SMR,Gelang Patah,Johor,2
+SLE,Woodlands Train Checkpoint,Singapore,2
+SGP,Sebana Resort Desaru,Johor,2
+GBR,Lubok Antu,Sarawak,2
+UZB,Pos Imigresen Mengkalap,Sarawak,2
+UZB,Tedungan,Sarawak,2
+TUR,Pejabat Imigresen Port Swettenham,Selangor,2
+GBR,Pos Kawalan Imigresen Muar,Johor,2
+CHE,LT Batu Berendam,Melaka,2
+BIH,Woodlands Train Checkpoint,Singapore,2
+PHL,Pelabuhan Kemaman,Terengganu,2
+PHL,Pelabuhan Kuching,Sarawak,2
+BLR,Pelabuhan Klang Barat - KMT,Selangor,2
+KEN,Dermaga Tawau,Sabah,2
+KAZ,LT Tawau,Sabah,2
+KAZ,LTA Ipoh,Perak,2
+YEM,Jeti Kuah Langkawi,Kedah,2
+YEM,Jeti Tioman,Pahang,2
+TUN,Stulang Laut,Johor,2
+SLV,LTA Ipoh,Perak,2
+ATG,LTA Subang Terminal 3,Selangor,2
+SLV,LTA Subang Terminal 3,Selangor,2
+HUN,Stulang Laut,Johor,2
+MAR,Pelabuhan Klang Barat - KMT,Selangor,2
+ATA,LTA Kuala Lumpur Terminal 2,Selangor,2
+ATG,Bukit Kayu Hitam,Kedah,2
+SOM,LTA Kota Kinabalu,Sabah,2
+SOM,LTA Langkawi,Kedah,2
+THA,Lumut,Perak,2
+TUN,Dermaga Labuan,Labuan,2
+TUN,Dermaga Tawau,Sabah,2
+BRN,Pelabuhan Klang Utara,Selangor,2
+TUN,LTA Ipoh,Perak,2
+BRA,LT Sibu,Sarawak,2
+DZA,LTA Kuching,Sarawak,2
+DZA,Pandaruan,Sarawak,2
+GEO,Dermaga Sandakan,Sabah,2
+GEO,LTA Kuching,Sarawak,2
+GBR,Pos Imigresen Bukit Bunga,Kelantan,2
+ARM,LTA Kuching,Sarawak,2
+NLD,Dermaga Kota Kinabalu,Sabah,2
+NLD,LT Batu Berendam,Melaka,2
+ESP,Pasir Gudang,Johor,2
+ESP,Dermaga Kota Kinabalu,Sabah,2
+ITA,Roro Labuan,Labuan,2
+PRT,LTA Kuantan,Pahang,2
+BGR,Pasir Gudang,Johor,2
+DEU,Jeti Kukup,Johor,2
+TUN,LTA Kuching,Sarawak,2
+CHE,ICQ Durian Burung,Kedah,2
+CHE,ICQS Kudat,Sabah,2
+LBY,LTA Sultan Ismail Senai,Johor,2
+ARM,Rantau Panjang,Kelantan,2
+MKD,LTA Ipoh,Perak,2
+MAR,Pejabat Imigresen Desaru Coast,Johor,2
+LBY,Padang Besar,Perlis,2
+PRT,Biawak,Sarawak,2
+YEM,Pengkalan Kubur,Kelantan,2
+JAM,Bukit Kayu Hitam,Kedah,2
+BHR,Jeti Kuah Langkawi,Kedah,2
+POL,Pelabuhan Melaka,Melaka,2
+LBN,Pasir Gudang,Johor,2
+LBN,Pengkalan Hulu (Bukit Berapit),Perak,2
+SRB,Sungai Tujuh,Sarawak,2
+SSD,Gelang Patah,Johor,2
+SRB,LTA Ipoh,Perak,2
+HUN,Pelabuhan Klang Utara,Selangor,2
+HUN,Dermaga Labuan,Labuan,2
+GEO,Pasir Gudang,Johor,2
+SRB,Pelabuhan Klang Barat - KMT,Selangor,2
+SRB,Pelabuhan Klang Utara,Selangor,2
+HRV,Pejabat Imigresen Desaru Coast,Johor,2
+HRV,Pelabuhan Klang Utara,Selangor,2
+HRV,Tedungan,Sarawak,2
+MAR,Pelabuhan Melaka,Melaka,2
+NZL,LT Bintulu,Sarawak,2
+KOR,Lubok Antu,Sarawak,2
+KOR,Lumut,Perak,2
+DNK,Pos Imigresen Bukit Bunga,Kelantan,2
+KIR,Gelang Patah,Johor,2
+OMN,Pengkalan Hulu (Bukit Berapit),Perak,2
+MKD,Tedungan,Sarawak,2
+COL,LT Tawau,Sabah,2
+CRI,Jeti Kuah Langkawi,Kedah,2
+GHA,Pos Imigresen Mengkalap,Sarawak,2
+GHA,Rantau Panjang,Kelantan,2
+ARM,LTA Ipoh,Perak,2
+SVK,LT Bintulu,Sarawak,2
+SUR,LTA Ipoh,Perak,2
+DMA,Pandaruan,Sarawak,2
+DMA,Tedungan,Sarawak,2
+UGA,LTA Ipoh,Perak,2
+NOR,Pelabuhan Tanjung Pelepas,Johor,2
+EGY,Pelabuhan Kuantan,Pahang,2
+BIH,Tedungan,Sarawak,2
+BIH,Wang Kelian,Perlis,2
+CAN,Tanjung Lembung,Kedah,2
+NLD,LTA Kuala Terengganu,Terengganu,2
+LBY,LTA Kuching,Sarawak,2
+SUR,LTA Kota Kinabalu,Sabah,2
+SUR,LTA Langkawi,Kedah,2
+GIN,LTA Bayan Lepas,Pulau_Pinang,2
+GIN,LTA Kota Kinabalu,Sabah,2
+ARG,LT Sandakan,Sabah,2
+ARE,Jeti Kuah Langkawi,Kedah,2
+SVN,Pelabuhan Tanjung Pelepas,Johor,2
+SVN,LT Miri,Sarawak,2
+HRV,Pos Imigresen Mengkalap,Sarawak,2
+MHL,LTA Ipoh,Perak,2
+MHL,LTA Sultan Ismail Senai,Johor,2
+CRI,Bukit Kayu Hitam,Kedah,2
+MDA,LTA Subang Terminal 3,Selangor,2
+HRV,Dermaga Tawau,Sabah,2
+SVK,Pejabat Imigresen Desaru Coast,Johor,2
+SVK,Pelabuhan Klang Barat - SCT,Selangor,2
+ARG,Pelabuhan Klang Barat - SCT,Selangor,2
+ARE,Pelabuhan Klang Barat - KMT,Selangor,2
+ARE,Pengkalan Kubur,Kelantan,2
+SVK,Dermaga Tawau,Sabah,2
+HND,Pelabuhan Klang Barat - SCT,Selangor,2
+HND,Pelabuhan Tanjung Pelepas,Johor,2
+HRV,Dermaga Kota Kinabalu,Sabah,2
+JPN,Jeti Port Dickson,Negeri_Sembilan,2
+ESP,LT Sibu,Sarawak,2
+POL,Tanjung Belungkor,Johor,2
+POL,Tebedu,Sarawak,2
+POL,Pejabat Imigresen Port Swettenham,Selangor,2
+POL,LT Sibu,Sarawak,2
+DEU,Pelabuhan Klang Selatan - Jeti,Selangor,2
+LAO,Pejabat Imigresen Desaru Coast,Johor,2
+LAO,Pelabuhan Klang Utara,Selangor,2
+NLD,Lumut,Perak,2
+SVN,Pandaruan,Sarawak,2
+SVN,Pejabat Imigresen Desaru Coast,Johor,2
+ARG,Dermaga Tawau,Sabah,2
+BHS,LTA Kota Kinabalu,Sabah,2
+VEN,Pelabuhan Tanjung Pelepas,Johor,2
+ERI,LTA Bayan Lepas,Pulau_Pinang,2
+YEM,Pelabuhan Klang Selatan - Jeti,Selangor,2
+PNG,LTA Subang Terminal 3,Selangor,2
+PNG,Lubok Antu,Sarawak,2
+PNG,Pelabuhan Klang Utara,Selangor,2
+PNG,Woodlands Train Checkpoint,Singapore,2
+MDA,Padang Besar,Perlis,2
+MDA,Pelabuhan Klang Utara,Selangor,2
+MDA,Rantau Panjang,Kelantan,2
+MEX,Tebedu,Sarawak,2
+MDG,LTA Ipoh,Perak,2
+MDA,Jeti Port Dickson,Negeri_Sembilan,2
+GIN,Sungai Tujuh,Sarawak,2
+HND,LTA Ipoh,Perak,2
+EGY,Pelabuhan Kemaman,Terengganu,2
+EGY,Pelabuhan Klang Barat - KMT,Selangor,2
+NOR,LT Tawau,Sabah,2
+XXX,LT Sandakan,Sabah,2
+XXX,LT Sibu,Sarawak,2
+GIN,LTA Kuching,Sarawak,2
+NZL,ICQ Durian Burung,Kedah,2
+KOR,Jeti Tioman,Pahang,2
+DOM,LTA Kuching,Sarawak,2
+DOM,Padang Besar,Perlis,2
+DOM,Pejabat Imigresen Port Swettenham,Selangor,2
+BRB,Pelabuhan Klang Barat - SCT,Selangor,2
+NZL,Pelabuhan Klang Selatan - Jeti,Selangor,2
+UGA,Stulang Laut,Johor,2
+TZA,Pelabuhan Klang Barat - SCT,Selangor,2
+TZA,Pengkalan Hulu (Bukit Berapit),Perak,2
+GMB,Woodlands Train Checkpoint,Singapore,2
+CRI,Pelabuhan Tanjung Pelepas,Johor,2
+VUT,Bukit Kayu Hitam,Kedah,2
+VUT,Jeti Kuah Langkawi,Kedah,2
+GNB,LTA Kuala Lumpur Terminal 2,Selangor,2
+GNB,LTA Subang Terminal 3,Selangor,2
+UZB,Jeti Pasir Gudang,Johor,2
+SWE,Lubok Antu,Sarawak,2
+SVN,Tanjung Pengelih,Johor,2
+ARE,LTA Kuching,Sarawak,2
+SWE,Jeti Port Dickson,Negeri_Sembilan,2
+SVN,LTA Ipoh,Perak,2
+BIH,LTA Kuching,Sarawak,2
+BIH,Pos Imigresen Mengkalap,Sarawak,2
+EGY,LTA Ipoh,Perak,2
+ERI,LTA Kota Kinabalu,Sabah,2
+SYR,Jeti Kuah Langkawi,Kedah,2
+ALB,LTA Ipoh,Perak,2
+AGO,Bukit Kayu Hitam,Kedah,2
+ALB,Jeti Kuah Langkawi,Kedah,2
+AFG,LTA Bayan Lepas,Pulau_Pinang,2
+GTM,LTA Langkawi,Kedah,2
+DZA,Tanjung Pengelih,Johor,2
+DZA,LTA Ipoh,Perak,2
+NZL,Pelabuhan Kuching,Sarawak,2
+NZL,Roro Labuan,Labuan,2
+KNA,Telaga Harbour Park,Kedah,2
+KOR,ICQS Kudat,Sabah,2
+KIR,LTA Kuala Lumpur Terminal 2,Selangor,2
+GUY,LTA Bayan Lepas,Pulau_Pinang,2
+GRC,Dermaga Kota Kinabalu,Sabah,2
+AND,Bukit Kayu Hitam,Kedah,2
+MDA,Telaga Harbour Park,Kedah,2
+SWE,Tanjung Belungkor,Johor,2
+SWE,Tanjung Pengelih,Johor,2
+SWE,Tebedu,Sarawak,2
+ZAR,LTA Kuala Lumpur Terminal 1,Selangor,2
+GTM,LTA Kota Kinabalu,Sabah,2
+TGO,LTA Bayan Lepas,Pulau_Pinang,2
+SYC,LT Sibu,Sarawak,2
+SWE,Roro Labuan,Labuan,2
+GRD,Sungai Tujuh,Sarawak,2
+GTM,LTA Ipoh,Perak,2
+GRC,Pengkalan Kubur,Kelantan,2
+COL,Telaga Harbour Park,Kedah,2
+ZMB,LT Miri,Sarawak,2
+ZMB,LTA Ipoh,Perak,2
+SYC,LTA Subang Terminal 3,Selangor,2
+ABW,Bukit Kayu Hitam,Kedah,1
+AFG,Pos Imigresen Mengkalap,Sarawak,1
+AGO,Bangunan Sultan Iskandar,Johor,1
+AGO,LTA Kota Kinabalu,Sabah,1
+AGO,LTA Langkawi,Kedah,1
+AGO,Pejabat Imigresen Desaru Coast,Johor,1
+AGO,Pelabuhan Tanjung Pelepas,Johor,1
+ZWE,LT Miri,Sarawak,1
+ZWE,LTA Ipoh,Perak,1
+ZWE,LTA Sultan Ismail Senai,Johor,1
+AND,LTA Subang Terminal 3,Selangor,1
+AND,LTA Langkawi,Kedah,1
+ALB,Wang Kelian,Perlis,1
+ALB,Tanjung Pengelih,Johor,1
+ZMB,Bukit Kayu Hitam,Kedah,1
+ZAR,LTA Subang Terminal 3,Selangor,1
+ZAR,LTA Kuala Lumpur Terminal 2,Selangor,1
+ZAF,Tebedu,Sarawak,1
+ARE,LTA Sultan Ismail,Kelantan,1
+ARE,LTA Ipoh,Perak,1
+ARG,LT Miri,Sarawak,1
+ARG,Pos Imigresen Mengkalap,Sarawak,1
+ARG,Pelabuhan Klang Selatan - Jeti,Selangor,1
+ARG,Lumut,Perak,1
+ATG,LTA Kuching,Sarawak,1
+ATA,LTA Kuala Lumpur Terminal 1,Selangor,1
+SVK,LTA Kuantan,Pahang,1
+SVN,Stulang Laut,Johor,1
+SVN,Pos Imigresen Mengkalap,Sarawak,1
+SVN,Pengkalan Kubur,Kelantan,1
+THA,ICQS Kudat,Sabah,1
+SWE,Dermaga Tawau,Sabah,1
+SWE,Dermaga Sandakan,Sabah,1
+SWE,Pos Imigresen Bukit Bunga,Kelantan,1
+SWE,Pelabuhan Kuantan,Pahang,1
+SWE,Lumut,Perak,1
+SWZ,LTA Kota Kinabalu,Sabah,1
+SWZ,LTA Bayan Lepas,Pulau_Pinang,1
+SYC,LTA Kota Kinabalu,Sabah,1
+SYC,LT Tawau,Sabah,1
+SYC,LT Miri,Sarawak,1
+SYC,LT Bintulu,Sarawak,1
+SSD,LTA Langkawi,Kedah,1
+SRB,Woodlands Train Checkpoint,Singapore,1
+SRB,Telaga Harbour Park,Kedah,1
+SRB,Tebedu,Sarawak,1
+SRB,Tanjung Lembung,Kedah,1
+SRB,Stulang Laut,Johor,1
+SRB,Rantau Panjang,Kelantan,1
+SRB,Pengkalan Kubur,Kelantan,1
+THA,LT Batu Berendam,Melaka,1
+SUR,Pos Imigresen Bukit Bunga,Kelantan,1
+SUR,LTA Kuching,Sarawak,1
+SVK,LT Sibu,Sarawak,1
+SVK,Jeti Port Dickson,Negeri_Sembilan,1
+SVK,Pengkalan Hulu (Bukit Berapit),Perak,1
+SVK,Lumut,Perak,1
+SVK,LTA Sultan Ismail,Kelantan,1
+SLB,Tebedu,Sarawak,1
+SLB,Roro Labuan,Labuan,1
+SLB,Padang Besar,Perlis,1
+SLV,Telaga Harbour Park,Kedah,1
+SLV,Pejabat Imigresen Desaru Coast,Johor,1
+SLV,LTA Sultan Ismail Senai,Johor,1
+SLV,Dermaga Labuan,Labuan,1
+SRB,Jeti Tioman,Pahang,1
+SOM,Wang Kelian,Perlis,1
+SOM,Rantau Panjang,Kelantan,1
+SOM,Padang Besar,Perlis,1
+SOM,LTA Kuching,Sarawak,1
+SRB,Pelabuhan Klang Barat - SCT,Selangor,1
+SRB,Pejabat Imigresen Port Swettenham,Selangor,1
+SRB,LT Sandakan,Sabah,1
+SSD,Roro Labuan,Labuan,1
+SEN,Pelabuhan Klang Barat - SCT,Selangor,1
+SEN,Padang Besar,Perlis,1
+SEN,LTA Subang Terminal 3,Selangor,1
+SGP,Merapok,Sabah,1
+SGP,Linggi,Melaka,1
+THA,Tanjung Lembung,Kedah,1
+THA,Sindumin,Sabah,1
+SGP,Pelabuhan Kuching,Sarawak,1
+SHN,LT Sibu,Sarawak,1
+SGS,LTA Kota Kinabalu,Sabah,1
+SGS,Bangunan Sultan Iskandar,Johor,1
+SLV,Bukit Kayu Hitam,Kedah,1
+SLE,LTA Langkawi,Kedah,1
+SLE,LTA Kota Kinabalu,Sabah,1
+SLE,LTA Ipoh,Perak,1
+SLB,Woodlands Train Checkpoint,Singapore,1
+RUS,Jeti Kukup,Johor,1
+RUS,ICQS Kudat,Sabah,1
+RUS,Lumut,Perak,1
+RWA,Pejabat Imigresen Desaru Coast,Johor,1
+RWA,LTA Sultan Ismail Senai,Johor,1
+RWA,LTA Langkawi,Kedah,1
+SAU,LT Miri,Sarawak,1
+SAU,Pos Kawalan Imigresen Muar,Johor,1
+SDN,LT Bintulu,Sarawak,1
+SDN,Jeti Kuah Langkawi,Kedah,1
+SEN,LTA Ipoh,Perak,1
+SDN,Woodlands Train Checkpoint,Singapore,1
+SDN,Wang Kelian,Perlis,1
+SDN,Rantau Panjang,Kelantan,1
+SEN,Tedungan,Sarawak,1
+SEN,Rantau Panjang,Kelantan,1
+QAT,LTA Kota Kinabalu,Sabah,1
+QAT,Bukit Kayu Hitam,Kedah,1
+PSE,Woodlands Train Checkpoint,Singapore,1
+PSE,Pos Kawalan Imigresen Muar,Johor,1
+TKM,Pos Imigresen Mengkalap,Sarawak,1
+TKM,Padang Besar,Perlis,1
+TKM,LTA Sultan Ismail Senai,Johor,1
+TKM,LTA Subang Terminal 3,Selangor,1
+TKM,LT Tawau,Sabah,1
+REU,LT Sibu,Sarawak,1
+REU,Bangunan Sultan Iskandar,Johor,1
+QAT,Tanjung Pengelih,Johor,1
+QAT,Pos Imigresen Mengkalap,Sarawak,1
+RUS,Dermaga Sandakan,Sabah,1
+ROU,Tebedu,Sarawak,1
+RUS,LT Labuan,Labuan,1
+POL,Pelabuhan Klang Selatan - Jeti,Selangor,1
+PRT,LT Bintulu,Sarawak,1
+PRT,ICQ Durian Burung,Kedah,1
+PRT,LTA Sultan Ismail,Kelantan,1
+TLS,LT Miri,Sarawak,1
+TLS,Biawak,Sarawak,1
+TKM,Woodlands Train Checkpoint,Singapore,1
+TKM,Rantau Panjang,Kelantan,1
+PRT,Roro Labuan,Labuan,1
+PRT,Pelabuhan Melaka,Melaka,1
+PRT,Pelabuhan Klang Utara,Selangor,1
+PRT,Pasir Gudang,Johor,1
+PRY,Wang Kelian,Perlis,1
+PRY,LT Sibu,Sarawak,1
+PSE,LT Tawau,Sabah,1
+PSE,Jeti Pasir Gudang,Johor,1
+PER,Pandaruan,Sarawak,1
+PER,LT Bintulu,Sarawak,1
+PER,Jeti Pasir Gudang,Johor,1
+PHL,Dermaga Kastam Limbang,Sarawak,1
+PER,Tebedu,Sarawak,1
+PER,Pejabat Imigresen Desaru Coast,Johor,1
+TLS,Pos Imigresen Mengkalap,Sarawak,1
+TLS,Padang Besar,Perlis,1
+TLS,LTA Sultan Ismail Senai,Johor,1
+PHL,LT Limbang,Sarawak,1
+PNG,Rantau Panjang,Kelantan,1
+PNG,Pejabat Imigresen Desaru Coast,Johor,1
+PNG,LTA Sultan Ismail Senai,Johor,1
+POL,Jeti Port Dickson,Negeri_Sembilan,1
+POL,Jeti Pasir Gudang,Johor,1
+POL,LTA Kuala Terengganu,Terengganu,1
+OMN,Pandaruan,Sarawak,1
+PAK,Jeti Kukup,Johor,1
+PAK,Merapok,Sabah,1
+PAK,LTA Sultan Ismail,Kelantan,1
+TTO,Pasir Gudang,Johor,1
+TTO,LTA Sultan Ismail Senai,Johor,1
+TTO,LTA Kuching,Sarawak,1
+TON,LTA Kuching,Sarawak,1
+PAK,Pelabuhan Kuantan,Pahang,1
+PAN,LT Tawau,Sabah,1
+PAN,Bukit Kayu Hitam,Kedah,1
+PAK,Tanjung Belungkor,Johor,1
+PER,Dermaga Labuan,Labuan,1
+PAN,Telaga Harbour Park,Kedah,1
+PAN,Pandaruan,Sarawak,1
+PER,Pasir Gudang,Johor,1
+NOR,Pandaruan,Sarawak,1
+NOR,Pos Kawalan Imigresen Muar,Johor,1
+NPL,Jeti Kukup,Johor,1
+NPL,Pejabat Imigresen Desaru Coast,Johor,1
+TUN,Jeti Pasir Gudang,Johor,1
+TUN,Dermaga Sandakan,Sabah,1
+TTO,Tedungan,Sarawak,1
+TTO,Pejabat Imigresen Desaru Coast,Johor,1
+NZL,Dermaga Tawau,Sabah,1
+NRU,LTA Bayan Lepas,Pulau_Pinang,1
+NPL,Telaga Harbour Park,Kedah,1
+NZL,LT Limbang,Sarawak,1
+NZL,LT Labuan,Labuan,1
+NZL,Pejabat Imigresen Port Swettenham,Selangor,1
+OMN,Telaga Harbour Park,Kedah,1
+OMN,Pelabuhan Melaka,Melaka,1
+NIC,LTA Sultan Ismail Senai,Johor,1
+NGA,Wang Kelian,Perlis,1
+NLD,Jeti Kuala Perlis,Perlis,1
+NLD,ICQS Kudat,Sabah,1
+NLD,ICQ Durian Burung,Kedah,1
+TUN,Terminal Feri Puteri Harbour,Johor,1
+TUN,Pelabuhan Klang Utara,Selangor,1
+NLD,LT Sibu,Sarawak,1
+NLD,Pelabuhan Kuantan,Pahang,1
+NOR,Dermaga Bintulu,Sarawak,1
+NOR,Biawak,Sarawak,1
+NOR,Dermaga Tawau,Sabah,1
+NOR,Dermaga Sandakan,Sabah,1
+NOR,Pelabuhan Melaka,Melaka,1
+NOR,Pelabuhan Klang Utara,Selangor,1
+NOR,Pejabat Imigresen Port Swettenham,Selangor,1
+MYT,LTA Kuala Lumpur Terminal 2,Selangor,1
+MYT,LTA Kuala Lumpur Terminal 1,Selangor,1
+MWI,LTA Kota Kinabalu,Sabah,1
+MWI,LT Miri,Sarawak,1
+TUR,ICQ Durian Burung,Kedah,1
+TUR,Dermaga Kota Kinabalu,Sabah,1
+NGA,Biawak,Sarawak,1
+NER,LTA Kota Kinabalu,Sabah,1
+NER,Gelang Patah,Johor,1
+NCL,LTA Kuala Lumpur Terminal 1,Selangor,1
+NAM,Wang Kelian,Perlis,1
+NAM,Telaga Harbour Park,Kedah,1
+NAM,LTA Sultan Ismail Senai,Johor,1
+NGA,LT Bintulu,Sarawak,1
+NIC,Telaga Harbour Park,Kedah,1
+NIC,Pejabat Imigresen Desaru Coast,Johor,1
+MRT,LTA Kota Kinabalu,Sabah,1
+MRT,LTA Bayan Lepas,Pulau_Pinang,1
+MRT,LT Miri,Sarawak,1
+MOZ,LTA Kuching,Sarawak,1
+MOZ,LTA Kota Kinabalu,Sabah,1
+MOZ,LTA Ipoh,Perak,1
+TUR,Merapok,Sabah,1
+TUR,Lubok Antu,Sarawak,1
+TUR,LTA Sultan Ismail,Kelantan,1
+MUS,LTA Kuantan,Pahang,1
+MUS,LT Tawau,Sabah,1
+MUS,Jeti Kuah Langkawi,Kedah,1
+MRT,Woodlands Train Checkpoint,Singapore,1
+MUS,Pos Imigresen Mengkalap,Sarawak,1
+NAM,LTA Kota Kinabalu,Sabah,1
+NAM,Bukit Kayu Hitam,Kedah,1
+MLT,Dermaga Tawau,Sabah,1
+MMR,Dermaga Sandakan,Sabah,1
+MMR,Dermaga Bintulu,Sarawak,1
+MLT,Pelabuhan Klang Barat - SCT,Selangor,1
+MLT,Pandaruan,Sarawak,1
+MLT,LTA Sultan Ismail,Kelantan,1
+MMR,Pelabuhan Kemaman,Terengganu,1
+MMR,Terminal Feri Minyak Beku,Johor,1
+MMR,Pos Imigresen Bukit Bunga,Kelantan,1
+MNE,LTA Langkawi,Kedah,1
+MNE,LTA Bayan Lepas,Pulau_Pinang,1
+MNG,Pandaruan,Sarawak,1
+MNG,LT Tawau,Sabah,1
+MOZ,Bangunan Sultan Iskandar,Johor,1
+MNG,Tedungan,Sarawak,1
+MNG,Pos Imigresen Mengkalap,Sarawak,1
+MDG,Stulang Laut,Johor,1
+MDG,Pelabuhan Tanjung Pelepas,Johor,1
+MDG,Pejabat Imigresen Desaru Coast,Johor,1
+MDV,Pengkalan Hulu (Bukit Berapit),Perak,1
+MDV,Pelabuhan Tanjung Pelepas,Johor,1
+MDV,Pejabat Imigresen Desaru Coast,Johor,1
+TUV,LTA Kuala Lumpur Terminal 2,Selangor,1
+MEX,Jeti Pasir Gudang,Johor,1
+MEX,Dermaga Tawau,Sabah,1
+MEX,Dermaga Sandakan,Sabah,1
+MEX,Roro Labuan,Labuan,1
+MEX,Pejabat Imigresen Port Swettenham,Selangor,1
+MHL,LTA Langkawi,Kedah,1
+MHL,LTA Kota Kinabalu,Sabah,1
+MLI,LTA Kota Kinabalu,Sabah,1
+MKD,Telaga Harbour Park,Kedah,1
+MAR,Pengkalan Hulu (Bukit Berapit),Perak,1
+MAR,Pejabat Imigresen Port Swettenham,Selangor,1
+MCO,Telaga Harbour Park,Kedah,1
+MCO,LTA Kota Kinabalu,Sabah,1
+MCO,Bangunan Sultan Iskandar,Johor,1
+MDA,Pos Imigresen Mengkalap,Sarawak,1
+MDA,Pelabuhan Tanjung Pelepas,Johor,1
+MDA,LT Miri,Sarawak,1
+MDG,LTA Kuching,Sarawak,1
+MDG,ICQS Kudat,Sabah,1
+MDA,Wang Kelian,Perlis,1
+MDA,Tebedu,Sarawak,1
+MDV,Jeti Pasir Gudang,Johor,1
+MDG,Woodlands Train Checkpoint,Singapore,1
+MDG,Wang Kelian,Perlis,1
+MDG,Tanjung Pengelih,Johor,1
+LSO,LTA Bayan Lepas,Pulau_Pinang,1
+LSO,Bukit Kayu Hitam,Kedah,1
+LTU,Pandaruan,Sarawak,1
+LTU,LTA Sultan Ismail,Kelantan,1
+TWN,Pelabuhan Kuantan,Pahang,1
+TWN,Pejabat Imigresen Port Swettenham,Selangor,1
+LTU,Terminal Feri Puteri Harbour,Johor,1
+LTU,Pengkalan Hulu (Bukit Berapit),Perak,1
+LTU,Pelabuhan Kuantan,Pahang,1
+LUX,LTA Sultan Ismail Senai,Johor,1
+LUX,ICQS Kudat,Sabah,1
+LUX,Sungai Tujuh,Sarawak,1
+MAC,LTA Kuala Lumpur Terminal 2,Selangor,1
+MAC,Dermaga Labuan,Labuan,1
+LVA,Pengkalan Hulu (Bukit Berapit),Perak,1
+MAR,Pengkalan Kubur,Kelantan,1
+LCA,Woodlands Train Checkpoint,Singapore,1
+LCA,Pelabuhan Klang Barat - SCT,Selangor,1
+LKA,LT Sandakan,Sabah,1
+LKA,LT Bintulu,Sarawak,1
+LKA,Jeti Kukup,Johor,1
+LIE,Wang Kelian,Perlis,1
+LIE,Tanjung Pengelih,Johor,1
+LIE,Padang Besar,Perlis,1
+LKA,LT Tawau,Sabah,1
+LKA,Wang Kelian,Perlis,1
+LKA,Roro Labuan,Labuan,1
+LKA,Pengkalan Hulu (Bukit Berapit),Perak,1
+LKA,Pelabuhan Klang Selatan - Jeti,Selangor,1
+LTU,LT Bintulu,Sarawak,1
+LTU,Jeti Tioman,Pahang,1
+LSO,LTA Kuching,Sarawak,1
+LAO,Terminal Feri Puteri Harbour,Johor,1
+LBR,LTA Kota Kinabalu,Sabah,1
+LBN,Roro Labuan,Labuan,1
+LBN,Rantau Panjang,Kelantan,1
+LBN,Pos Imigresen Mengkalap,Sarawak,1
+LBN,Pejabat Imigresen Desaru Coast,Johor,1
+LBN,Padang Besar,Perlis,1
+TZA,LTA Subang Terminal 3,Selangor,1
+TZA,LTA Kuching,Sarawak,1
+TZA,LTA Ipoh,Perak,1
+LBY,LT Tawau,Sabah,1
+LBR,Sungai Tujuh,Sarawak,1
+LBR,LTA Sultan Ismail Senai,Johor,1
+LBR,LTA Kuching,Sarawak,1
+LCA,Bukit Kayu Hitam,Kedah,1
+LIE,LTA Langkawi,Kedah,1
+KOR,Merapok,Sabah,1
+KWT,LTA Ipoh,Perak,1
+KWT,Dermaga Labuan,Labuan,1
+LAO,Biawak,Sarawak,1
+KWT,Wang Kelian,Perlis,1
+KWT,Telaga Harbour Park,Kedah,1
+KWT,Pengkalan Hulu (Bukit Berapit),Perak,1
+UGA,Pejabat Imigresen Desaru Coast,Johor,1
+UGA,LTA Kuching,Sarawak,1
+LAO,LT Batu Berendam,Melaka,1
+LAO,Jeti Pasir Gudang,Johor,1
+LAO,Tanjung Pengelih,Johor,1
+LAO,Roro Labuan,Labuan,1
+LAO,Pelabuhan Klang Barat - KMT,Selangor,1
+LBN,LTA Kuantan,Pahang,1
+LBN,Bukit Kayu Hitam,Kedah,1
+KHM,Jeti Pasir Gudang,Johor,1
+KHM,Dermaga Sandakan,Sabah,1
+KHM,LTA Kuantan,Pahang,1
+KIR,LTA Kota Kinabalu,Sabah,1
+KHM,Tanjung Belungkor,Johor,1
+KHM,Pos Kawalan Imigresen Muar,Johor,1
+UKR,Jeti Port Dickson,Negeri_Sembilan,1
+UKR,Dermaga Kota Kinabalu,Sabah,1
+KNA,Pejabat Imigresen Desaru Coast,Johor,1
+KNA,Padang Besar,Perlis,1
+KNA,Jeti Kuah Langkawi,Kedah,1
+KNA,Dermaga Labuan,Labuan,1
+KNA,Woodlands Train Checkpoint,Singapore,1
+KNA,Terminal Feri Puteri Harbour,Johor,1
+KOR,LT Sandakan,Sabah,1
+KOR,Kerteh,Terengganu,1
+KAZ,Pengkalan Hulu (Bukit Berapit),Perak,1
+KAZ,Pelabuhan Tanjung Pelepas,Johor,1
+KAZ,Pelabuhan Melaka,Melaka,1
+KEN,LT Bintulu,Sarawak,1
+KEN,Jeti Kuah Langkawi,Kedah,1
+UKR,LT Tawau,Sabah,1
+KGZ,LTA Ipoh,Perak,1
+KEN,Terminal Feri Puteri Harbour,Johor,1
+KEN,Tanjung Belungkor,Johor,1
+KEN,Pos Imigresen Mengkalap,Sarawak,1
+KGZ,Telaga Harbour Park,Kedah,1
+KGZ,Tanjung Pengelih,Johor,1
+KGZ,Sungai Tujuh,Sarawak,1
+KGZ,LTA Sultan Ismail Senai,Johor,1
+KHM,LT Sandakan,Sabah,1
+KHM,LT Bintulu,Sarawak,1
+JAM,Jeti Kuah Langkawi,Kedah,1
+JOR,LT Batu Berendam,Melaka,1
+JOR,Jeti Pasir Gudang,Johor,1
+JOR,Dermaga Labuan,Labuan,1
+JAM,Woodlands Train Checkpoint,Singapore,1
+JAM,Tanjung Pengelih,Johor,1
+UKR,Pelabuhan Melaka,Melaka,1
+UKR,Pejabat Imigresen Desaru Coast,Johor,1
+JOR,Pos Kawalan Imigresen Muar,Johor,1
+JOR,Pelabuhan Klang Barat - SCT,Selangor,1
+JPN,LT Batu Berendam,Melaka,1
+JPN,Pos Imigresen Bukit Bunga,Kelantan,1
+JPN,Pelabuhan Kuantan,Pahang,1
+JPN,Pelabuhan Klang Selatan - Jeti,Selangor,1
+JPN,Pejabat Imigresen Port Swettenham,Selangor,1
+KAZ,LT Sandakan,Sabah,1
+IRQ,Jeti Tioman,Pahang,1
+IRQ,Jeti Kuah Langkawi,Kedah,1
+IRQ,Dermaga Tawau,Sabah,1
+IRQ,Rantau Panjang,Kelantan,1
+URY,LT Sandakan,Sabah,1
+UKR,Tebedu,Sarawak,1
+UKR,Tanjung Lembung,Kedah,1
+ISL,LTA Langkawi,Kedah,1
+ISL,Jeti Pasir Gudang,Johor,1
+ISL,Rantau Panjang,Kelantan,1
+ITA,LT Labuan,Labuan,1
+ITA,Lubok Antu,Sarawak,1
+JAM,Pelabuhan Klang Barat - SCT,Selangor,1
+JAM,Pasir Gudang,Johor,1
+JAM,LTA Subang Terminal 3,Selangor,1
+JAM,LTA Ipoh,Perak,1
+IOT,LTA Kuala Lumpur Terminal 2,Selangor,1
+IOT,LTA Kuala Lumpur Terminal 1,Selangor,1
+IND,Tanjung Lembung,Kedah,1
+IRL,Jeti Tioman,Pahang,1
+IRL,Jeti Port Dickson,Negeri_Sembilan,1
+IRL,ICQS Kudat,Sabah,1
+URY,Pos Imigresen Mengkalap,Sarawak,1
+URY,Pejabat Imigresen Desaru Coast,Johor,1
+URY,LTA Sultan Ismail Senai,Johor,1
+IRL,LTA Sultan Ismail,Kelantan,1
+IRL,Pengkalan Kubur,Kelantan,1
+IRN,LT Tawau,Sabah,1
+IRN,Dermaga Tawau,Sabah,1
+IRN,Dermaga Labuan,Labuan,1
+IRQ,LTA Ipoh,Perak,1
+IRQ,LT Bintulu,Sarawak,1
+HTI,Rantau Panjang,Kelantan,1
+HTI,LTA Langkawi,Kedah,1
+HUN,Pengkalan Kubur,Kelantan,1
+IDN,Batu Lintang,Sarawak,1
+HUN,Terminal Feri Puteri Harbour,Johor,1
+USA,Jeti Menumbok,Sabah,1
+USA,Jeti Kukup,Johor,1
+IDN,Kerteh,Terengganu,1
+IDN,Jeti Menumbok,Sabah,1
+IDN,Dermaga Tanjung Manis,Sarawak,1
+IDN,LT Limbang,Sarawak,1
+IND,Merapok,Sabah,1
+IND,Lubok Antu,Sarawak,1
+IND,Linggi,Melaka,1
+IND,Pos Imigresen Bukit Bunga,Kelantan,1
+IND,Pelabuhan Klang Selatan - Jeti,Selangor,1
+HRV,LT Sandakan,Sabah,1
+HRV,LT Miri,Sarawak,1
+HRV,Jeti Pasir Gudang,Johor,1
+HRV,Pelabuhan Melaka,Melaka,1
+HRV,Pejabat Imigresen Port Swettenham,Selangor,1
+HRV,LTA Sultan Ismail Senai,Johor,1
+HTI,LTA Kota Kinabalu,Sabah,1
+HTI,LTA Ipoh,Perak,1
+HTI,LTA Bayan Lepas,Pulau_Pinang,1
+HRV,Wang Kelian,Perlis,1
+HRV,Tebedu,Sarawak,1
+HRV,Tanjung Belungkor,Johor,1
+HUN,LT Tawau,Sabah,1
+HUN,LT Sandakan,Sabah,1
+HUN,Jeti Tioman,Pahang,1
+HUN,Dermaga Sandakan,Sabah,1
+GTM,Pelabuhan Klang Barat - SCT,Selangor,1
+GTM,LTA Sultan Ismail Senai,Johor,1
+GTM,LTA Kuching,Sarawak,1
+GTM,LTA Kuantan,Pahang,1
+USA,Merapok,Sabah,1
+HKG,LTA Kuala Terengganu,Terengganu,1
+HKG,Jeti Pasir Gudang,Johor,1
+GUY,LTA Sultan Ismail Senai,Johor,1
+HMD,Bangunan Sultan Iskandar,Johor,1
+HKG,Sungai Tujuh,Sarawak,1
+HKG,Rantau Panjang,Kelantan,1
+HKG,LTA Subang Terminal 3,Selangor,1
+HND,Stulang Laut,Johor,1
+HND,LTA Sultan Ismail Senai,Johor,1
+HND,Jeti Kuah Langkawi,Kedah,1
+HRV,LTA Kuantan,Pahang,1
+GRC,LT Bintulu,Sarawak,1
+GRC,Dermaga Tawau,Sabah,1
+GRC,Dermaga Bintulu,Sarawak,1
+GRC,Biawak,Sarawak,1
+GRC,Merapok,Sabah,1
+GRC,Lumut,Perak,1
+GRC,Stulang Laut,Johor,1
+GTM,Jeti Kuah Langkawi,Kedah,1
+GTM,Dermaga Labuan,Labuan,1
+GRL,LTA Kuala Lumpur Terminal 2,Selangor,1
+GRL,Bangunan Sultan Iskandar,Johor,1
+GRD,Pos Imigresen Mengkalap,Sarawak,1
+GRD,LTA Sultan Ismail Senai,Johor,1
+GRD,LTA Kuching,Sarawak,1
+GUY,LTA Kuching,Sarawak,1
+GUY,Bukit Kayu Hitam,Kedah,1
+GHA,Stulang Laut,Johor,1
+GHA,Pejabat Imigresen Desaru Coast,Johor,1
+GLP,LTA Kuala Lumpur Terminal 1,Selangor,1
+GIN,Tanjung Pengelih,Johor,1
+GIN,LTA Sultan Ismail Senai,Johor,1
+GIN,LTA Subang Terminal 3,Selangor,1
+GIN,LTA Langkawi,Kedah,1
+UZB,Pejabat Imigresen Desaru Coast,Johor,1
+UZB,Pandaruan,Sarawak,1
+UZB,LTA Ipoh,Perak,1
+UZB,LT Miri,Sarawak,1
+GNQ,Gelang Patah,Johor,1
+GMB,Pos Imigresen Mengkalap,Sarawak,1
+GMB,LTA Langkawi,Kedah,1
+GRC,LT Tawau,Sabah,1
+GRC,LT Sandakan,Sabah,1
+GAB,LT Sibu,Sarawak,1
+FSM,LTA Bayan Lepas,Pulau_Pinang,1
+FSM,Gelang Patah,Johor,1
+GBR,Jeti Menumbok,Sabah,1
+VAT,LTA Kuching,Sarawak,1
+GBR,Linggi,Melaka,1
+GBR,Sindumin,Sabah,1
+GEO,Linggi,Melaka,1
+GEO,LTA Ipoh,Perak,1
+GHA,LTA Kuching,Sarawak,1
+GHA,LT Miri,Sarawak,1
+GEO,Telaga Harbour Park,Kedah,1
+GEO,Pelabuhan Klang Utara,Selangor,1
+GEO,Pelabuhan Klang Barat - KMT,Selangor,1
+GIB,Tebedu,Sarawak,1
+GIB,Bangunan Sultan Iskandar,Johor,1
+EST,LTA Sultan Ismail,Kelantan,1
+ETH,Sungai Tujuh,Sarawak,1
+ETH,LTA Langkawi,Kedah,1
+FIN,LT Tawau,Sabah,1
+VEN,LT Tawau,Sabah,1
+VCT,LTA Bayan Lepas,Pulau_Pinang,1
+VAT,Pejabat Imigresen Desaru Coast,Johor,1
+VAT,LTA Sultan Ismail Senai,Johor,1
+FIN,Roro Labuan,Labuan,1
+FJI,Pos Imigresen Mengkalap,Sarawak,1
+FJI,Rantau Panjang,Kelantan,1
+FRA,LT Labuan,Labuan,1
+FRA,Pelabuhan Klang Selatan - Jeti,Selangor,1
+FRA,Tanjung Lembung,Kedah,1
+GAB,Pejabat Imigresen Desaru Coast,Johor,1
+GAB,LTA Bayan Lepas,Pulau_Pinang,1
+EGY,Tanjung Belungkor,Johor,1
+EGY,Pos Kawalan Imigresen Muar,Johor,1
+EGY,Pejabat Imigresen Port Swettenham,Selangor,1
+ERI,Pelabuhan Klang Barat - SCT,Selangor,1
+VEN,Pengkalan Kubur,Kelantan,1
+VEN,Pelabuhan Melaka,Melaka,1
+VEN,Pelabuhan Klang Barat - KMT,Selangor,1
+VEN,Pejabat Imigresen Desaru Coast,Johor,1
+VEN,Padang Besar,Perlis,1
+VEN,LTA Ipoh,Perak,1
+ESP,Jeti Tioman,Pahang,1
+ESP,Pelabuhan Klang Utara,Selangor,1
+EST,Jeti Tioman,Pahang,1
+EST,Roro Labuan,Labuan,1
+EST,Pengkalan Hulu (Bukit Berapit),Perak,1
+EST,LTA Sultan Ismail Senai,Johor,1
+DZA,Pengkalan Hulu (Bukit Berapit),Perak,1
+DZA,Pelabuhan Melaka,Melaka,1
+ECU,LTA Subang Terminal 3,Selangor,1
+DZA,Wang Kelian,Perlis,1
+VNM,Dermaga Kota Kinabalu,Sabah,1
+VEN,Wang Kelian,Perlis,1
+VEN,Telaga Harbour Park,Kedah,1
+VEN,Stulang Laut,Johor,1
+VEN,Rantau Panjang,Kelantan,1
+EGY,Jeti Kuah Langkawi,Kedah,1
+EGY,Dermaga Tawau,Sabah,1
+ECU,Woodlands Train Checkpoint,Singapore,1
+ECU,Tanjung Pengelih,Johor,1
+ECU,Tanjung Belungkor,Johor,1
+ECU,Pelabuhan Klang Barat - SCT,Selangor,1
+EGY,LT Bintulu,Sarawak,1
+DJI,Gelang Patah,Johor,1
+DMA,Roro Labuan,Labuan,1
+DMA,LTA Sultan Ismail Senai,Johor,1
+DMA,LT Sibu,Sarawak,1
+VNM,Jeti Tioman,Pahang,1
+DNK,LT Sibu,Sarawak,1
+DNK,Jeti Menumbok,Sabah,1
+DNK,Pelabuhan Klang Barat - KMT,Selangor,1
+DNK,Linggi,Melaka,1
+DOM,LTA Sultan Ismail Senai,Johor,1
+DOM,LTA Ipoh,Perak,1
+DZA,LT Tawau,Sabah,1
+DZA,LT Bintulu,Sarawak,1
+DZA,Jeti Pasir Gudang,Johor,1
+DZA,Jeti Kukup,Johor,1
+DZA,Dermaga Labuan,Labuan,1
+CZE,Merapok,Sabah,1
+CZE,LT Bintulu,Sarawak,1
+CZE,Jeti Port Dickson,Negeri_Sembilan,1
+CZE,Stulang Laut,Johor,1
+CZE,Pengkalan Kubur,Kelantan,1
+CZE,Pelabuhan Klang Utara,Selangor,1
+CZE,Pejabat Imigresen Port Swettenham,Selangor,1
+CZE,Pasir Gudang,Johor,1
+VNM,Lumut,Perak,1
+CZE,Terminal Feri Puteri Harbour,Johor,1
+CZE,Tanjung Belungkor,Johor,1
+DEU,Pelabuhan Kemaman,Terengganu,1
+DEU,LTA Kuala Terengganu,Terengganu,1
+DEU,Pos Kawalan Imigresen Muar,Johor,1
+DEU,Pos Imigresen Bukit Bunga,Kelantan,1
+DEU,Pelabuhan Kuantan,Pahang,1
+CPV,LTA Bayan Lepas,Pulau_Pinang,1
+CRI,Sungai Tujuh,Sarawak,1
+CRI,Pos Imigresen Mengkalap,Sarawak,1
+CRI,LT Miri,Sarawak,1
+VNM,Pelabuhan Kuching,Sarawak,1
+CUB,Padang Besar,Perlis,1
+CUB,Jeti Kuah Langkawi,Kedah,1
+CUB,Bukit Kayu Hitam,Kedah,1
+CRI,Woodlands Train Checkpoint,Singapore,1
+CRI,Tanjung Belungkor,Johor,1
+CUB,Pejabat Imigresen Desaru Coast,Johor,1
+CZE,Dermaga Tawau,Sabah,1
+CZE,Biawak,Sarawak,1
+CYP,Tanjung Pengelih,Johor,1
+CYP,Tanjung Belungkor,Johor,1
+CYP,Pos Imigresen Mengkalap,Sarawak,1
+CMR,Woodlands Train Checkpoint,Singapore,1
+COL,LT Sibu,Sarawak,1
+COL,Dermaga Labuan,Labuan,1
+COL,Bukit Kayu Hitam,Kedah,1
+COK,LTA Kuala Lumpur Terminal 2,Selangor,1
+COG,LTA Langkawi,Kedah,1
+COG,Gelang Patah,Johor,1
+COD,Pelabuhan Klang Barat - SCT,Selangor,1
+VUT,LTA Kuching,Sarawak,1
+VUT,LT Miri,Sarawak,1
+COL,Pos Imigresen Mengkalap,Sarawak,1
+COL,Pelabuhan Klang Utara,Selangor,1
+COL,Lubok Antu,Sarawak,1
+CPV,Telaga Harbour Park,Kedah,1
+CPV,LTA Langkawi,Kedah,1
+CPV,LTA Kota Kinabalu,Sabah,1
+CHE,Dermaga Kota Kinabalu,Sabah,1
+CHE,Pelabuhan Kuching,Sarawak,1
+CHE,Pelabuhan Klang Selatan - Jeti,Selangor,1
+CHL,LT Sandakan,Sabah,1
+CHL,Dermaga Tawau,Sabah,1
+CHL,Biawak,Sarawak,1
+WSM,LTA Kuching,Sarawak,1
+VUT,Pelabuhan Klang Barat - SCT,Selangor,1
+CHL,Tedungan,Sarawak,1
+CHL,Tebedu,Sarawak,1
+CHN,LTA Kuala Terengganu,Terengganu,1
+CIV,LTA Kuching,Sarawak,1
+CIV,LTA Kota Kinabalu,Sabah,1
+COD,LTA Kuching,Sarawak,1
+COD,LTA Bayan Lepas,Pulau_Pinang,1
+COD,LT Sibu,Sarawak,1
+BTN,LTA Ipoh,Perak,1
+BTN,LT Miri,Sarawak,1
+CAF,LTA Langkawi,Kedah,1
+BWA,Padang Besar,Perlis,1
+BWA,LTA Sultan Ismail Senai,Johor,1
+BWA,LTA Kota Kinabalu,Sabah,1
+CAN,Jeti Port Dickson,Negeri_Sembilan,1
+CAN,Dermaga Sandakan,Sabah,1
+CAN,Dermaga Bintulu,Sarawak,1
+CAN,Merapok,Sabah,1
+CAN,Pelabuhan Tanjung Pelepas,Johor,1
+CAN,Pelabuhan Kuantan,Pahang,1
+CAN,Pelabuhan Klang Selatan - Jeti,Selangor,1
+CCK,LTA Kuala Lumpur Terminal 2,Selangor,1
+CCK,LTA Kuala Lumpur Terminal 1,Selangor,1
+CHE,Dermaga Sandakan,Sabah,1
+BRA,Jeti Tioman,Pahang,1
+BRA,Jeti Pasir Gudang,Johor,1
+BRA,Dermaga Tawau,Sabah,1
+BOL,Padang Besar,Perlis,1
+BOL,LTA Subang Terminal 3,Selangor,1
+XXX,Tanjung Pengelih,Johor,1
+XXX,Pelabuhan Melaka,Melaka,1
+BRA,Pandaruan,Sarawak,1
+BRA,Pengkalan Kubur,Kelantan,1
+BRB,Pejabat Imigresen Desaru Coast,Johor,1
+BRB,Padang Besar,Perlis,1
+BRB,LTA Subang Terminal 3,Selangor,1
+BRB,LTA Langkawi,Kedah,1
+BRN,LT Batu Berendam,Melaka,1
+BRN,LTA Kuantan,Pahang,1
+BRN,Tanjung Pengelih,Johor,1
+BIH,Pelabuhan Tanjung Pelepas,Johor,1
+BIH,Pelabuhan Klang Barat - SCT,Selangor,1
+BIH,Lubok Antu,Sarawak,1
+BIH,LTA Subang Terminal 3,Selangor,1
+YEM,LT Tawau,Sabah,1
+YEM,Dermaga Tawau,Sabah,1
+YEM,Dermaga Labuan,Labuan,1
+BLR,Pasir Gudang,Johor,1
+BLR,LT Miri,Sarawak,1
+BLR,Jeti Tioman,Pahang,1
+BLR,Woodlands Train Checkpoint,Singapore,1
+BLR,Tanjung Pengelih,Johor,1
+BLR,Pengkalan Hulu (Bukit Berapit),Perak,1
+BMU,LTA Kuala Lumpur Terminal 2,Selangor,1
+BLZ,Pejabat Imigresen Desaru Coast,Johor,1
+BLZ,LTA Kuching,Sarawak,1
+BGR,LT Bintulu,Sarawak,1
+BGR,Pengkalan Kubur,Kelantan,1
+BGR,LTA Sultan Ismail,Kelantan,1
+BGR,Terminal Feri Puteri Harbour,Johor,1
+YEM,Pelabuhan Kuantan,Pahang,1
+YEM,Pejabat Imigresen Desaru Coast,Johor,1
+BHS,LTA Ipoh,Perak,1
+BHS,Jeti Kuah Langkawi,Kedah,1
+BHS,Bukit Kayu Hitam,Kedah,1
+BHR,Pos Imigresen Mengkalap,Sarawak,1
+BHR,LTA Kuching,Sarawak,1
+BIH,LT Miri,Sarawak,1
+BHS,Terminal Feri Puteri Harbour,Johor,1
+BHS,Pos Imigresen Mengkalap,Sarawak,1
+BHS,LTA Subang Terminal 3,Selangor,1
+BLR,Dermaga Labuan,Labuan,1
+BEL,LT Bintulu,Sarawak,1
+BEL,Pelabuhan Klang Selatan - Jeti,Selangor,1
+BEL,Pelabuhan Klang Barat - KMT,Selangor,1
+BEL,Pelabuhan Tanjung Pelepas,Johor,1
+ZAF,Dermaga Tawau,Sabah,1
+ZAF,Dermaga Sandakan,Sabah,1
+BFA,LTA Ipoh,Perak,1
+BEN,Tedungan,Sarawak,1
+BEN,Pos Imigresen Mengkalap,Sarawak,1
+BEN,LTA Sultan Ismail Senai,Johor,1
+BGD,LT Batu Berendam,Melaka,1
+BGD,Jeti Port Dickson,Negeri_Sembilan,1
+BGD,ICQ Durian Burung,Kedah,1
+BGD,LTA Sultan Ismail,Kelantan,1
+BGD,Telaga Harbour Park,Kedah,1
+BGR,LT Tawau,Sabah,1
+AUT,Jeti Pasir Gudang,Johor,1
+AUT,Tanjung Belungkor,Johor,1
+AUT,Pos Imigresen Bukit Bunga,Kelantan,1
+AUT,Pelabuhan Kuching,Sarawak,1
+AUT,Pelabuhan Klang Selatan - Jeti,Selangor,1
+ZAF,LT Sibu,Sarawak,1
+ZAF,LT Sandakan,Sabah,1
+AZE,LTA Kuching,Sarawak,1
+AZE,Jeti Kuah Langkawi,Kedah,1
+AZE,Dermaga Labuan,Labuan,1
+BEL,Biawak,Sarawak,1
+BDI,LTA Kuching,Sarawak,1
+AZE,Wang Kelian,Perlis,1
+AZE,Telaga Harbour Park,Kedah,1
+AZE,Tebedu,Sarawak,1
+AZE,LTA Sultan Ismail Senai,Johor,1
+ARM,Wang Kelian,Perlis,1
+AUS,Dermaga Tanjung Manis,Sarawak,1
+AUS,Dermaga Bintulu,Sarawak,1
+ATG,Sungai Tujuh,Sarawak,1
+ZAF,Pos Imigresen Bukit Bunga,Kelantan,1
+ZAF,Pelabuhan Kemaman,Terengganu,1
+ZAF,Pejabat Imigresen Port Swettenham,Selangor,1
+AUS,Lubok Antu,Sarawak,1
+AUS,Pos Kawalan Imigresen Muar,Johor,1
+AUS,Pelabuhan Tanjung Pelepas,Johor,1
+AUS,Pelabuhan Klang Selatan - Jeti,Selangor,1
+AUT,Dermaga Kota Kinabalu,Sabah,1
+AUT,Biawak,Sarawak,1
+AUS,Sebana Resort Desaru,Johor,1
+AUT,LT Bintulu,Sarawak,1
+AUT,LT Batu Berendam,Melaka,1
+SYR,Rantau Panjang,Kelantan,1
+ABW,LTA Bayan Lepas,Pulau_Pinang,1
+ZWE,Rantau Panjang,Kelantan,1
+ZWE,Pos Imigresen Mengkalap,Sarawak,1
+ZMB,Woodlands Train Checkpoint,Singapore,1
+ZMB,Wang Kelian,Perlis,1
+ZMB,Telaga Harbour Park,Kedah,1
+ZMB,Pejabat Imigresen Desaru Coast,Johor,1
+ZMB,LTA Sultan Ismail Senai,Johor,1
+ZMB,LTA Subang Terminal 3,Selangor,1
+ALB,Pelabuhan Klang Barat - KMT,Selangor,1
+ALB,LTA Sultan Ismail Senai,Johor,1
+ALB,LTA Kuching,Sarawak,1
+ALB,LT Bintulu,Sarawak,1
+ANT,LTA Kuala Lumpur Terminal 1,Selangor,1
+AND,Telaga Harbour Park,Kedah,1
+SYC,Jeti Pasir Gudang,Johor,1
+SYC,Jeti Kuah Langkawi,Kedah,1
+SYC,Biawak,Sarawak,1
+SWZ,Woodlands Train Checkpoint,Singapore,1
+SWZ,LTA Langkawi,Kedah,1
+TCA,Padang Besar,Perlis,1
+SYR,Terminal Feri Puteri Harbour,Johor,1
+SYR,Tanjung Pengelih,Johor,1
+SYR,LT Tawau,Sabah,1
+SYR,LT Bintulu,Sarawak,1
+SYC,Woodlands Train Checkpoint,Singapore,1
+SYC,Telaga Harbour Park,Kedah,1
+SYC,Tedungan,Sarawak,1
+SYC,Tebedu,Sarawak,1
+SYC,Stulang Laut,Johor,1
+SYC,LTA Langkawi,Kedah,1

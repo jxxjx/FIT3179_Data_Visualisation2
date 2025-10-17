@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Multi-select years via legend; dim non-selected.",
+  "width": 700,
+  "height": 300,
+  "background": "transparent",
+  "view": {"stroke": "transparent"},
+  "data": {"url": "tourism_gdp_yoy.csv"},
+  "title": {"text": "Tourist Arrivals vs GDP (Quarterly YoY)", "anchor": "start"},
+
+  "params": [
+    {
+      "name": "year_selection",
+      "select": {
+        "type": "point",
+        "fields": ["Year"],
+        "toggle": true,         
+        "empty": true            
+      },
+      "bind": "legend"       
+    }
+  ],
+
+  "mark": {"type": "point", "filled": true, "size": 120},
+  "encoding": {
+    "x": {"field": "GDP", "type": "quantitative", "title": "GDP (RM millions)", "axis": {"format": "s"}},
+    "y": {"field": "Tourist_Arrivals", "type": "quantitative", "title": "Tourist Arrivals", "axis": {"format": "s"}},
+    "color": {"field": "Year", "type": "nominal", "title": "Year", "scale": {"scheme": "category10"}},
+    "opacity": {
+      "condition": {"param": "year_selection", "value": 1},
+      "value": 0.2
+    },
+    "tooltip": [
+      {"field": "Quarter", "type": "temporal", "title": "Quarter"},
+      {"field": "GDP", "type": "quantitative", "format": ","},
+      {"field": "Tourist_Arrivals", "type": "quantitative", "format": ",", "title": "Tourist Arrivals"},
+      {"field": "Year", "type": "nominal"}
+    ]
+  },
+
+  "config": {
+    "axis": {"labelFontSize": 12, "titleFontSize": 12, "grid": false},
+    "legend": {"orient": "right", "symbolSize": 150},
+    "background": "white"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Tourism-Related Sector GDP Composition (2020–2023)",
+  "data": {"url": "tourism_sector_ranks_clean.csv"},
+  "width": 700,
+  "height": 300,
+  "background": "transparent",
+  "mark": {"type": "area", "interpolate": "linear", "stroke": "white", "strokeWidth": 0.6},
+  "encoding": {
+    "x": {"field": "year", "type": "ordinal", "axis": {"title": "Year"}},
+    "y": {"field": "value", "type": "quantitative", "stack": "normalize", "axis": {"title": "Share of GDP"}},
+    "color": {"field": "desc_en", "type": "nominal", "title": "Sector"},
+    "tooltip": [
+      {"field": "year"},
+      {"field": "desc_en", "title": "Sector"},
+      {"field": "value", "title": "GDP (RM mil)", "format": ","}
+    ]
+  },
+  "config": {"view": {"stroke": "transparent"},
+              "axis": {"labelFontSize": 12, "titleFontSize": 12, "domain": false, "grid": false},
+             "legend": {"titleFontSize": 14, "labelFontSize": 12,"orient":"bottom" }}
+}

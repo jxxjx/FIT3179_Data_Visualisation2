@@ -1,0 +1,85 @@
+poe,state,lat,long,type,abb,iso
+Bangunan Sultan Iskandar,Johor,1.734225,103.900412,Land,JHR,MY-01
+Batu Lintang,Sarawak,1.018009,111.556995,Land,SWK,MY-13
+Biawak,Sarawak,1.629456,109.691264,Land,SWK,MY-13
+Bukit Kayu Hitam,Kedah,6.51158,100.421534,Land,KDH,MY-02
+Bunan Gega,Sarawak,0.917433,110.540944,Land,SWK,MY-13
+Dermaga Bintulu,Sarawak,3.178464,113.039317,Sea,SWK,MY-13
+Dermaga Kastam Limbang,Sarawak,4.753461,115.00869,Sea,SWK,MY-13
+Dermaga Kota Kinabalu,Sabah,5.991955,116.092284,Sea,SBH,MY-12
+Dermaga Labuan,Labuan,5.276138,115.250237,Sea,LBN,MY-15
+Dermaga Sandakan,Sabah,5.87818,118.052441,Sea,SBH,MY-12
+Dermaga Tanjung Manis,Sarawak,2.144077,111.285419,Sea,SWK,MY-13
+Dermaga Tawau,Sabah,4.243936,117.893219,Sea,SBH,MY-12
+Gelang Patah,Johor,1.37719,103.598752,Land,JHR,MY-01
+ICQ Durian Burung,Kedah,6.470318,100.708365,Land,KDH,MY-02
+ICQS Kudat,Sabah,6.879539,116.848088,Sea,SBH,MY-12
+Jeti Kuah Langkawi,Kedah,6.306484,99.851107,Sea,KDH,MY-02
+Jeti Kuala Perlis,Perlis,6.398358,100.140954,Sea,PLS,MY-09
+Jeti Kukup,Johor,1.325433,103.442884,Sea,JHR,MY-01
+Jeti Menumbok,Sabah,5.302942,115.37346,Sea,SBH,MY-12
+Jeti Pasir Gudang,Johor,1.443378,103.905418,Sea,JHR,MY-01
+Jeti Port Dickson,Negeri_Sembilan,2.526064,101.796108,Sea,NSN,MY-05
+Jeti Tioman,Pahang,2.818878,104.158009,Sea,PHG,MY-06
+Kawasan Pelabuhan Sematan,Sarawak,1.805358,109.77706,Sea,SWK,MY-13
+Kerteh,Terengganu,4.505061,103.443201,Sea,TRG,MY-11
+Linggi,Melaka,2.388588,101.974361,Sea,MLK,MY-04
+LT Batu Berendam,Melaka,2.261781,102.250845,Air,MLK,MY-04
+LT Bintulu,Sarawak,3.123793,113.023891,Air,SWK,MY-13
+LT Labuan,Labuan,5.294663,115.249315,Air,LBN,MY-15
+LT Limbang,Sarawak,4.809978,115.007837,Air,SWK,MY-13
+LT Miri,Sarawak,4.323014,113.987401,Air,SWK,MY-13
+LT Sandakan,Sabah,5.89719,118.061768,Air,SBH,MY-12
+LT Sibu,Sarawak,2.256185,111.986208,Air,SWK,MY-13
+LT Tawau,Sabah,4.313986,118.11431,Air,SBH,MY-12
+LTA Bayan Lepas,Pulau_Pinang,5.299035,100.276335,Air,PNG,MY-07
+LTA Ipoh,Perak,4.570015,101.09854,Air,PRK,MY-08
+LTA Kota Kinabalu,Sabah,5.923267,116.051228,Air,SBH,MY-12
+LTA Kuala Lumpur Terminal 1,Selangor,2.754224,101.704334,Air,SGR,MY-10
+LTA Kuala Lumpur Terminal 2,Selangor,2.743143,101.686162,Air,SGR,MY-10
+LTA Kuala Terengganu,Terengganu,5.380131,103.105091,Air,TRG,MY-11
+LTA Kuantan,Pahang,3.780726,103.215062,Air,PHG,MY-06
+LTA Kuching,Sarawak,1.487101,110.34162,Air,SWK,MY-13
+LTA Langkawi,Kedah,6.342356,99.731137,Air,KDH,MY-02
+LTA Subang Terminal 3,Selangor,3.132778,101.552867,Air,SGR,MY-10
+LTA Sultan Ismail,Kelantan,6.169708,102.29331,Air,KTN,MY-03
+LTA Sultan Ismail Senai,Johor,1.63931,103.668018,Air,JHR,MY-01
+Lubok Antu,Sarawak,1.03159,111.872744,Land,SWK,MY-13
+Lumut,Perak,4.196084,100.663716,Sea,PRK,MY-08
+Merapok,Sabah,4.95851,115.505837,Sea,SBH,MY-12
+Padang Besar,Perlis,6.663913,100.322913,Land,PLS,MY-09
+Pandaruan,Sarawak,4.693084,115.030051,Land,SWK,MY-13
+Pasir Gudang,Johor,1.443634,103.905527,Sea,JHR,MY-01
+Pejabat Imigresen Desaru Coast,Johor,1.557055,104.240022,Sea,JHR,MY-01
+Pejabat Imigresen Port Swettenham,Selangor,2.998701,101.395773,Sea,SGR,MY-10
+Pelabuhan Batu Pahat,Johor,1.850873,102.925215,Sea,JHR,MY-01
+Pelabuhan Kemaman,Terengganu,4.258506,103.465268,Sea,TRG,MY-11
+Pelabuhan Klang Barat - KMT,Selangor,2.948956,101.307168,Sea,SGR,MY-10
+Pelabuhan Klang Barat - SCT,Selangor,2.984739,101.337117,Sea,SGR,MY-10
+Pelabuhan Klang Selatan - Jeti,Selangor,2.998438,101.391943,Sea,SGR,MY-10
+Pelabuhan Klang Utara,Selangor,3.032807,101.360728,Sea,SGR,MY-10
+Pelabuhan Kuantan,Pahang,3.966533,103.420655,Sea,PHG,MY-06
+Pelabuhan Kuching,Sarawak,1.554905,110.397063,Sea,SWK,MY-13
+Pelabuhan Melaka,Melaka,2.191919,102.244812,Sea,MLK,MY-04
+Pelabuhan Tanjung Pelepas,Johor,1.368093,103.552368,Sea,JHR,MY-01
+Pengkalan Hulu (Bukit Berapit),Perak,5.744794,101.024478,Land,PRK,MY-08
+Pengkalan Kubur,Kelantan,6.23291,102.090991,Sea,KTN,MY-03
+Pos Imigresen Bukit Bunga,Kelantan,5.837093,101.894862,Land,KTN,MY-03
+Pos Imigresen Mengkalap,Sarawak,4.788288,115.23883,Land,SWK,MY-13
+Pos Kawalan Imigresen Muar,Johor,2.06091,102.575061,Sea,JHR,MY-01
+Rantau Panjang,Kelantan,6.021019,101.976712,Land,KTN,MY-03
+Roro Labuan,Labuan,5.276936,115.242751,Sea,LBN,MY-15
+Sebana Resort Desaru,Johor,1.41266,104.164799,Sea,JHR,MY-01
+Sindumin,Sabah,4.9585,115.505825,Land,SBH,MY-12
+Stulang Laut,Johor,1.470422,103.78309,Sea,JHR,MY-01
+Sungai Tujuh,Sarawak,4.584325,114.074793,Land,SWK,MY-13
+Tanjung Belungkor,Johor,1.445706,104.062527,Sea,JHR,MY-01
+Tanjung Lembung,Kedah,6.292877,99.786682,Sea,KDH,MY-02
+Tanjung Pengelih,Johor,1.369704,104.088742,Sea,JHR,MY-01
+Tebedu,Sarawak,0.987882,110.353034,Land,SWK,MY-13
+Tedungan,Sarawak,4.737706,114.811735,Land,SWK,MY-13
+Telaga Harbour Park,Kedah,6.367519,99.686475,Sea,KDH,MY-02
+Terminal Feri Minyak Beku,Johor,1.798297,102.894502,Sea,JHR,MY-01
+Terminal Feri Puteri Harbour,Johor,1.414545,103.660297,Sea,JHR,MY-01
+Wang Kelian,Perlis,6.696276,100.179432,Land,PLS,MY-09
+Woodlands Train Checkpoint,Singapore,1.4438,103.7696,Land,SGP,SG-03
