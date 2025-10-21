@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Data_Visualisation2/main/tourism_sector_ranks_clean.csv"},
+  "width": 750,
+  "height": 300,
+  "background": "transparent",
+  "padding": {"top": 34, "left": 0, "right": 0, "bottom": 0},
+
+  "mark": {"type": "area", "interpolate": "linear", "stroke": "white", "strokeWidth": 0.6},
+
+  "encoding": {
+    "x": {"field": "year", "type": "ordinal", "axis": {"title": "Year"}},
+    "y": {"field": "value", "type": "quantitative", "stack": "normalize", "axis": {"title": "Share of GDP"}},
+
+    "color": {
+      "field": "desc_en",
+      "type": "nominal",
+      "title": "Sector",
+      "scale": {
+        "domain": [
+          "Transportation and storage",
+          "Accommodation",
+          "Food and beverage",
+          "Private education services",
+          "Private health services",
+          "Tourism agencies"
+        ],
+        "range": ["#3C2F80","#FAEDDA","#DC3C22","#AEE8CA","#6ACFC9","#26B6C6"]
+      },
+      "legend": {"orient": "bottom", "direction": "horizontal", "anchor": "start", "columns": 3, "labelLimit": 140}
+    },
+
+    "order": {
+      "field": "desc_en",
+      "sort": [
+        "Transportation and storage",
+        "Accommodation",
+        "Food and beverage",
+        "Private education services",
+        "Private health services",
+        "Tourism agencies"
+      ]
+    },
+
+    "tooltip": [
+      {"field": "year"},
+      {"field": "desc_en", "title": "Sector"},
+      {"field": "value", "title": "GDP (RM mil)", "format": ","}
+    ]
+  },
+
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"labelFontSize": 12, "titleFontSize": 12, "domain": false, "grid": false}
+  }
+}

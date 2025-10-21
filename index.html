@@ -11,86 +11,139 @@
     <script src="javascript.js"></script>
   
   <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+  <link rel="stylesheet" type="text/css" href="styles.css">
   
 </head>
 <body>
   <div id="top-section">
-    <div id="header"> <h1>Tourism and Economic Performance in Malaysia</h1></div>
+    <div id="header"> <h1 style="font-size: 40px;font-family:'Lucida Bright', serif;">Tourism and Economic Performance in Malaysia</h1></div>
     <div id="desc" >
        
         <p style="text-align: justify;">
           Tourism is one of Malaysia’s strongest economic pillars, driving growth, creating jobs, and supporting local industries. 
           Each year, millions of visitors contribute to the nation’s GDP through spending on travel, hospitality, and services.
         </p>
-        <p style="text-align: justify;">
-          When the <b>COVID-19 pandemic</b> struck, international arrivals plummeted — revealing just how vital tourism is to Malaysia’s economy. 
-          This visualization explores the close relationship between <b>tourism trends</b> and <b>GDP performance</b>, 
-          showing how both declined during the pandemic and how recovery is now taking shape.
-        </p>
+        
       
 
-  </div>
 </div>
 
   </div>
 <div id ="container">
+  <h2 id="section_title">Where Tourists Enter Malaysia</h2>
+  <p id="section-caption" >Malaysia’s air, sea, and land entry points connect millions of international visitors each year.
+This section shows where tourists enter and which gateways dominate travel activity from 2020–2023.</p>
+
 <div id = "container-container">
-  <h2 id="bar_chart_title">Points of Entry in Malaysia (2020-2023)</h2>
-  <p id="chart-caption" style="text-align:justify;width:700px;">The sharp decline in foreign arrivals in <b>2020</b> and <b>2021</b> is a direct result of the COVID-19 pandemic. On <b>March 18, 2020</b>, Malaysia implemented a nationwide Movement Control Order (MCO) that effectively closed its international borders to tourists. These national measures, combined with the global shutdown of air travel, kept arrival numbers at historic lows until the gradual reopening of borders began in <b>2022</b>.</p>
-<div id="symbol_map" ></div>
-<div id="bar_chart">  </div>
+<p id="chart_title">Exploring the Nation’s Main Travel Gateways</p>
+
+<p id= "chart-caption" style="text-align: center;">Map of Malaysia’s key Points of Entry by type and location.</p>
+<div id="symbol_map"></div>
+<div id="chart-container">
+  <p id="chart_title">Malaysia’s Busiest Entry Gateways</p>
+  <p id="chart-caption">Malaysia’s top 10 busiest entry points from <b>2020</b> to <b>2023</b>.</p>
+
+  <div id="bar_chart">  </div>
+</div>
 </div>
 
-<div id="container-container">
-  <h2 id="bar_chart_title">Who Visits Malaysia the Most?</h2>
-<p id="chart-caption" style=" line-height:1.5;text-align:justify;width:700px;">
-  The chart shows that <span style="color:#000; font-weight:bold;">Singapore</span>, <span style="color:#000; font-weight:bold;">Indonesia</span>, and <span style="color:#000; font-weight:bold;">Thailand</span> are the top three source countries of tourist arrivals to Malaysia, 
-  both within Asia and worldwide. This reflects Malaysia’s strong regional and global dependence on ASEAN neighbours.
-  Most arrivals from <span style="color:#000; font-weight:bold;">Singapore</span> and <span style="color:#000; font-weight:bold;">Thailand</span> enter by 
-  <span style="color:#541212; font-weight:bold;">land</span>, while <span style="color:#000; font-weight:bold;">Indonesia</span> contributes through a mix of 
-  <span style="color:#8CCDEB; font-weight:bold;">air</span> and 
-  <span style="color:#131D4F; font-weight:bold;">sea</span> travel. 
-  Their dominant share highlights the importance of <b>regional connectivity</b>, 
-  <b>cross-border tourism</b>, and <b>close cultural ties</b> in driving Malaysia’s overall inbound tourism performance.
+  <h2 id="section_title">Who Visits Malaysia the Most?</h2>
+  <p id="section-caption" >Understanding the demographics and origins of tourists is crucial for tailoring marketing strategies and enhancing visitor experiences.
+This section delves into the countries that contribute the most tourists to Malaysia and examines their gender distribution.</p>
+
+
+
+
+<div id="container-container" >
+  <div id="chart-container">
+  <p id="chart_title">How the Top 3 Countries Travel?</p>
+<p id="chart-caption" style="line-height:1.5;text-align:justify;">  
+ <b>Tip:</b> Filter by Super Region to see the top countries and their arrival modes.
 </p>
- <div id="donut_bar"></div>
- <h2 id = "bar_chart_title" >Gender Breakdown of Tourists</h2>
+
+
+ <div id="stacked_bar"></div>
+</div> 
+ 
+ <div id="donut-chart-container">
+ <p id = "chart_title" >Gender Breakdown of Tourists</p>
+
  <div id = "two-column">
     
- <p id="chart-caption" style="width:400px; font-size:14px; line-height:1.6; text-align:justify;margin: 0 45px;">
-  This interactive donut chart visualizes the gender distribution of tourists visiting Malaysia from <strong>2020 to 2023</strong>. 
-  The <span style="color:#2B6CB0; font-weight:bold;">blue segment</span> represents <strong>female tourists</strong>, 
-  while the <span style="color:#E53E3E; font-weight:bold;">red segment</span> represents <strong>male tourists</strong>.<br><br>
+ <p id="donut-chart-caption" style="text-align:justify;width:40%;margin: 0px auto 0px auto;">
+  This interactive donut chart shows the gender distribution of tourists visiting Malaysia from 2020 to 2023. 
+  <span style="color:#1f77b4;font-weight:bold;">Blue</span> represents males and <span style="color:#d62728;font-weight:bold;">red</span> represents females. 
+  Use the dropdown menu and year slider to explore the data.</p>
 
-  <strong>2020:</strong> The gender distribution was relatively balanced, with male tourists slightly outnumbering females.<br>
-  <strong>2021:</strong> A significant drop in female tourist arrivals is observed, likely due to <em>COVID-19 travel restrictions</em> — resulting in a male-dominated tourist flow.<br>
-  <strong>2022–2023:</strong> Female arrivals increased again, restoring a more balanced gender composition similar to pre-pandemic levels.<br><br>
 
-  The <strong>Year slider</strong> allows users to explore yearly changes, while the <strong>Country filter</strong> enables focused comparisons of tourist composition by country of origin.
-</p>
-
-  <div id="donut"></div>
+  <div id="donut" style="width:50%"></div>
+  <script>vegaEmbed("#donut", spec, {actions:true});</script>
+</div>
 </div>
 
  
 </div>
 
+    <h2 id="section_title">How Tourism Drives Malaysia’s Economy?</h2>
+    <p id="section-caption" style="text-align:justify;">
+      Tourism significantly contributes to Malaysia’s GDP, employment, and foreign exchange earnings. This section explores the relationship between tourist arrivals and economic performance indicators such as GDP growth from <b>2020</b> to <b>2023</b>.
 
-<div id="container-container">
-    <h2 id="bar_chart_title">Tourism Sector Contribution to GDP</h2>
-    <p id="chart-caption" style="text-align:justify;width:700px;">
-      The area chart illustrates the contribution of various economic sectors to Malaysia's Real GDP from 2020 to 2023. 
-      Notably, the <b>Transportation and Storage</b> sector consistently holds the largest share, reflecting its critical role in supporting tourism and trade. 
-      The <b>Tourism Agencies</b> sector also shows significant contributions, highlighting the importance of tourism-related services in the economy. 
-      Other sectors such as <b>Food and Beverage</b>, <b>Private Health Services</b>, and <b>Private Education Services</b> further emphasize the diverse economic activities linked to tourism.
-    <br>
     </p>
-  
+  <div id="container-container">
+ 
+  <p id="chart_title">GDP vs Tourist Arrivals</p>
+  <p id="chart-caption" style="text-align:justify;">
+Relationship between Malaysia’s GDP and tourist arrivals
   <div id="scatter_plot"></div>
-  <div id="nap"></div>
+  
+    <div id="chart-container">
+  <p id="chart_title">Quarterly Growth (%)</p>
+  <p id="chart-caption" >This chart compares Malaysia’s quarterly tourism and GDP growth</p>
+  <div id="line_chart"></div>
+</div>
+
+<div id="chart-container">
+  <p id="chart_title">Tourism-Related GDP Composition by Sector</p>
+  <p id="chart-caption" >Tourism sectors remained key GDP contributors from 2020 to 2023.</p> 
+  <div id="area_chart"></div>
 
 </div>
 </div>
+<!-- ===== Metadata Footer ===== -->
+<div id="metadata-footer">
+  <hr class="footer-divider">
+  <div class="footer-content">
+    <p><strong>Author:</strong> Jess Ng</p>
+    <p><strong>Course:</strong> FIT3179 Data Visualisation II, Semester 2, 2025</p>
+    <p><strong>Date:</strong> 2025-10-21</p>
+    <p><strong>Data Sources:</strong></p>
+    <ul>
+      <li>
+        Foreign Arrivals + Point of Entries (POE) (Kaggle) – 
+        <a href="https://www.kaggle.com/datasets/yyxian/malaysia-foreign-arrivals-by-origin-and-gender?select=foreign_arrivals.csv" target="_blank">
+          https://www.kaggle.com/datasets/yyxian/malaysia-foreign-arrivals-by-origin-and-gender
+        </a>
+      </li>
+      <li>
+        GDP + GDP Sectors (data.gov.my) – 
+        <a href="https://data.gov.my/data-catalogue/gdp_qtr_real_supply_granular" target="_blank">
+          https://data.gov.my/data-catalogue/gdp_qtr_real_supply_granular
+        </a> and 
+        <a href="https://data.gov.my/data-catalogue/gdp_lookup" target="_blank">
+          https://data.gov.my/data-catalogue/gdp_lookup
+        </a>
+      </li>
+      <li>
+        Country and Continent codes (GitHub) – 
+        <a href="https://gist.github.com/stevewithington/20a69c0b6d2ff846ea5d35e5fc47f26c" target="_blank">
+          https://gist.github.com/stevewithington/20a69c0b6d2ff846ea5d35e5fc47f26c
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
 </body>
 </html>

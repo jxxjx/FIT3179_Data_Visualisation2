@@ -1,46 +1,78 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Multi-select years via legend; dim non-selected.",
+  "description": "Tourist Arrivals vs GDP with floating annotation box + leader line",
   "width": 700,
   "height": 300,
   "background": "transparent",
-  "view": {"stroke": "transparent"},
-  "data": {"url": "tourism_gdp_yoy.csv"},
-  "title": {"text": "Tourist Arrivals vs GDP (Quarterly YoY)", "anchor": "start"},
+  "view":{"stroke": "transparent"},
+  "data": {"url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Data_Visualisation2/main/tourism_gdp_yoy.csv"},
 
-  "params": [
+  "layer": [
     {
-      "name": "year_selection",
-      "select": {
-        "type": "point",
-        "fields": ["Year"],
-        "toggle": true,         
-        "empty": true            
-      },
-      "bind": "legend"       
+      "mark": {"type": "point", "filled": true, "size": 120},
+      "encoding": {
+        "x": {"field": "GDP", "type": "quantitative", "title": "GDP (RM millions)", "axis": {"format": "s"}},
+        "y": {"field": "Tourist_Arrivals", "type": "quantitative", "title": "Tourist Arrivals", "axis": {"format": "s"}},
+        "color": {
+          "field": "Year",
+          "type": "nominal",
+          "title": "Year",
+          "scale": {
+            "domain": [2020, 2021, 2022, 2023],
+            "range": ["#073e92","#f4284e","#f59623","#762f3d"]
+          }
+        },
+        
+        "tooltip": [
+          {"field": "Quarter", "type": "temporal", "title": "Quarter"},
+          {"field": "GDP", "type": "quantitative", "format": ",", "title": "GDP (RM mn)"},
+          {"field": "Tourist_Arrivals", "type": "quantitative", "format": ",", "title": "Tourist Arrivals"},
+          {"field": "Year", "type": "nominal"}
+        ]
+      }
+    },
+
+
+    {
+      "mark": {"type": "rule", "stroke": "#bdbdbd", "strokeWidth": 1},
+      "encoding": {
+        "x":  {"datum": 280000},
+        "y":  {"datum": 1700000},
+        "x2": {"datum": 344000},
+        "y2": {"datum": 350000}
+      }
+    },
+
+    {
+      "data": {"values": [{}]},
+      "layer": [
+        {
+          "mark": {"type": "rect", "cornerRadius": 10, "color": "white", "opacity": 0.95, "stroke": "#ddd"},
+          "encoding": {
+            "x": {"value": 100}, "y": {"value": 158},
+            "x2": {"value": 440}, "y2": {"value": 226}
+          }
+        },
+        {
+          "mark": {"type": "text", "align": "left", "fontSize": 12},
+          "encoding": {
+            "x": {"value": 110}, "y": {"value": 180},
+            "text": {"value": "2020–2021:Tourism collapsed during COVID-19 pandemic"}
+          }
+        },
+        {
+          "mark": {"type": "text", "align": "left", "fontSize": 12},
+          "encoding": {
+            "x": {"value": 110}, "y": {"value": 200},
+            "text": {"value": "Arrivals near zero, GDP decrease sharply"}
+          }
+        }
+      ]
     }
   ],
 
-  "mark": {"type": "point", "filled": true, "size": 120},
-  "encoding": {
-    "x": {"field": "GDP", "type": "quantitative", "title": "GDP (RM millions)", "axis": {"format": "s"}},
-    "y": {"field": "Tourist_Arrivals", "type": "quantitative", "title": "Tourist Arrivals", "axis": {"format": "s"}},
-    "color": {"field": "Year", "type": "nominal", "title": "Year", "scale": {"scheme": "category10"}},
-    "opacity": {
-      "condition": {"param": "year_selection", "value": 1},
-      "value": 0.2
-    },
-    "tooltip": [
-      {"field": "Quarter", "type": "temporal", "title": "Quarter"},
-      {"field": "GDP", "type": "quantitative", "format": ","},
-      {"field": "Tourist_Arrivals", "type": "quantitative", "format": ",", "title": "Tourist Arrivals"},
-      {"field": "Year", "type": "nominal"}
-    ]
-  },
-
   "config": {
     "axis": {"labelFontSize": 12, "titleFontSize": 12, "grid": false},
-    "legend": {"orient": "right", "symbolSize": 150},
-    "background": "white"
+    "legend": {"orient": "right", "symbolSize": 150}
   }
 }

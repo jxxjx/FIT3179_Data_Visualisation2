@@ -1,23 +1,78 @@
+# merge_tourism_gdp.py
 import pandas as pd
 
-# Load
-arr = pd.read_csv("foreign_arrivals.csv", parse_dates=["date"])
-gdp = pd.read_csv("gdp_qtr_real_supply_sub.csv", parse_dates=["date"])
+# === File paths (edit if needed) ===
+TOURISM_CSV   = "foreign_arrivals.csv"                   # poe,country,date,arrivals,arrivals_male,arrivals_female
+GDP_CSV       = "gdp_qtr_real_supply_sub.csv"   # series,date,sector,value (quarterly)
+SECTORS_CSV   = "gdp_tourism_related.csv"           # method,sector,desc_en (your list)
+OUT_CSV       = "merged_growth_tourism_gdp.csv"
 
-# Tourism: aggregate to quarter and QoQ
-arr_q = (arr.assign(qtr=arr["date"].dt.to_period("Q").dt.start_time)
-            .groupby("qtr", as_index=False)["arrivals"].sum()
-            .rename(columns={"arrivals":"arrivals_qtr"}))
-arr_q["tourism_growth"] = arr_q["arrivals_qtr"].pct_change()*100
+# === Load ===
+tourism = pd.read_csv(TOURISM_CSV)
+gdp     = pd.read_csv(GDP_CSV)
+sectors = pd.read_csv(SECTORS_CSV)
 
-# GDP: filter and QoQ
-gdp_q = (gdp.query("series=='abs' and sector=='p0'")
-           .assign(qtr=gdp["date"].dt.to_period("Q").dt.start_time)
-           .groupby("qtr", as_index=False)["value"].sum())  # if already 1 row/qtr, drop .sum()
-gdp_q["gdp_growth"] = gdp_q["value"].pct_change()*100
+# Parse dates
+tourism["date"] = pd.to_datetime(tourism["date"])
+gdp["date"]     = pd.to_datetime(gdp["date"])
 
-# Join on quarter and limit to 2020–2023
-merged = (pd.merge(arr_q[["qtr","tourism_growth"]], gdp_q[["qtr","gdp_growth"]], on="qtr", how="inner")
-            .query("(qtr.dt.year >= 2020) & (qtr.dt.year <= 2023)"))
+# Normalize column names (defensive)
+for df in (tourism, gdp, sectors):
+    df.columns = [c.strip().lower() for c in df.columns]
 
-merged.to_csv("tourism_gdp_qoq.csv", index=False)
+# --- Keep only tourism-related GDP sectors (by 'sector' code) ---
+tourism_sector_codes = set(sectors["sector"].astype(str).str.strip())
+gdp["sector"] = gdp["sector"].astype(str).str.strip()
+
+# (Optional) keep production method only if present in your GDP file
+if "method" in gdp.columns and "method" in sectors.columns:
+    gdp = gdp.merge(sectors[["sector","method"]].drop_duplicates(), on="sector", how="left")
+    # prefer rows that match sector+method in your mapping
+    gdp = gdp[(gdp["sector"].isin(tourism_sector_codes)) & (gdp["method"].eq("production"))]
+else:
+    gdp = gdp[gdp["sector"].isin(tourism_sector_codes)]
+
+# Attach human-readable descriptions (desc_en)
+gdp = gdp.merge(sectors[["sector","desc_en"]].drop_duplicates(), on="sector", how="left")
+
+# --- Quarter alignment using period (avoids timestamp mismatches) ---
+tourism["qtr"] = tourism["date"].dt.to_period("Q-DEC")
+gdp["qtr"]     = gdp["date"].dt.to_period("Q-DEC")
+
+# --- Aggregate tourism arrivals to quarter (sum across POE & countries) ---
+tourism_qtr = (
+    tourism.groupby("qtr", as_index=False)
+           .agg(tourism_arrivals=("arrivals", "sum"))
+)
+
+# --- Aggregate tourism-only GDP by quarter ---
+# If GDP values are already quarterly, we just sum across the selected tourism sectors
+gdp_tourism_qtr = (
+    gdp.groupby("qtr", as_index=False)
+       .agg(gdp_tourism_value=("value", "sum"))
+)
+
+# --- Merge on quarter ---
+merged = (
+    pd.merge(gdp_tourism_qtr, tourism_qtr, on="qtr", how="inner")
+      .sort_values("qtr")
+      .reset_index(drop=True)
+)
+
+# --- QoQ growth (%) ---
+merged["gdp_tourism_growth_%"] = merged["gdp_tourism_value"].pct_change() * 100.0
+merged["tourism_growth_%"]     = merged["tourism_arrivals"].pct_change() * 100.0
+
+# Add a concrete quarter-end date for plotting/tooltips
+merged["date"] = merged["qtr"].dt.to_timestamp(how="end")
+
+# Reorder columns
+merged = merged[[
+    "qtr", "date",
+    "gdp_tourism_value", "tourism_arrivals",
+    "gdp_tourism_growth_%", "tourism_growth_%"
+]]
+
+print(merged.head(10))
+merged.to_csv(OUT_CSV, index=False)
+print(f"\nSaved: {OUT_CSV}")

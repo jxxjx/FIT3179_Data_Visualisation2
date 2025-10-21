@@ -1,0 +1,357 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Top-N Countries filtered by Super Region via dropdown, coloured by mode (Sea/Air/Land).",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Data_Visualisation2/main/tourism_flow_region_country_poe_state_year.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "background": "transparent",
+  "view": {
+    "stroke": "transparent"
+  },
+  "params": [
+    {
+      "name": "superChoice",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "Asia",
+          "Europe",
+          "Others"
+        ],
+        "name": "Super Region: "
+      }
+    },
+    {
+      "name": "TOP_N",
+      "value": 3
+    }
+  ],
+  "padding": {
+    "top": 10,
+    "left": 50,
+    "right": 0,
+    "bottom": 10
+  },
+  "width": 700,
+  "height": 200,
+  "transform": [
+    {
+      "calculate": "(test(datum.region, /Asia/) || datum.region=='ASEAN') ? 'Asia' : (datum.region=='Europe' ? 'Europe' : 'Others')",
+      "as": "super_region"
+    },
+    {
+      "filter": "superChoice == 'All' || datum.super_region == superChoice"
+    },
+    {
+      "calculate": "slice(datum.country_label, 0, 15)",
+      "as": "country_label"
+    },
+    {
+      "lookup": "poe",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Week10_Homework/main/poe.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "key": "poe",
+        "fields": [
+          "type"
+        ]
+      }
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "total_arrivals",
+          "as": "Total"
+        }
+      ],
+      "groupby": [
+        "country_label",
+        "super_region",
+        "type"
+      ]
+    },
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "Total",
+          "as": "TotalCountry"
+        }
+      ],
+      "groupby": [
+        "country_label",
+        "super_region"
+      ]
+    },
+    {
+      "window": [
+        {
+          "op": "dense_rank",
+          "as": "country_rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "TotalCountry",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.country_rank <= TOP_N"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusEnd": 4
+      
+      },
+      "encoding": {
+        "y": {
+          "field": "country_label",
+          "type": "nominal",
+          "sort": "-x",
+          "axis": {
+            "title": null,
+            "labelLimit": 150,
+            "labelAlign": "right"
+          }
+        },
+        "x": {
+          "field": "Total",
+          "type": "quantitative",
+          "axis": {
+            "title": null,
+            "format": "s"
+          },
+          "stack": "zero"
+        },
+        "color": {
+          "field": "type",
+          "type": "nominal",
+          "title": "Sea / Air / Land",
+          "scale": {
+            "domain": [
+              "Sea",
+              "Air",
+              "Land"
+            ],
+            "range": [
+              "#001A6E",
+              "#8CCDEB",
+              "#854836"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "country_label",
+            "title": "Country"
+          },
+          {
+            "field": "super_region",
+            "title": "Super Region"
+          },
+          {
+            "field": "type",
+            "title": "Sea / Air / Land"
+          },
+          {
+            "field": "Total",
+            "type": "quantitative",
+            "title": "Arrivals (this segment)",
+            "format": ","
+          },
+          {
+            "field": "TotalCountry",
+            "type": "quantitative",
+            "title": "Total Arrivals (all segments)",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.country_rank == 1"
+        },
+        {
+          "pivot": "type",
+          "value": "Total",
+          "groupby": [
+            "country_label",
+            "super_region"
+          ],
+          "op": "sum"
+        },
+        {
+          "calculate": "isValid(datum.Sea) ? datum.Sea : 0",
+          "as": "SeaV"
+        },
+        {
+          "calculate": "isValid(datum.Air) ? datum.Air : 0",
+          "as": "AirV"
+        },
+        {
+          "calculate": "isValid(datum.Land) ? datum.Land : 0",
+          "as": "LandV"
+        },
+        {
+          "calculate": "datum.SeaV + datum.AirV + datum.LandV",
+          "as": "TotalSum"
+        },
+        {
+          "calculate": "'Top Country (' + (superChoice=='All' ? 'All Regions' : superChoice) + ')'",
+          "as": "titleLine"
+        },
+        {
+          "calculate": "datum.country_label",
+          "as": "nameLine"
+        },
+        {
+          "calculate": "format(datum.TotalSum, ',') + ' arrivals (all segments)'",
+          "as": "metaLine"
+        },
+        {
+          "calculate": "'Sea ' + format(datum.SeaV / datum.TotalSum * 100, '.1f') + '% • Air ' + format(datum.AirV / datum.TotalSum * 100, '.1f') + '% • Land ' + format(datum.LandV / datum.TotalSum * 100, '.1f') + '%'",
+          "as": "pctLine"
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "rect",
+            "cornerRadius": 10,
+            "color": "white",
+            "opacity": 0.8,
+            "stroke": "#ddd"
+          },
+          "encoding": {
+            "x": {
+              "value": 360
+            },
+            "y": {
+              "value": 90
+            },
+            "x2": {
+              "value": 680
+            },
+            "y2": {
+              "value": 190
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "fontWeight": "bold",
+            "fontSize": 12
+          },
+          "encoding": {
+            "x": {
+              "value": 375
+            },
+            "y": {
+              "value": 108
+            },
+            "text": {
+              "field": "titleLine"
+            },
+            "color": {
+              "value": "#111"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "fontSize": 14,
+            "fontWeight": "bold"
+          },
+          "encoding": {
+            "x": {
+              "value": 375
+            },
+            "y": {
+              "value": 130
+            },
+            "text": {
+              "field": "nameLine"
+            },
+            "color": {
+              "value": "#131D4F"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "fontSize": 12
+          },
+          "encoding": {
+            "x": {
+              "value": 375
+            },
+            "y": {
+              "value": 150
+            },
+            "text": {
+              "field": "metaLine"
+            },
+            "color": {
+              "value": "#444"
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "fontSize": 12
+          },
+          "encoding": {
+            "x": {
+              "value": 375
+            },
+            "y": {
+              "value": 170
+            },
+            "text": {
+              "field": "pctLine"
+            },
+            "color": {
+              "value": "#444"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "background": "white",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "domain": false,
+      "grid": false
+    },
+    "labelFontSize": 10
+  }
+}

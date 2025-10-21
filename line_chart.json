@@ -1,0 +1,112 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "GDP vs Tourism growth (%) with annotations",
+  "width": 750,
+  "height": 320,
+  "background": "transparent",
+  "data": {"url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Data_Visualisation2/main/tourism_gdp_qoq.csv", "format": {"type": "csv"}},
+
+  "layer": [
+    { "mark": {"type": "rule", "stroke": "#c7c7c7", "strokeDash": [3,3]}, "encoding": {"y": {"datum": 0}} },
+
+    {
+      "mark": {"type": "rule", "stroke": "#9aa0a6", "strokeWidth": 1.5, "strokeDash": [6,6], "strokeCap": "round"},
+      "encoding": { "x": { "datum": { "year": 2022, "quarter": 2 } } }
+    },
+    {
+      "mark": { "type": "text", "fontSize": 11, "fill": "#666", "dy": -6 },
+      "encoding": {
+        "x": { "datum": { "year": 2022, "quarter": 2 } },
+        "y": { "datum": 0 },
+        "align": { "value": "center" },
+        "baseline": { "value": "bottom" }
+      }
+    },
+
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2,
+        "color": "#e63946",
+        "point": { "filled": true, "size": 60 ,"color": "#e63946"}  
+      },
+      "encoding": {
+        "x": {"field": "qtr", "type": "temporal", "axis": {"format": "%Y Q%q", "title": null}},
+        "y": {"field": "gdp_growth", "type": "quantitative", "title": "Growth (%)"},
+        "tooltip": [
+          {"field": "qtr", "type": "temporal", "title": "Quarter"},
+          {"field": "gdp_growth", "type": "quantitative", "format": ".1f", "title": "GDP growth (%)"}
+        ]
+      }
+    },
+
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2,
+        "color": "#1d3557",
+        "point": { "filled": true, "size": 60, "color": "#1d3557" }
+      },
+      "encoding": {
+        "x": {"field": "qtr", "type": "temporal"},
+        "y": {"field": "tourism_growth", "type": "quantitative"},
+        "tooltip": [
+          {"field": "qtr", "type": "temporal", "title": "Quarter"},
+          {"field": "tourism_growth", "type": "quantitative", "format": ".1f", "title": "Tourism growth (%)"}
+        ]
+      }
+    },
+
+    {
+      "data": {"values": [{}]},
+      "layer": [
+        {
+          "mark": {"type": "rect", "cornerRadius": 8, "fill": "white", "opacity": 0.96, "stroke": "#e5e5e5"},
+          "encoding": {"x": {"value": 80}, "y": {"value": 240}, "x2": {"value": 215}, "y2": {"value": 290}}
+        },
+        {
+          "mark": {"type": "text", "fontWeight": "bold", "fontSize": 12, "fill": "#ce0101", "align": "left"},
+          "encoding": {"x": {"value": 95}, "y": {"value": 255}, "text": {"value": "GDP"}}
+        },
+        {
+          "mark": {"type": "text", "fontSize": 12, "fill": "#444", "align": "left"},
+          "encoding": {"x": {"value": 95}, "y": {"value": 270}, "text": {"value": "fell sharply in 2020"}}
+        },
+        {
+          "mark": {"type": "rule", "stroke": "#bdbdbd", "strokeWidth": 1.5},
+          "encoding": { "x": {"value": 315}, "y": {"value": 145}, "x2": {"datum": "2021-09-01"}, "y2": {"datum": -5} }
+        }
+      ]
+    },
+
+    {
+      "data": {"values": [{}]},
+      "layer": [
+        {
+          "mark": {"type": "rect", "cornerRadius": 8, "fill": "white", "opacity": 0.96, "stroke": "#e5e5e5"},
+          "encoding": {"x": {"value": 450}, "y": {"value": 40}, "x2": {"value": 580}, "y2": {"value": 115}}
+        },
+        {
+          "mark": {"type": "text", "fontWeight": "bold", "fontSize": 12, "fill": "#1d3557", "align": "left"},
+          "encoding": {"x": {"value": 465}, "y": {"value": 58}, "text": {"value": "Tourism"}}
+        },
+        {
+          "mark": {"type": "text", "fontSize": 12, "fill": "#444", "align": "left"},
+          "encoding": {"x": {"value": 465}, "y": {"value": 78}, "text": {"value": "recovered sharply"}}
+        },
+        {
+          "mark": {"type": "text", "fontSize": 12, "fill": "#444", "align": "left"},
+          "encoding": {"x": {"value": 465}, "y": {"value": 96}, "text": {"value": "in 2022 Q2"}}
+        },
+        {
+          "mark": {"type": "rule", "stroke": "#bdbdbd", "strokeWidth": 1.5},
+          "encoding": { "x": {"value": 420}, "y": {"value": 115}, "x2": {"datum": "2022-07-01"}, "y2": {"datum": 78} }
+        }
+      ]
+    }
+  ],
+
+  "config": {
+    "axis": { "labelFontSize": 12, "titleFontSize": 12, "grid": false, "tickCount": 8 }
+  }
+}

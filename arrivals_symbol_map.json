@@ -16,8 +16,9 @@
     }
   ],
 
-  "width": 700,
+  "width": 650,
   "height": 300,
+  "padding": {"left": 50, "right": 0, "top": 0, "bottom": 0},
   "projection": {"type": "mercator"},
   "view": {"fill": null, "stroke": "transparent"},
 
@@ -25,9 +26,16 @@
     {
       "data": {
         "url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Week9_Homework/main/output.json",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_1"}
+      },
+      "mark": {"type": "geoshape", "stroke": "#c6d2e7", "strokeWidth": 0.5, "fill": null}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Week9_Homework/main/output.json",
         "format": {"type": "topojson", "feature": "my"}
       },
-      "mark": {"type": "geoshape", "fill": "#f8f5dd", "stroke": "#8b7d6f", "strokeWidth": 1}
+      "mark": {"type": "geoshape", "fill": "#bbbbbb", "stroke": "#6e6e6e", "strokeWidth": 1}
     },
     {
       "data": {
@@ -56,7 +64,7 @@
         },
         {"filter": "isValid(datum.lat) && isValid(datum.long)"}
       ],
-      "mark": {"type": "circle", "opacity": 0.9, "stroke": "white", "strokeWidth": 0.6},
+      "mark": {"type": "circle", "opacity": 0.6, "stroke": "white", "strokeWidth": 0.6},
       "encoding": {
         "longitude": {"field": "long", "type": "quantitative"},
         "latitude": {"field": "lat", "type": "quantitative"},
@@ -65,7 +73,7 @@
           "type": "quantitative",
           "title": "Arrivals",
           "scale": {"type": "sqrt", "range": [30, 1200]},
-          "legend": {"orient": "bottom", "direction": "horizontal"}
+          "legend": {"orient": "right", "direction": "vertical"}
         },
         "color": {
           "field": "type",
@@ -73,9 +81,9 @@
           "title": "POE Type",
           "scale": {
             "domain": ["Air", "Sea", "Land"],
-            "range": ["#8CCDEB", "#131D4F", "#541212"]
+            "range": ["#8CCDEB", "#001A6E", "#854836"]
           },
-          "legend": {"orient": "bottom", "direction": "horizontal", "columns": 3}
+          "legend": {"orient": "right", "direction": "vertical", "columns": 1}
         },
         "tooltip": [
           {"field": "poe", "title": "Point of Entry"},
@@ -84,6 +92,53 @@
           {"field": "arrivals_total", "type": "quantitative", "title": "Total Arrivals", "format": ","}
         ]
       }
+    },
+
+{
+  "data": {"values": [{}]},
+  "transform": [
+    {
+      "calculate": "Year <= 2021 ? ['Foreign arrivals collapsed under MCO border ','closures (Mar 18, 2020) and global travel shutdowns.'] : ['Borders reopened ', 'arrivals gradually recovering from 2022 onward.']",
+      "as": "ann_lines"
     }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "fill": "#ffffffee",
+        "stroke": "#ddd",
+        "strokeWidth": 1,
+        "cornerRadius": 6
+      },
+      "encoding": {
+        "x": {"value": 150},
+        "y": {"value": 50},
+        "x2": {"value": 500},
+        "y2": {"value": 100}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "top",
+        "dx": 10,
+        "dy": 10,
+        "fontSize": 13,
+        "lineHeight": 17,
+        "fill": "#1a1a1a"
+      },
+      "encoding": {
+        "x": {"value": 150},
+        "y": {"value": 50},
+        "text": {"field": "ann_lines"}
+      }
+    }
+  ]
+}
+
+
+
   ]
 }

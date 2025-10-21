@@ -2,17 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "transparent",
   "width": 300, "height": 300,
+  "padding": {"left": 10, "right": 10, "top": 10, "bottom": 0},
 
   "data": {
-    "url": "foreign_arrivals.csv",
-    "format": {
-      "type": "csv",
-      "parse": {
-        "date": "date",
-        "arrivals_male": "number",
-        "arrivals_female": "number"
-      }
-    }
+    "url": "https://raw.githubusercontent.com/jxxjx/FIT3179_Data_Visualisation2/main/foreign_arrivals.csv",
+    "format": {"type": "csv","parse": {"date": "date","arrivals_male": "number","arrivals_female": "number"}}
   },
 
   "params": [
@@ -22,9 +16,8 @@
       "value": 2020
     },
     {
-      "name": "selectCountry",
-      "bind": {"input": "select", "name": "Country: ",
-        "options": ["All","AFG","MYS","SGP","THA","IDN","CHN","BRN"]},
+      "name": "selectSuper",
+      "bind": {"input": "select", "name": "Super Region: ", "options": ["All","Asia","Europe","Others"]},
       "value": "All"
     }
   ],
@@ -32,43 +25,67 @@
   "transform": [
     {"calculate": "year(toDate(datum.date))", "as": "yr"},
     {"filter": "datum.yr == selectYear"},
-    {"filter": "selectCountry == 'All' || datum.country == selectCountry"},
+    {
+      "calculate": "test(datum.country, /^(SGP|THA|IDN|CHN|BRN|AFG|MYS|PHL|VNM|KHM|LAO|MMR|JPN|KOR)$/) ? 'Asia' : (test(datum.country, /^(GBR|FRA|DEU|ITA|ESP|NLD|SWE|NOR|DNK)$/) ? 'Europe' : 'Others')",
+      "as": "super_region"
+    },
+    {"filter": "selectSuper == 'All' || datum.super_region == selectSuper"},
 
     {"fold": ["arrivals_male","arrivals_female"], "as": ["gender_key","count"]},
     {"aggregate": [{"op":"sum","field":"count","as":"total"}], "groupby": ["gender_key"]},
     {"filter": "isValid(datum.total) && datum.total > 0"},
     {"calculate": "datum.gender_key == 'arrivals_male' ? 'Male' : 'Female'", "as": "Gender"},
 
-
     {"joinaggregate": [{"op":"sum","field":"total","as":"grand_total"}]},
-
     {"calculate": "round(datum.total / datum.grand_total * 100, 1)", "as": "pct"},
     {"calculate": "format(datum.pct, '.1f') + '%'", "as": "pct_label"}
   ],
 
   "layer": [
     {
-      "mark": {"type": "arc", "innerRadius": 90, "stroke": "#fff", "strokeWidth": 2},
+      "mark": {"type": "arc", "innerRadius": 90, "outerRadius": 140, "stroke": "#fff", "strokeWidth": 2},
       "encoding": {
         "theta": {"field": "total", "type": "quantitative"},
         "color": {
           "field": "Gender",
           "type": "nominal",
-          "scale": {"range": ["#2B6CB0","#E53E3E"]},
+          "scale": {"range": ["#B8001F","#074799"]},
           "legend": {"title": "Gender", "orient": "bottom", "direction": "horizontal"}
         },
         "tooltip": [
           {"field": "Gender"},
           {"field": "total", "title": "Arrivals", "format": ","},
-          {"field": "pct", "title": "Percentage (%)", "format": ".1f"}
+          {"field": "pct", "title": "Percentage (%)", "format": ".1f"},
+          {"field": "super_region", "title": "Super Region"}
         ]
+      }
+    },
+
+    {
+      "transform": [
+        {"pivot": "Gender", "value": "pct", "groupby": []},
+        {"calculate": "format(datum.Male, '.1f') + '%'", "as": "male_pct"},
+        {"calculate": "format(datum.Female, '.1f') + '%'", "as": "female_pct"},
+        {"calculate": "'Male ' + datum.male_pct + ' • Female ' + datum.female_pct", "as": "center_label"}
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "align": "center",
+        "baseline": "middle",
+        "fill": "#000"
+      },
+      "encoding": {
+        "x": {"expr": "width/2"},
+        "y": {"expr": "height/2"},
+        "text": {"field": "center_label"}
       }
     }
   ],
 
   "view": {"stroke": "transparent"},
   "config": {
-    "legend": {"titleFontSize": 14, "labelFontSize": 12,"orient":"right" } 
+    "legend": {"titleFontSize": 14, "labelFontSize": 12, "orient": "right"}
   }
-
 }

@@ -65,7 +65,7 @@
           "field": "type",
           "type": "nominal",
           "title": "Mode",
-          "scale": {"domain": ["Air", "Sea", "Land"], "range": ["#8CCDEB", "#131D4F", "#541212"]},
+          "scale": {"domain": ["Air", "Sea", "Land"], "range": ["#8CCDEB", "#001A6E", "#854836"]},
           "legend": null
         },
         "tooltip": [
